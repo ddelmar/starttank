@@ -129,6 +129,8 @@ GiveShop is a fundraising platform that allows users to shop at their favorite p
 						<p>
 Bare Tree Media creates branded digital entertainment solutions to drive consumer engagement and commerce through mobile and online platforms.
 						</p>
+					
+					<iframe width="640" height="360" src="//www.youtube.com/embed/WbFX9QU_KKI?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
 					</div><!-- /baretreemedia -->
 			</article>
 		<article>
