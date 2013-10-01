@@ -1,0 +1,413 @@
+h1 {
+	font-size:3.7em;
+	margin: 1em 0;
+}
+
+h2 { font-size: 1.75em; font-weight: 100; }
+
+h3 { font-size: 1.3em; font-weight: 100; }
+
+p, ul, ol  { font-size: 1.4em; }
+
+.navChild {
+	width: 90%;
+}
+
+img.logo {
+	width: 45px;
+	float: left;
+	padding: 14px 0 0 0;
+}
+
+._page {
+	background-image: url("../i/diamond_upholstery.png");
+	background-position: center top;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-size: 100px;
+}
+
+#contactform {
+	top: 71px;
+	padding: 12px 0 0 10px;
+}
+
+.navChild ul {
+	width: 60%;
+}
+
+.navChild ul li {
+	
+}
+
+.navChild ul li a { 
+	width:150px;
+	font-size: 12px;
+	height: 70px;
+    line-height: 72px;
+	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/navBorder.png);
+	}
+
+.navHome h3 { padding: 0 30px; }
+
+.navHome li {
+	width:256px;
+	height: 430px;
+}
+
+.navHome li a {
+	height:100%;
+	font-size: 1em;
+	
+}
+
+.navHome li a:hover { background-position: 50% 50%; }
+.navHome li a.selected { background-position: 50% 100%; }
+.navHome li a#where { background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/desktop/navHome_pin.png); }
+.navHome li a#how { background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/desktop/navHome_gears.png); }
+.navHome li a#capabilities { background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/desktop/navHome_package.png); }
+.navHome li a#commerce { background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/desktop/navHome_shoppingcart.png); }
+
+.navHome, .contentHome {
+	opacity:0;
+}
+
+.header_dots {
+	position:absolute;
+	top:40px;
+	width:100%;
+	height:375px;
+	background: transparent url(http://where-spotlight.s3.amazonaws.com/start-tank/dots.png) center top repeat;
+}
+
+.about_dots {
+	position: absolute;
+	top: 1200px;
+	width: 100%;
+	height: 400px;
+	background: transparent url(http://where-spotlight.s3.amazonaws.com/start-tank/dots.png) center top repeat;
+}
+
+.header {
+	margin-top: 40px;
+	
+}
+
+.header ul {
+}
+
+.header ul li {
+	height:375px;
+	width:100%;
+	display: none;
+	background-color: #98c3c6;
+	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/header.png);
+	background-repeat: no-repeat;
+}
+
+.header ul li.header_home {
+	display:block;
+	background-position: 50% 0%;
+}
+
+.header ul li.header_where { background-position: 50% 25%;}
+.header ul li.header_how { background-position: 50% 50%; }
+.header ul li.header_commerce { background-position: 50% 75%; }
+
+.header ul li h1 {
+	font-size:3.7em;
+	position:absolute;
+	top:325px;
+	left:50%;
+	margin-left: -500px;
+}
+
+.contentChild {
+	width:1028px;
+	}
+
+.contentParent { width:100%; }
+
+.contentHome {
+	height:400px;
+}
+
+.contentHome li img {
+	float:left;
+	width:92px;
+	margin: 10px 100px 0 50px;
+}
+
+.contentHome li p {
+	float:left;
+	width: 710px;
+	margin:0;
+	}
+
+#contactform form {
+	width: 1000px;
+}
+	
+#contactform textarea {
+	width:170px;
+	}
+	
+#logo {
+	width:300px;
+	height:340px;
+	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/RiseUp/bubbles_blue.png);
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-size: 60% auto;
+	background-position: center top;
+	display:block;
+	overflow:hidden;
+	text-indent:-999;
+	position: absolute;
+	top: 430px;
+	left:50%;
+	margin: 0 0 0 -150px;
+	font-size:0em;
+	line-height:0;
+}
+
+.about #about1 p {
+	font-size:1.3em;
+	width: 500px;
+	position: absolute;
+	left: 2%;
+	top: 110px;
+	z-index:1;
+	color:#999;
+}
+
+.about #about1_bg {
+	width: 600px;
+	height: 200px;
+	position: absolute;
+	left: 0;
+	background: #000;
+	opacity: .6;
+	top: 90px;
+}
+
+.about .navAbout {
+	width:1000px;	/* TEAM MEMBERS (5) TIMES 170px*/
+	position: absolute;
+	margin: 0 0 0 -500px;
+	left:50%;
+	}
+
+#about1 {
+	height: 700px;
+	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/reception.jpg) ;
+	}
+
+#about2, #about4{
+	background: #f7f7f7; 
+	background-size: 100% auto ; 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: white; 
+	height: 500px;
+}
+
+#about3{
+	height: 400px;
+	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/jeancharles.jpg) ;
+	background-color: #0093c2;
+	}
+	
+#about5 {
+	background:#007da5;
+	height:200px;
+}
+
+#about5 h1, #about5 h1 a {
+	color:white;
+	margin:1.5em 0 0 0;
+}
+
+#about5 h2 {
+	margin:3.8em 0 0 0;
+	color: #fff;
+	/*
+	font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,sans-serif;
+	*/
+}
+
+#about6 {
+	height: 800px;
+	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/kitchen.jpg);
+	background-size: 100%;
+	background-repeat:no-repeat;
+	background-position: 0% 100%;
+	position: fixed;
+	top: 220px;
+	width: 100%;
+	z-index: -1;
+}
+
+#contact h2 {
+	background: #efefef;
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#efefef));
+	background-image: -moz-linear-gradient(0% 100% 90deg, #fff, #efefef);
+	background-image: -o-linear-gradient(90deg, #fff, #efefef);
+	display: block;
+	float: left;
+	padding: 22px;
+	border-radius: 52px;
+	box-shadow: 1px 1px 10px rgba(0,0,0,.3);
+	position: absolute;
+	left: 50%;
+	margin: 200px 0 0 -100px;
+	width: 200px;
+	border: 2px solid white;
+	font-size:2.4em;
+}
+
+.aboutSubContainerL {
+	text-align:left;
+	width: 25%;
+	height: 500px;
+	float: left;
+/*	background: #0093c2; */
+}
+
+.spock {
+	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/spock.jpg);
+	background-repeat:no-repeat;
+}
+
+.logo_square {
+	background-image: url("http://where-spotlight.s3.amazonaws.com/start-tank/starttank.svg");
+	background-position: center center;
+	background-size: 75% auto;
+	background-repeat:no-repeat;
+	background-color: #0093c2;
+	/* background-color: #EE303B;		RED */
+	/* background-color: #F7F5C0;			BANANA */
+}
+
+.tables {
+	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/tables.jpg);
+	background-repeat:no-repeat;
+}
+
+.aboutSubContainerR {
+	text-align:left;
+	width: 70%;
+	float: left;
+	padding: 0 0 0 2em;
+}
+
+body.about_page,
+body.thanks_page {
+	background-repeat: no-repeat;
+	background-size:40% auto;
+}
+
+body.about_page.about1,
+body.thanks_page.about1 {background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/about-img01.png);}
+body.about_page.about2,
+body.thanks_page.about2 {background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/about-img02.png);}
+body.about_page.about3,
+body.thanks_page.about3 {background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/about-img03.png);}
+body.about_page.about4,
+body.thanks_page.about4 {background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/about-img04.png);}
+
+.faqSubContainerL {
+	text-align:left;
+	width: 50%;
+	height: 200px;
+	float: right;
+}
+
+.faqSubContainerR {
+	text-align:left;
+	width: 46%;
+	height: 200px;
+	float: right;
+	padding: 0 0 0 2em;
+	background: #0093c2;
+}
+
+.contentAbout {
+	width:100%;
+	position: relative;
+	top: 280px;
+}
+
+.contentAbout li h2 {
+	width:40%;
+	float:left;
+	text-align:left;
+}
+
+.about .contentAbout li p {
+	width:59%;
+	float:left;
+	text-align:left;
+}
+
+.content-entry {
+	width:1000px;
+	margin: 110px auto 0 auto;
+}
+
+.faq {
+	float:left;
+	margin: 100px 5% 0 40%;
+	width: 50%;
+	padding: 0 0 0 40px;
+}
+
+#faqContent {
+	background:none;
+}
+
+.footer, .footer_blank {
+	padding: 12px 0 0 0;
+}
+
+.footer.home {
+	position: absolute;
+	top:2800px;
+}
+
+.footer_blank {background:none;}
+
+/*************
+COMMUNITY
+*************/
+
+.community ul { width:50%; }
+
+.community .startups,
+.community .mentors { margin: 0 auto; }
+
+.community .startup_writeup, .community .mentor_writeup { width: 40%; padding: 20px 0 0 30px;}
+
+.community iframe {
+	width:640px;
+	height:363px;
+	margin: 12px 0;
+}
+
+.apply_left {
+	margin: 100px auto 0 auto;
+	padding: 0 0 0 40px;
+	text-align:left;
+	float: left;
+	width:50%;
+}
+
+.apply_right {
+	text-align: left;
+	width: 44%;
+	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/about-img04.png);
+	height: 100%;
+	position: fixed;
+	right: 0;
+}
+

@@ -1,0 +1,253 @@
+body {}
+	
+h1 {
+	font-size:2.2em;
+	padding: 2% 0 2% 0;
+	}
+
+.header_dots {
+	position:absolute;
+	top:70px;
+	width:100%;
+	height:105px;
+	background: transparent url(http://where-spotlight.s3.amazonaws.com/start-tank/dots.png) center top repeat;
+}
+
+.header ul li {
+	display:none;
+	background: #98c3c6;
+}
+
+.header ul li h1 {
+    color: #EDEDED;
+    font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 2.2em;
+    font-weight: 100;
+    text-shadow: 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.header ul li.header_where { background: #98c6d6; }
+.header ul li.header_how { background: #98d3c0; }
+.header ul li.header_commerce { background: #98dbd4; }
+
+.header .header_home {
+	display:block;
+}
+
+.header h1 {
+	margin: 70px 0 0 0;
+	padding:30px;
+	color: #0079c1;
+	font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 100;
+}
+
+.header .header_home {
+	display:block;
+}
+
+.navParent {
+	margin: 0px auto;
+	text-align: center;
+}
+
+.navChild {
+	width: 100%;
+}
+
+img.logo {
+	width: 40px;
+	margin: 12px auto;
+}
+
+.navChild ul {
+	width: 100%;
+	background: #0093c2;
+}
+
+.navChild ul li a { 
+	width:30%;
+	font-size:.9em;
+	color:white;
+    line-height: 52px;
+	-webkit-text-size-adjust:none;
+}
+
+.contentparent {
+	padding:2%;
+	width: 96%;
+}
+
+ul.navHome {
+	border-radius: 8px;
+	box-shadow: inset 1px 1px 4px 0px #ccc;
+	background: #f1f1f1;
+	padding: 8px 0 0 0;
+	width:100%;
+}
+.navHome li {
+	width:25%;
+	height:118px;
+	font-size: .5em;
+	-webkit-text-size-adjust:none;
+	float:left;
+}
+
+.navHome h2 {
+    margin: 65px auto 190px;
+}
+
+.navHome li a { 		background-position: center top; }
+.navHome li a#where { 	background-size: 50% auto; background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/iconblue_pin.png); }
+.navHome li a#how { 	background-size: 50% auto; background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/iconblue_gears.png); }
+.navHome li a#capabilities { background-size: 50% auto; background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/iconblue_package.png); }
+.navHome li a#commerce { background-size: 50% auto; background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/iconblue_shoppingcart.png); }
+
+h2 {
+    color: #0079C1;
+    font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 100;
+}
+
+.navHome h3 {display:none;}
+
+#contactform {
+	width:100%;
+	font-size:9px;
+	padding-top:12px;
+	top:110px;
+}
+
+#contactform input {
+	width:86%;
+	clear:both;
+}
+
+.contentHome {
+	text-align:center;
+}
+
+.contentHome li img {
+	width:20%;
+	margin: 5% auto;
+	clear:both;
+}
+.contentHome li p {
+	width: 90%;
+	margin:5%;
+	text-align:left;
+	}
+
+/* 
+************
+ABOUT
+************
+*/
+
+.about {
+	padding-top: 110px;
+}
+	
+.about #about1 p {
+	padding: 5%;
+	font-size: .9em;
+	color: white;
+	text-align:justify;
+	text-shadow:1px 2px rgba(0,0,0,.3);
+}
+
+.aboutSubContainerR {
+	text-align: left;
+	padding: 12px;
+}
+
+.contentAbout {
+	display:block;
+	float:left;
+	padding:1em 0;
+}
+
+.contentAbout li h2 {
+	width:100%;
+	padding: 1em auto .5em auto;
+	text-align:center;
+}
+
+.about .contentAbout li p {
+	width:90%;
+	margin:5%;
+	text-align:left;
+}
+
+#about1{
+	background-image: url(http://10.224.152.14/i/kennedy_m.jpg) ;
+	}
+
+.content-entry {
+	width:90%;
+	margin:5%;
+	margin: 25% auto;
+}
+
+.faq {
+	margin: 130px 5% 0;
+	width: 89%;
+}
+
+#faqContent {
+	display:none;
+}
+
+h1 a {
+	width: 100%;
+	background: #777;
+	font-size: 24px;
+	padding: .5em 0;
+	display:block;
+	color: white;
+}
+
+/*
+*************
+COMMUNITY
+*************
+*/
+
+.community ul {
+	width:100%;
+}
+
+.startups, .mentors {margin-top:70px;}
+
+.community .startup_writeup, .community .mentor_writeup {
+	padding: 0 1%;
+    width: 98%;
+}
+
+#s_detail, #m_detail {
+	float: left;
+	width:100%;
+	height:1px;
+	margin-top:-110px;
+	margin-bottom:110px;
+	background: transparent;
+}
+
+.community iframe {
+	width:100%;
+	height:180px;
+	margin: 12px 0;
+	background: transparent;
+}
+
+/*
+*************
+APPLY
+*************
+*/
+
+.apply_left {
+	text-align:left;
+    margin: 130px 5% 0;
+    width: 89%;
+}

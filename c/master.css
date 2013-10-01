@@ -1,0 +1,610 @@
+@import url("mobile.css") (max-width: 767px);
+
+@import url("tablet.css") (min-width: 768px) and (max-width: 1025px);
+
+@import url("desktop.css") (min-width: 1026px);
+
+/* #General styles
+================================================== */
+
+@font-face {    
+	/*
+	font-family: "Helvetica Neue Light";    
+    src: url(http://delmarsenties.com/f/helveticaneueltcomlt.ttf); 
+    src: local("Helvetica Neue Light"), url("http://delmarsenties.com/f/helveticaneueltcomlt.ttf") format("TrueType");
+*/
+    font-family: "Helvetica Neue Light";    
+    src: url(../f/HelveticaNeueLTCom-Lt.ttf); 
+    src: local("Helvetica Neue Light"), url("../f/HelveticaNeueLTCom-Lt.ttf") format("TrueType"); 
+}
+@font-face {    
+    font-family: "Helvetica Neue Heavy";    
+    src: url(../f/HelveticaNeueLTCom-Hv.ttf); 
+    src: local("Helvetica Neue Heavy"), url("../f/HelveticaNeueLTCom-Hv.ttf") format("TrueType"); /* non-IE */    
+}
+
+@-webkit-keyframes fadeIn1 {
+	0% {opacity:0;} 
+	100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn1 {
+	0% {opacity:0;} 
+	100% {opacity:1;}
+}
+
+@-moz-document url-prefix() {
+}
+
+* {
+	margin:0;
+	padding:0;
+}
+body {
+	font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,sans-serif;
+	text-align: center;
+	margin:0 auto;
+	background: #f7f7f7;
+	font-size: 81.25%;
+}
+
+img {border:none;}
+
+a { text-decoration:none; color:#666; }
+
+a:hover { text-decoration:none; color:#0093c2; }
+
+div {background: #f7f7f7;}
+
+.blue {color:#0093c2;}
+
+h1 {
+	font-family: "HelveticaNeue-Ultralight","Helvetica Neue Ultralight","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 100;
+	margin: 1em 0;
+	color: #777;
+	/*
+	text-shadow: 1px 2px rgba(0,0,0,.6); */
+}
+
+h2 {
+	color: #87959f;
+	font-family: "HelveticaNeue-Ultralight","Helvetica Neue Ultralight","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 100;
+	margin: 1em 0;
+}
+
+h3 {
+	color: #929191;
+	font-family: "HelveticaNeue-Ultralight","Helvetica Neue Ultralight","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 100;
+}
+
+ul, li {
+	list-style-type: none;
+}
+
+ol li {
+	list-style-type: decimal;
+	margin: 0 0 0 40px;
+}
+
+.clr {
+	clear:both;
+	width:100%;
+	height:1px;
+	background:none;
+}
+
+p, ul, ol  {
+	line-height:1.5em;
+	color:#919191;
+}
+
+p {
+	margin: 0 0 12px 0;
+}
+
+br { margin:1em 0 0 0; }
+
+
+.visible { 
+	/*
+	-webkit-animation: fadeIn1 1s ease-in-out 1;
+	-moz-animation: fadeIn1 1s ease-in-out 1;
+*/
+	display:block;
+	}
+
+.invisible { display:none; }
+
+
+.navParent {
+	position:fixed;
+	z-index:99;
+	display:block;
+	top:0;
+	padding: 0;
+	width:100%;
+	border-bottom: 1px solid white;
+	box-shadow: 0px 0px 3px 3px rgba(0,0,0,.1);
+	background-color: whiteSmoke;
+	color: #666;
+}
+
+.navChild {
+	text-align: center;
+	margin: 0 auto;
+}
+
+img.logo {
+	height:auto;
+}
+
+.navChild ul {
+	float: right;
+}
+
+.navChild ul li {
+	
+}
+
+.navChild ul li a { 
+	font-family: helvetica;
+	/* font-family: "HelveticaNeue-Ultralight","Helvetica Neue Ultralight","Helvetica Neue",Helvetica,Arial,sans-serif;  
+		text-shadow: 0 1px 1px white;  */
+	float: right;
+	text-align: center;
+	background-position: right top;
+	background-repeat: no-repeat;
+	}
+
+.navChild ul li.contact a { 
+	background-image: none;
+	}
+
+.navHome,
+.navAbout {
+	float:left;
+	text-align:center;
+}
+
+.navHome li,
+.navAbout li {
+	display:block;
+	float:left;
+}
+.navHome li a,
+.navAbout li a {
+	width:100%;
+	height:100%;
+	display:block;
+	overflow:hidden;
+	background-repeat:no-repeat;
+	background-size: 100% auto;
+}
+
+.navHome li#clr,
+.navAbout li#clr { height:4px; float: none; clear:both; }
+.navHome h2,
+.navAbout h2 { margin:65px auto 190px auto; }
+.navHome h3,
+.navAbout h3 { text-align: left; }
+
+.header ul li h1,
+.about h1 {
+	font-family: "HelveticaNeue-Ultralight","Helvetica Neue Ultralight","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 100;
+	color:#777;
+	/*
+	text-shadow:1px 2px rgba(0,0,0,.3);
+	*/
+}
+
+#contactform {
+	display:none;
+	background:#fff;
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#efefef',GradientType=0 ); /* IE6-9 */
+	position:fixed;
+	z-index:99;
+	width:100%;
+	box-shadow: 1px 5px 5px 0px rgba(0,0,0,.2);
+}
+
+#contactform input {
+	padding: 6px 0 6px 12px;
+	margin: 0 12px 10px 0;
+	line-height: 1em;
+	height: 40px; /* declared because it's weird in firefox */
+					/* width is declared per device */
+	background-color: #f6f4f4;
+	border:none;
+	-webkit-rtl-ordering: logical;
+	-webkit-user-select: text;
+	-webkit-appearance: textfield;
+	-moz-appearance: textfield;
+	cursor: auto;
+	box-shadow: inset 1px 1px 4px 0px #ccc;
+	overflow: auto;
+	color:#999;
+	float: left;
+}
+
+#contactform input.submit {
+	background:none;
+	border:0;
+	cursor:pointer;
+	float: left;
+	margin: 0;
+	box-shadow:none;
+}
+
+#contactform form {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.x {
+	position: absolute;
+	z-index:100;
+	top:20px;
+	right:16px;
+	width:20px;
+	height:20px;
+	display:block;
+	overflow:hidden;
+	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/x.png);
+	background-color: transparent;
+	background-size:100% auto;
+	background-repeat:no-repeat;
+	background-position: center top;
+	cursor:pointer;
+}
+
+#contactform p {
+	float: right;
+	margin: 1.4em 60px 2em 0;
+}
+
+.footer {
+	text-align:center;
+	font-size: .8em;
+	margin: 20px auto 0 auto;
+	width:100%;
+	display:block;
+	float:left;
+}
+
+.footer a { color:#0093c2; }
+.footer a:hover { color: #0093c2; }
+
+/*
+**********
+HOME
+*********
+*/
+
+/* Without this style rule, a browser rendering a URL with a hashtag
+	will do the default action: scrolling to an "anchor," which is the link ID. */
+div#where, div#how, div#commerce {width:1px; height:1px; position:absolute; top:0;}
+
+.contentParent {
+	border-top: 5px solid #fff;
+	float:left;
+	text-align:center;
+	margin:0 auto;
+	box-shadow: 0px -5px 5px 0px rgba(0,0,0,.05);
+}
+
+.contentChild {
+	text-align:left;
+	margin: 0 auto;
+	display:block;
+	}
+
+.contentHome {
+	float:left;
+}
+
+.contentHome li {
+	margin: 10px 0 0 0;
+	display:none;
+	float:left;
+}
+
+.contentHome li#content_where {
+	display:block;
+}
+
+.contentHome div.clr {
+	display:block;
+}
+
+.contentHome li.clr {
+	margin: 0;
+	display:block;
+	clear:both;
+	width:100%;
+	height:1px;
+}
+.contentHome li img {
+	padding:0;
+}
+
+.contentHome li p {
+	display:block;
+}
+
+.contentHome li p.clr {
+	float:left;
+	clear:both;
+	height:1px;
+	width:100%;
+	margin:0;
+	padding:0;
+}
+
+#img_preload img {
+	display:none;
+}
+
+/*
+**********
+ABOUT
+*********
+*/
+.navAbout {
+	width:100%;
+}
+
+.navAbout li {  
+	cursor:pointer;
+	width:20%;				/* TEAM MEMBERS (5) */
+	border-bottom: 5px solid #f3f3f3;
+}
+
+.navAbout li.selected {
+	border-bottom: 4px solid #87e5e7;
+}
+.navAbout img {
+	cursor: pointer;
+	width:100%;
+}
+
+#about1{
+	background-size: 100% auto ; 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: white;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+#about3{
+	background-size: 100% auto ; 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: white;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+.contentAbout li {
+	display:none;
+}
+
+.contentAbout li#about_team {
+	display:block;
+}
+
+.about #about1 p {
+	text-align:justify;
+	text-shadow:1px 2px rgba(0,0,0,.3);
+}
+
+/*
+**********
+OTHER PAGES
+*********
+*/
+
+.content-entry {
+	text-align: center;
+}
+
+.content-entry p {
+	text-align:left;
+}
+
+/*
+**********
+COMMUNITY
+*********
+*/
+
+.community h1 span {
+	display: block;
+	float: left;
+	padding-right: 20px;
+	color: #0093c2;
+}
+
+.community h1 a.external, 
+.community h1 a.external:hover {
+	width: 40px;
+	height: 40px;
+	display: block;
+	float: left;
+	overflow: hidden;
+	text-indent:-999;
+	margin: 8px 0 0 8px;
+	background: transparent url(http://where-spotlight.s3.amazonaws.com/start-tank/arrow.png) right center no-repeat ;
+}
+
+.community h1 a.video, 
+.community h1 a.video:hover {
+	width: 40px;
+	height: 40px;
+	display: block;
+	float: left;
+	overflow: hidden;
+	text-indent:-999;
+	margin: 8px 0 0 8px;
+	background: transparent url(http://where-spotlight.s3.amazonaws.com/start-tank/arrow_video.png) right center no-repeat ;
+}
+
+.community .startups,
+.community .mentors {
+	width:100%;
+	float: left;
+}
+
+.community .startups {
+	padding:74px 0 0 0;
+}
+
+.community .mentors {
+}
+
+.community .mentors, 
+.community .mentor_writeup {
+	background:#0093c2;
+}
+
+.community .mentors p,
+.community .mentors li,
+.community .mentors h1,
+.community .mentors h1 span {color: white;}
+.community .mentors li a { background: #ededed;}
+
+.startups img,
+.mentors img {
+	opacity:0;
+}
+
+/* mobile 
+.community li {
+	width:25%;
+}
+*/
+
+/* desktop */
+
+
+.community ul {
+	/* width:836px; */
+	float: left;
+}
+
+.community li {
+	line-height:0em;
+}
+
+.community li a,
+.community li a.unselected {
+	float:left;
+	display:block;
+	width:24%;
+	margin: 0 auto;
+	border:1px solid transparent;
+}
+
+.community li a img {
+	width: 100%;
+}
+
+.community .startups li a:hover,
+.community .startups li a.selected {
+	border:1px solid #999;
+}
+
+.community .mentors li a,
+.community .mentors li a.unselected {
+	opacity:.3;
+}
+
+.community .mentors li a:hover,
+.community .mentors li a.selected {
+	opacity:1;
+}
+
+.community .startups {
+	background: transparent url(http://where-spotlight.s3.amazonaws.com/start-tank/dots.png) center top repeat ;
+}
+
+.community .startup_writeup,
+.community .mentor_writeup {
+	/* background: #b0e2ff; */
+	float: left;
+	text-align: left;
+}
+
+.startup_hiddenCopy,
+.mentor_hiddenCopy {
+	display:none;
+}
+
+.startup_writeup a {
+	color: #0093c2;
+}
+
+.mentor_writeup a {
+	border-bottom: 1px dashed white;
+	color: white;
+}
+
+.role {
+	color: #0093c2;
+	background: white;
+	padding: 0 5px;
+}
+
+/*
+**********
+FAQ
+*********
+*/
+
+.faq {
+	text-align:left;
+}
+
+.faq h2 {
+	font-family: "HelveticaNeue-Ultralight","Helvetica Neue Ultralight","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 100;
+	color: #777;
+}
+
+/*
+***********
+APPLICATION
+***********
+*/
+.apply_page textarea, 
+.apply_page input { padding:12px; }
+
+.apply_page input {
+}
+
+.ss-q-long { width: 100%; }
+.ss-q-short { width: 240px; }
+
+.apply_page form {column-count: 2; }
+
+.ss-form-entry { margin-top:12px; }
+
+#ss-submit {
+	float: right;
+	margin: 2px 0 0 0;
+	padding: 8px 16px;
+	border-radius: 8px;
+	border: none;
+	background: white;
+	color: #5e5e5e;
+	font-size: .9em;
+	cursor: pointer;
+	box-shadow: inset 1px 1px 1px rgba(0,0,0,0.7);
+}
+
