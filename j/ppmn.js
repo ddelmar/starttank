@@ -33,6 +33,38 @@ $("#contactform input").focus(function(){
 	this.value=''; this.onfocus=null;
 });
 
+//----------- if Press pg ----------//
+if(window.location.pathname == '/press/'){
+$.ajax({
+  
+    url: 'https://api.angel.co/1/press?startup_id=186124',
+    dataType : "jsonp",
+    cache : false
+    
+  }).success(function(data, textStatus, jqXHR) {
+    
+    $.each(data.press, function(i,item){
+
+    	var titleOutput = item.title;
+      var dateOutput = item.posted_at;
+      var snippetOutput = item.snippet;
+      var link = item.url;
+
+       var dateNode = $('<div class="date"></div').append(dateOutput);
+       var linkNode = $('<a href="'+link+'" target="_blank"></a>');
+       var titleNode = $('<div class="title"></div>').append(titleOutput).appendTo(linkNode);
+       var snippetNode = $('<div class="snippet"></div').append(snippetOutput);
+		// note: I've left date out for now
+       $('<div class="row"></div').append(linkNode, snippetNode).appendTo('#container');
+    
+    });
+        
+  }).error(function(jqXHR, textStatus) {
+
+ 	 $('<div></div>').append('Sorry. Your request is '+ textStatus).appendTo('#container');
+
+  });
+}
 //----------- if Community pg ----------//
 if(window.location.pathname == '/community/'){
 

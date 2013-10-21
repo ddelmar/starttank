@@ -25,7 +25,7 @@ img.logo {
 }
 
 .navChild ul {
-	width: 60%;
+	width: 80%;
 }
 
 .navChild ul li {
@@ -314,6 +314,11 @@ img.logo {
 }
 
 .faq {
+	margin: 100px 5% 0;
+	width:89%;
+}
+
+.press {
 	margin: 100px 5% 0;
 	width:89%;
 }

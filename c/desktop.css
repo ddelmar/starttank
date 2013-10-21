@@ -33,7 +33,7 @@ img.logo {
 }
 
 .navChild ul {
-	width: 60%;
+	width: 80%;
 }
 
 .navChild ul li {
@@ -362,17 +362,20 @@ body.thanks_page.about4 {background-image: url(http://where-spotlight.s3.amazona
 	padding: 0 0 0 40px;
 }
 
+.press {
+	margin: 150px auto 0 auto;
+	max-width: 1000px;
+	width: 100%;
+}
+
 #faqContent {
 	background:none;
 }
 
 .footer, .footer_blank {
-	padding: 12px 0 0 0;
-}
-
-.footer.home {
 	position: absolute;
 	top:2800px;
+	padding: 12px 0 0 0;
 }
 
 .footer_blank {background:none;}

@@ -578,6 +578,37 @@ FAQ
 }
 
 /*
+**********
+PRESS
+*********
+*/
+
+.press {
+	text-align:left;
+}
+
+.press h2 {
+	font-family: "HelveticaNeue-Ultralight","Helvetica Neue Ultralight","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 100;
+	color: #777;
+}
+
+.press .row {
+	padding: 20px 0;
+}
+
+.press a .title {
+	font-family: "HelveticaNeue-Ultralight","Helvetica Neue Ultralight","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 100;
+	font-size: 1.8em;
+	color: #0093c2;
+}
+
+.press a:hover .title {
+	color: #777;
+}
+
+/*
 ***********
 APPLICATION
 ***********

@@ -39,7 +39,8 @@
 			<a href="/"><img class="logo" src="http://where-spotlight.s3.amazonaws.com/start-tank/starttank_0093c2.svg"/></a>
 			<ul>
 				<li class="contact"><a href="/apply">Apply</a></li>
-				<li><a href="/community">Current Startups</a></li>
+				<li><a href="/community"><span class="hideOnMobile">Current </span>Startups</a></li>
+				<li><a href="/press">Press</a></li>
 				<li><a href="/about">About</a></li>
 			</ul>
 		</div><!-- /navChild -->
