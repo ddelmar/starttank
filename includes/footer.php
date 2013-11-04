@@ -1,6 +1,6 @@
 			
-			
-			<div class="footer">
+			<div class="clr"></div>
+			<div class="footer home">
 				<p>
 					&copy;<script type="text/javascript">
 					      now = new Date
@@ -9,7 +9,7 @@
 					      theYear=theYear+1900
 					      document.write(theYear)</script> PayPal Media Network. All Rights Reserved. &nbsp;&nbsp;
 					<a href="/terms/">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="/privacy/">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="/privacy/">Privacy</a>
 				</p>
 			</div>
 		

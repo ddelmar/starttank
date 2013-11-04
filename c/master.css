@@ -269,7 +269,9 @@ img.logo {
 .footer {
 	text-align:center;
 	font-size: .8em;
-	margin: 20px auto 0 auto;
+	margin: 0 auto;
+	padding: 1.5em 0 1em 0;
+	border-top: 1px solid #ccc;
 	width:100%;
 	display:block;
 	float:left;
@@ -571,7 +573,8 @@ FAQ
 	text-align:left;
 }
 
-.faq h2 {
+.faq h2,
+#about6 h2 {
 	font-family: "HelveticaNeue-Ultralight","Helvetica Neue Ultralight","Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-weight: 100;
 	color: #777;
@@ -579,32 +582,37 @@ FAQ
 
 /*
 **********
-PRESS
+ONE COLUMN
 *********
 */
 
-.press {
+.onecolumn {
+	margin: 150px auto 0 auto;
+	max-width: 1000px;
+}
+
+.onecolumn {
 	text-align:left;
 }
 
-.press h2 {
+.onecolumn h2 {
 	font-family: "HelveticaNeue-Ultralight","Helvetica Neue Ultralight","Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-weight: 100;
 	color: #777;
 }
 
-.press .row {
+.onecolumn .row {
 	padding: 20px 0;
 }
 
-.press a .title {
+.onecolumn a .title {
 	font-family: "HelveticaNeue-Ultralight","Helvetica Neue Ultralight","Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-weight: 100;
 	font-size: 1.8em;
 	color: #0093c2;
 }
 
-.press a:hover .title {
+.onecolumn a:hover .title {
 	color: #777;
 }
 

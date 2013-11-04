@@ -1,14 +1,14 @@
 <?php include('../includes/head.php'); ?>
 
 
-<div class="press">
+<div class="onecolumn">
 	<h1>Press</h1>
 
 <div id="wrapper"><div id="container"></div></div>
-</div><!-- /press -->
+</div><!-- /onecolumn -->
 
 <div class="clr" style="margin:20px 0;"></div>
 
 
-<?php include('../includes/footer_analytics.php');  ?>
+<?php include('../includes/footer.php');  ?>
 

@@ -618,5 +618,5 @@ You're in good company here. Our mentors have diverse backgrounds and many years
 
 
 
-<?php include('../includes/footer_analytics.php'); ?>
+<?php include('../includes/footer.php'); ?>
 

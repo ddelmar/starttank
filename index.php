@@ -73,12 +73,27 @@ For startups to succeed, they need a community in which to thrive. It's not just
 </article>
 
 <article>
-<div id="about6">
-</div><!-- /about6 -->
+<div id="about6_wrapper">
+	<div id="about6_contain">
+	<h1>Other ebay resources for startups</h1>
+		<div>
+			<a href="https://www.paypal-blueprint.com/ebay" title="PayPal Startup Blueprint" target="_blank">
+				<h2>PayPal Startup Blueprint</h2>
+			</a>
+			<p>Global program that partners with top tier startups incubators, accelerators and VCs.</p>
+		</div>
+		<div>
+			<a href="http://friendsofebay.svpply.com/" title="Friends of ebay" target="_blank">
+				<h2>Friends of ebay</h2>
+			</a>
+			<p>Provides free office space for early stage New York City startups.</p>
+		</div>
+		</div><!-- /about6_contain -->
+</div><!-- /about6_wrapper -->
 </article>
 
 </div><!-- /about -->
 
 
-<?php include('includes/footer_home.php'); ?>
+<?php include('includes/footer.php'); ?>
 

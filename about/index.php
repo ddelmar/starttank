@@ -24,5 +24,5 @@ Start Tank provides six months of no-cost professional space, infrastructure, co
 <div class="clr" style="margin:20px 0;"></div>
 
 
-<?php include('../includes/footer_analytics.php');  ?>
+<?php include('../includes/footer.php');  ?>
 

@@ -20,7 +20,7 @@ img.logo {
 }
 
 ._page {
-	background-image: url("../i/diamond_upholstery.png");
+	/* background-image: url("../i/diamond_upholstery.png"); */
 	background-position: center top;
 	background-repeat: repeat;
 	background-attachment: fixed;
@@ -212,7 +212,7 @@ img.logo {
 	height: 500px;
 }
 
-#about3{
+#about3 {
 	height: 400px;
 	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/jeancharles.jpg) ;
 	background-color: #0093c2;
@@ -237,15 +237,41 @@ img.logo {
 }
 
 #about6 {
-	height: 800px;
+	height: 515px;
 	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/kitchen.jpg);
 	background-size: 100%;
 	background-repeat:no-repeat;
 	background-position: 0% 100%;
 	position: fixed;
-	top: 220px;
+	top: 620px;
 	width: 100%;
 	z-index: -1;
+}
+
+#about6_wrapper {
+	width:100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#about6_contain {
+	margin: 0 auto;
+	text-align: center;
+	width: 1000px;
+}
+
+#about6_contain h1 {
+	margin: 1em 0 .2em .8em;
+	float: left;
+	text-align: left;
+}
+
+#about6_contain div {
+	width: 42%;
+	margin: 1% 4% 4% 4%;
+	float: left;
+	text-align: left;
+	background-color: transparent;
 }
 
 #contact h2 {
@@ -307,6 +333,7 @@ body.thanks_page {
 	background-size:40% auto;
 }
 
+/*
 body.about_page.about1,
 body.thanks_page.about1 {background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/about-img01.png);}
 body.about_page.about2,
@@ -315,6 +342,7 @@ body.about_page.about3,
 body.thanks_page.about3 {background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/about-img03.png);}
 body.about_page.about4,
 body.thanks_page.about4 {background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/about-img04.png);}
+*/
 
 .faqSubContainerL {
 	text-align:left;
@@ -362,20 +390,12 @@ body.thanks_page.about4 {background-image: url(http://where-spotlight.s3.amazona
 	padding: 0 0 0 40px;
 }
 
-.press {
-	margin: 150px auto 0 auto;
-	max-width: 1000px;
-	width: 100%;
-}
-
 #faqContent {
 	background:none;
 }
 
 .footer, .footer_blank {
-	position: absolute;
-	top:2800px;
-	padding: 12px 0 0 0;
+	
 }
 
 .footer_blank {background:none;}

@@ -74,6 +74,34 @@ img.logo {
 
 .about_dots, #about3, .about_dots, #about6, .footer_blank { display:none; }
 
+
+#about6_wrapper {
+	width:100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#about6_contain {
+	margin: 0 auto;
+	text-align: center;
+	width: 100%;
+}
+
+#about6_contain h1 {
+	margin: 1em 0 .2em .8em;
+	float: left;
+	text-align: left;
+}
+
+#about6_contain div {
+	width: 42%;
+	margin: 1% 4% 4% 4%;
+	float: left;
+	text-align: left;
+	background-color: transparent;
+}
+
+
 .header {
 	margin-top: 40px;
 	
@@ -328,12 +356,15 @@ img.logo {
 }
 
 .footer, .footer_blank {
-	position: absolute;
-	top:2800px;
-	padding: 12px 0 0 0;
+	
 }
 
 .footer_blank {background:none;}
+
+.onecolumn {
+	padding: 4%;
+	width: 92%;
+}
 
 /*************
 COMMUNITY
