@@ -394,3 +394,11 @@ APPLY
     margin: 100px 5% 0;
     width: 89%;
 }
+
+/*************
+COLUMNS
+*************/
+.onecolumn { padding: 0 2%; }
+.leftcolumn { width: 44%; padding: 0 4%; }
+.rightcolumn { width: 44%; }
+

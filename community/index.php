@@ -340,7 +340,7 @@ The Welcoming Committee is a movement of people who think it's time for LGBT fol
 					<div class="clr"></div>					<p>
 Twyxter builds private, online communities that leverage employees' personal interests and values to create a more engaging work experience. Twyxter is not a business tool for employees; instead, it's a personal tool for the enterprise that helps people save time, save money and expand their personal connections within the workforce.   
 					</p>
-					<iframe src="http://fast.wistia.net/embed/iframe/5qwvgvmawp?playerColor=28a4f7&plugin%5Bsocialbar-v1%5D%5Bbuttons%5D=&plugin%5Bsocialbar-v1%5D%5BtweetText%5D=&version=v1&videoHeight=360&videoWidth=640&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed"></iframe>
+					<iframe src="http://fast.wistia.net/embed/iframe/nmoymisov3?playerColor=28a4f7&plugin%5Bsocialbar-v1%5D%5Bbuttons%5D=&plugin%5Bsocialbar-v1%5D%5BtweetText%5D=&version=v1&videoHeight=360&videoWidth=640&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed"></iframe>
 				</div><!-- /twyxter -->
 		</article>
 		<article>

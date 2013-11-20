@@ -24,7 +24,13 @@
 <script type="text/javascript" src="../j/jquery.inview.js"></script>
 
 
-<title>Start Tank | PayPal</title>
+<title><?php 
+	$uri = "{$_SERVER['REQUEST_URI']}";
+	$uri_clean = ucwords(basename($uri));
+	if ($uri_clean == NULL){ echo "Start Tank";}
+	else { echo "Start Tank | " . $uri_clean; }
+
+?></title>
 
 </head>
 

@@ -260,7 +260,8 @@ APPLY
 *************
 */
 
-.apply_left {
+.apply_left,
+.onecolumn {
 	text-align:left;
     margin: 130px 5% 0;
     width: 89%;

@@ -582,7 +582,7 @@ FAQ
 
 /*
 **********
-ONE COLUMN
+COLUMNS
 *********
 */
 
@@ -591,10 +591,16 @@ ONE COLUMN
 	max-width: 1000px;
 }
 
+.onecolum h1 {margin: 0 0 1em 0; }
+
+.leftcolumn, 
+.rightcolumn,
 .onecolumn {
 	text-align:left;
 }
 
+.leftcolumn h2, 
+.rightcolumn h2,
 .onecolumn h2 {
 	font-family: "HelveticaNeue-Ultralight","Helvetica Neue Ultralight","Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-weight: 100;
@@ -614,6 +620,35 @@ ONE COLUMN
 
 .onecolumn a:hover .title {
 	color: #777;
+}
+
+.leftcolumn {padding: 0 2% 0 0; }
+.leftcolumn, .rightcolumn { float: left; }
+.leftcolumn h1, .rightcolumn h1 { margin: 0 0 1em 0; }
+
+/*
+***********
+CALENDAR
+***********
+*/
+
+#agenda li a {
+	display: block;
+	width: 96%;
+	padding: 2%;
+}
+
+#agenda li a {
+background-color: white;
+}
+
+#agenda li:nth-child(2n + 2) a {
+background-color: transparent;
+}
+
+#agenda li a:hover {
+background-color: #0093c2;
+color: white;
 }
 
 /*
