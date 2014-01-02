@@ -129,8 +129,8 @@ GiveShop is a fundraising platform that allows users to shop at their favorite p
 						<p>
 Bare Tree Media creates branded digital entertainment solutions to drive consumer engagement and commerce through mobile and online platforms.
 						</p>
+						<iframe src="http://fast.wistia.net/embed/iframe/kn9kiladkk?endVideoBehavior=reset&playerColor=28a4f7&plugin%5Bsocialbar-v1%5D%5Bbuttons%5D=&plugin%5Bsocialbar-v1%5D%5BtweetText%5D=&version=v1&videoHeight=360&videoWidth=640&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" ></iframe>
 					
-					<iframe width="640" height="360" src="//www.youtube.com/embed/WbFX9QU_KKI?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
 					</div><!-- /baretreemedia -->
 			</article>
 		<article>
@@ -168,7 +168,7 @@ Group Rewards through Tribal Commerce.</p><p>The wisdom of the tribe suggests th
 						</p>
 							<p>&bull; Emulating a good salesperson on smartphones and tablets</p>
 							<p>&bull; Combining product knowledge and human intelligence with voice-interactive language technology.</p>
-						</ul>
+						<iframe src="http://fast.wistia.net/embed/iframe/23t5q4l415?endVideoBehavior=reset&playerColor=28a4f7&plugin%5Bsocialbar-v1%5D%5Bbuttons%5D=&plugin%5Bsocialbar-v1%5D%5BtweetText%5D=&version=v1&videoHeight=360&videoWidth=640&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" ></iframe>
 
 					</div><!-- /vioby -->
 			</article>
@@ -180,6 +180,7 @@ Group Rewards through Tribal Commerce.</p><p>The wisdom of the tribe suggests th
 						<div class="clr"></div>					<p>
 <a href="http://gloss48.com" target="_blank" title="Gloss48">Gloss48</a> is disrupting the way women shop for beauty. A digital beauty counter for beauty junkies, Gloss48 offers the discovery of niche brands through fun, irreverent how-to's and personalized recommendations to help them shop products that are right for them. By creating obsessions every day, we are a paradise for beauty junkies that is run by serial entrepreneurs with broad based experience including venture investing (Cue Ball Capital), digital media (Palm, Ippolita, Urban Decay), beauty (MiniLuxe, Nail Bar), retail (Gap, Inc.), and business strategy (Monitor, Parthenon). </p><p>Our mission at Gloss48 is to own the direct line between the tens of thousands of niche beauty brands and the 50M beauty junkies shopping online and on mobile devices.</p><p>We are launching our full site this fall after running a highly successful beta with 2.5x Sephora's conversion rate. We boast a fantastic slate of advisors, including the former COO of VistaPrint, the VP of NOOK and Digital Marketing at Barnes and Noble, the founder of <a href="http://anyday.com" target="_blank" title="Anyday.com">Anyday.com,</a> Managing Director of 212 Equity Management, a large fund in our space, former EVP of Conde Nast, and the Founder of Umagination Labs and Greater Good Inc.
 						</p>
+						<iframe src="http://fast.wistia.net/embed/iframe/1fgdryxn0x?endVideoBehavior=reset&playerColor=28a4f7&plugin%5Bsocialbar-v1%5D%5Bbuttons%5D=&plugin%5Bsocialbar-v1%5D%5BtweetText%5D=&version=v1&videoHeight=360&videoWidth=640&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" ></iframe>
 
 					</div><!-- /gloss48 -->
 			</article>
@@ -205,6 +206,7 @@ Group Rewards through Tribal Commerce.</p><p>The wisdom of the tribe suggests th
 TechLok is a software technology company that provides a big-data-analytics-powered mobile app that installs on your phone or tablet and leverages local and cloud based protection engines to enable devices to determine when they are lost or stolen so they can react automatically and keep your sensitive data safe.
 </p><p>The TechLok vision is to create the world's largest cloud database of enterprise mobility usage patterns and actionable intelligence, to drive automated security rules on our mobile platform while simultaneously providing predictive risk analytics to IT security administrators. Leveraging this database, our dynamic protection engine is able to automatically and instantly respond to threats, adjusting security settings uniquely to your environment, and wiping data from devices the moment they become lost or stolen.
 						</p>
+							<iframe src="http://fast.wistia.net/embed/iframe/vzav0a1ubp?endVideoBehavior=reset&playerColor=28a4f7&plugin%5Bsocialbar-v1%5D%5Bbuttons%5D=&plugin%5Bsocialbar-v1%5D%5BtweetText%5D=&version=v1&videoHeight=360&videoWidth=640&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" ></iframe>
 
 					</div><!-- /techlok -->
 			</article>

@@ -10,7 +10,7 @@
 <meta name="viewport" content="initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
 <meta name="description" content="PayPal's startup incubator space in Boston" />
 
-<link rel="shortcut icon" href="https://www.paypalobjects.com/en_US/i/icon/pp_favicon_x.ico" />
+<link rel="shortcut icon" href="http://where-spotlight.s3.amazonaws.com/start-tank/favicon.png" />
 <link rel="apple-touch-icon" href="https://www.paypalobjects.com/en_US/i/pui/apple-touch-icon.png" />
 <link href="../c/master.css" rel="stylesheet" type="text/css" />
 <!--[if IE]>
@@ -28,7 +28,7 @@
 	$uri = "{$_SERVER['REQUEST_URI']}";
 	$uri_clean = ucwords(basename($uri));
 	if ($uri_clean == NULL){ echo "Start Tank";}
-	else { echo "Start Tank | " . $uri_clean; }
+	else { echo $uri_clean . " | Start Tank"; }
 
 ?></title>
 
