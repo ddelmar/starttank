@@ -2,7 +2,7 @@
 
 <div class="about">
 <div id="about1">
-	<!-- <div id="logo">PayPal Start Tank</div> -->
+	<!-- <div id="logo">Start Tank</div> -->
 </div> <!--#about1-->
 <article id="about">
 <div id="about2">
@@ -11,13 +11,13 @@
 	</div><!-- /aboutSubContainerL -->
 	
 	<div class="aboutSubContainerR">
-	<h1>PayPal Start Tank</h1>
+	<h1>Start Tank</h1>
 	<p>
-The PayPal "Start Tank" is an incubator with free co-working space for the next generation of startups. We hope that it will accelerate the growth of the Boston startup ecosystem by enabling entrepreneurs to collaborate with each other, work alongside the PayPal Boston team, tap into a vast network of contacts, and leverage seasoned entrepreneurs' expertise.
+Start Tank is an incubator with free co-working space for the next generation of startups. We hope that it will accelerate the growth of the Boston startup ecosystem by enabling entrepreneurs to collaborate with each other, work alongside the PayPal Boston team, tap into a vast network of contacts, and leverage seasoned entrepreneurs' expertise.
 
 <br /><br />
 
-In return, the PayPal mentors will be plugged into the latest ventures and maximize their entrepreneurial skills and contacts. Come visit us in the PayPal Boston headquarters @ 1 International Place.
+In return, the mentors will be plugged into the latest ventures and maximize their entrepreneurial skills and contacts. Come visit us in the PayPal Boston headquarters @ 1 International Place.
 </p>
 	</div><!-- /aboutSubContainerR -->
 

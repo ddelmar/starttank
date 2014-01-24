@@ -69,7 +69,7 @@ FORM
 		
 
 		</div></div></div> <div class="ss-form-question errorbox-good">
-		<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_857441931"><div class="ss-q-title">Who are your competitors? If none, how does your target market currently address their pain points?
+		<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_857441931"><div class="ss-q-title">Who are your competitors? If none, how does your target market currently address its pain points?
 		</div>
 		<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 		<textarea name="entry.857441931" rows="8" cols="0" class="ss-q-long" id="entry_857441931" dir="auto" aria-label="Who are your competitors? If none, how does your target market currently address their pain points?  "></textarea>

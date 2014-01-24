@@ -4,9 +4,9 @@
 <div class="apply_left">
 	<h1>Apply to join Start Tank</h1>
 
-<p>Applications are due by January 21st. The spring cycle lasts from February through July.</p>
+<p>Application to Start Tank is now closed for the spring cycle. Please consider applying in July for the fall cycle.</p>
 
-<?php include('../includes/applicationform.php'); ?>
+<?php /* include('../includes/applicationform.php'); */ ?>
 
 	
 </div><!-- /apply_left -->
