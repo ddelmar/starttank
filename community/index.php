@@ -435,6 +435,9 @@ Databox is the first mobile-only executive dashboard. It helps executives stay c
 			<li class="ian"><a href="#m_detail">
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/ian.png" />
 			</a></li>
+			<li class="farah"><a href="#m_detail">
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/farah.png" />
+			</a></li>
 			
 		</ul>
 
@@ -600,7 +603,17 @@ Jared Egan <span class="role">leads the iOS Team responsible for PayPal Here</sp
 				</p>
 			</div>
 		</article>
-		
+			<article>
+				<div class="farah">
+					<h1>
+						Farah Hussain
+					</h1>
+					<div class="clr"></div>
+					<p>
+						Farah Hussain is a <span class="role">Senior Marketing Manager</span> at the PayPal Media Network focused on product marketing. Her professional experience includes go-to-market planning, lead generation, and sales enablement at agencies and brands including Intuit Inc., Ocean Spray Cranberries, and W2 Group Inc. She was a Forte Foundation Fellow from 2009 to 2011 and has an MBA from Babson College, where she was the graduate student winner of the 2011 Nan Langowitz Women Who Make a Difference Award. Farah has a BA in English and Studio Art from Wellesley College. You can find her on LinkedIn, in a painting class, or hanging out with her favorite nephews.
+						</p>
+				</div>
+			</article>
 		
 	
 		</div><!-- /mentor_copy -->
