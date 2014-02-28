@@ -8,6 +8,53 @@ STARTUPS
 -->
 	<div class="startups">
 		<ul class="startup_logos">
+			<li class="covvet"><a href="#s_detail" >
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/covvet.png" />
+			</a></li>
+			<li class="2ct"><a href="#s_detail" >
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/2ct.png" />
+			</a></li>
+			<li class="project2020"><a href="#s_detail" >
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/project2020.png" />
+			</a></li>
+			<li class="serviceroute"><a href="#s_detail" >
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/serviceroute.png" />
+			</a></li>
+			<li class="canary"><a href="#s_detail" >
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/canary.png" />
+			</a></li>
+			<li class="dashbell"><a href="#s_detail" >
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/dashbell.png" />
+			</a></li>
+			<li class="onthebar"><a href="#s_detail" >
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/onthebar.png" />
+			</a></li>
+			<li class="supplet"><a href="#s_detail" >
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/supplet.png" />
+			</a></li>
+			<li class="tacklegrab"><a href="#s_detail" >
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/tacklegrab.png" />
+			</a></li>
+			<li class="19th"><a href="#s_detail" >
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/19th.png" />
+			</a></li>
+			<li class="wellable"><a href="#s_detail" >
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/wellable.png" />
+			</a></li>
+			<li class="givewell"><a href="#s_detail" >
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/givewell.png" />
+			</a></li>
+			
+			<?php /*
+			
+			<li class="screenex"><a href="#s_detail" >
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/screenex.png" />
+			</a></li>
+			<li class="sparkfull"><a href="#s_detail" >
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/sparkfull.png" />
+			</a></li>
+			*/ ?>
+			
 			<li class="launchangels"><a href="#s_detail" >
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/launchangels.png" />
 			</a></li>
@@ -38,47 +85,196 @@ STARTUPS
 			<li class="techlok"><a href="#s_detail" >
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/techlok.png" />
 			</a></li>
-	
-					
-			<li class="acquisition"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/acquisition.png" />
-			</a></li>
-			<li class="coeverywhere"><a href="#s_detail">
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/coeverywhere.png" />
-			</a></li>
-			<li class="careporthealth"><a href="#s_detail">
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/careport.png" />
-			</a></li>
-			<li class="cuethink"><a href="#s_detail">
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/cuethink.png" />
-			</a></li>
-			<li class="greenbean"><a href="#s_detail">
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/gbrecycle_2.png" />
-			</a></li>
-			<li class="hipuls"><a href="#s_detail">
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/hipuls.png" />
-			</a></li>
-			<li class="narvii"><a href="#s_detail">
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/narvii.png" />
-			</a></li>
-			<li class="nsyrt"><a href="#s_detail">
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/nsyrt_2.png" />
-			</a></li>
-			<li class="via"><a href="#s_detail">
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/vianetwork.png" />
-			</a></li>
-			<li class="welcoming"><a href="#s_detail">
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/thewelcomingcommittee.png" />
-			</a></li>
-			<li class="twyxter"><a href="#s_detail">
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/twyxter.png" />
-			</a></li>
 			<li class="databox"><a href="#s_detail">
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/databox.png" />
 			</a></li>
 		</ul>
 
 		<div class="startup_hiddenCopy">
+			<article>
+					<div class="covvet">
+						<h1>
+							Covvet
+						</h1>
+						<div class="clr"></div>						
+						<p>
+							Covvet is an online wish list that tracks prices on the web so you 
+							never miss a sale on the things you want.
+						</p>
+					</div><!-- /covvet -->
+			</article>
+			<article>
+					<div class="2ct">
+						<h1>
+							Second Chance Technologies
+						</h1>
+						<div class="clr"></div>						
+						<p>
+							Second Chance Technologies is a new online and mobile 
+							platform that fundamentally changes how consumers find the 
+							best deals and make purchases.
+							
+						</p>
+					</div><!-- /2ct -->
+			</article>
+				<article>
+						<div class="project2020">
+							<h1>
+								Project 2020
+							</h1>
+							<div class="clr"></div>						
+							<p>
+								Project 2020 delivers cost-neutral, on-site eye care and 
+								comprehensive eye exams to businesses and their employees 
+								via a state-of-art mobile eye clinic ("eye truck").
+
+							</p>
+						</div><!-- /project2020 -->
+				</article>
+				<article>
+						<div class="serviceroute">
+							<h1>
+								ServiceRoute
+							</h1>
+							<div class="clr"></div>						
+							<p>
+								ServiceRoute drives commerce and increases route density for 
+								residential contractors by clustering properties for service.
+
+							</p>
+						</div><!-- /serviceroute -->
+				</article>
+				<article>
+						<div class="canary">
+							<h1>
+								Canary
+							</h1>
+							<div class="clr"></div>						
+							<p>
+								<a href="http://gocanary.com/" target="_blank" title="Canary">Canary</a> is a safer, local online marketplace that donates 30% of their profits to local charities.
+
+							</p>
+						</div><!-- /canary -->
+				</article>
+				<article>
+						<div class="dashbell">
+							<h1>
+								Dashbell
+							</h1>
+							<div class="clr"></div>						
+							<p>Dashbell enables independent hotels to take control and reduce 
+							commissions paid to outside travel agencies through an online 
+							reservations tool and hotel management system.
+							</p>
+						</div>
+				</article>
+				<article>
+						<div class="onthebar">
+							<h1>
+								onthebar
+							</h1>
+							<div class="clr"></div>						
+							<p>onthebar connects consumers and spirit brands with the most 
+							effective and charming salespeople on earth, bartenders.
+							</p>
+						</div>
+				</article>
+				<article>
+						<div class="supplet">
+							<h1>
+								Supplet
+							</h1>
+							<div class="clr"></div>						
+							<p>
+								Supplet is a healthy pregnancy marketplace, community and 
+								monthly gift box service for pregnant women and new moms.
+							</p>
+						</div>
+				</article>
+				<article>
+							<div class="tacklegrab">
+								<h1>
+									Tackle Grab
+								</h1>
+								<div class="clr"></div>						
+								<p>
+									
+									Tackle Grab is a subscription-style discovery retail service that 
+									delivers monthly boxes of fishing tackle to its members based on 
+									their preferences, coupled with an e-commerce platform that 
+									offers on-demand products.
+								</p>
+							</div>
+				</article>
+				<article>
+							<div class="screenex">
+								<h1>
+									ScreenEx
+								</h1>
+								<div class="clr"></div>						
+								<p>
+									ScreenEx provides apps and websites that simplify the online 
+									video-viewing experience with a personalized stream.
+								</p>
+							</div>
+				</article>
+				<article>
+							<div class="19th">
+								<h1>
+									Nineteenth Amendment
+								</h1>
+								<div class="clr"></div>						
+								<p>
+									Nineteenth Amendment is a fashion marketplace and 
+									manufacturing service for emerging designers where we 
+									manufacture all garments that sell through our site on behalf of 
+									the designer, in the USA.
+								</p>
+							</div>
+				</article>
+				<article>
+							<div class="sparkfull">
+								<h1>
+									SparkFull
+								</h1>
+								<div class="clr"></div>						
+								<p>
+									SparkFull is a mobile electric vehicle (EV) charging service.
+								</p>
+							</div>
+				</article>
+				<article>
+							<div class="wellable">
+								<h1>
+									Wellable
+								</h1>
+								<div class="clr"></div>						
+								<p>
+									Wellable is a mobile wellness company that leverages mobile 
+									apps, text messaging, and traditional wellness services, such as 
+									flu shots and biometric screenings, to deliver highly effective 
+									programs.
+									
+								</p>
+							</div>
+				</article>
+				<article>
+							<div class="givewell">
+								<h1>
+									Givewell Getwell
+								</h1>
+								<div class="clr"></div>						
+								<p>
+									Givewell Getwell helps patients to save time and money by 
+									finding caregivers and procuring the day-to-day support they 
+									need 
+									
+									
+								</p>
+							</div>
+				</article>
+				
+			
 			<article>
 					<div class="launchangels">
 						<h1>
@@ -210,151 +406,6 @@ TechLok is a software technology company that provides a big-data-analytics-powe
 
 					</div><!-- /techlok -->
 			</article>
-			
-			
-			<article>
-					<div class="acquisition">
-						<h1>
-							Acquisition Sciences
-						</h1>
-						<div class="clr"></div>						<p>
-						
-						</p>
-						<iframe src="http://fast.wistia.net/embed/iframe/15ieql0vdp?endVideoBehavior=reset&playerColor=28a4f7&plugin%5Bsocialbar-v1%5D%5Bbuttons%5D=&plugin%5Bsocialbar-v1%5D%5BtweetText%5D=&version=v1&videoHeight=360&videoWidth=640&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" ></iframe>
-					</div><!-- /acquisition -->
-			</article>
-		<article>
-				<div class="coeverywhere">
-					<h1>
-						CO Everywhere
-					</h1>
-					<div class="clr"></div>					<p>
-						CO Everywhere is an app that let's you follow the social activity happening in a specific location, anywhere in the world. <br /><br />Our platform organizes all of the local news, Tweets, Facebook posts, Instagram photos, Foursquare tips, Groupon deals, Yelp reviews, Eventbrite event, Meetups and much more.  <br /><br />With CO Everywhere, you can follow locations you care about most, like where you live or work to make sure your not missing out on anything happening around the corner.  You can also follow locations where you want to be, like Fenway Park, The Museum of Modern Art or a warm beach in the Carribean.<br /><br /><a href="http://www.coeverywhere.com/" target="_blank">coeverywhere.com</a>
-					</p>
-					
-				</div><!-- /coeverywhere -->
-		</article>
-		<article>
-				<div class="buysidefx">
-					<h1>
-						BuysideFX
-					</h1>
-					<div class="clr"></div>					<p>
-The BuysideFX Currency Management Platform solves foreign exchange problems for institutional money managers by supporting the entire lifecycle of the trade. 
-					</p>
-					<iframe src="http://fast.wistia.net/embed/iframe/9f1d7g2b5s?endVideoBehavior=reset&playerColor=28a4f7&plugin%5Bsocialbar-v1%5D%5Bbuttons%5D=&plugin%5Bsocialbar-v1%5D%5BtweetText%5D=&version=v1&videoHeight=360&videoWidth=640&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed"></iframe>
-				</div><!-- /buysidefx -->
-		</article>
-		<article>
-				<div class="careporthealth">
-					<h1>
-						Careport Health
-					</h1>
-					<div class="clr"></div>					<p>
-Careport Health is an online booking engine for post-hospital care. 8 out of 10 patients leaving hospitals need additional care such as at a nursing home or at home through visiting nurse services. Careport Health's matching algorithm finds patients the post-hospital care they need when they need it and aims to track patient care to improve communication with family and primary care providers. 
-					</p>
-					<iframe src="http://fast.wistia.net/embed/iframe/twxb5jk4cw?endVideoBehavior=reset&playerColor=28a4f7&plugin%5Bsocialbar-v1%5D%5Bbuttons%5D=&plugin%5Bsocialbar-v1%5D%5BtweetText%5D=&version=v1&videoHeight=360&videoWidth=640&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed"></iframe>
-				</div><!-- /careporthealth -->
-		</article>
-		<article>
-				<div class="cuethink">
-					<h1>
-						Cue Think
-					</h1>
-					<div class="clr"></div>					<p>
-CueThink is a team of dynamic developers, designers and curriculum specialists. Cuethink is funded by National Science Foundation's Small Business Innovation Research (SBIR) grant to build an iPad app to engage and enhance Math problem-solving skills of middle and high school students. 
-					</p>
-					<iframe src="http://fast.wistia.net/embed/iframe/c5zoxwxlnx?endVideoBehavior=reset&playerColor=28a4f7&plugin%5Bsocialbar-v1%5D%5Bbuttons%5D=&plugin%5Bsocialbar-v1%5D%5BtweetText%5D=&version=v1&videoHeight=360&videoWidth=640&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed"></iframe>
-				</div><!-- /cuethink -->
-		</article>
-		<article>
-				<div class="greenbean">
-					<h1>
-						Green Bean Recycle
-					</h1>
-					<div class="clr"></div>					<p>
-						Greenbean Recycle is a software technology company that aims to increase recycling by incorporating real time analytics, social media, and gaming into its groundbreaking reverse vending machine and web app process. It works by transfering your 5 cent refund for each bottle or can recycled to any account, stored value card, or charity; Greenbean allows users to create teams and recycle against each other, participate in recycling challenges and compare each other's or their communities impact with each other in real time.
-					 
-					</p>
-					<iframe src="http://fast.wistia.net/embed/iframe/pssw6mjjja?endVideoBehavior=reset&playerColor=28a4f7&plugin%5Bsocialbar-v1%5D%5Bbuttons%5D=&plugin%5Bsocialbar-v1%5D%5BtweetText%5D=&version=v1&videoHeight=360&videoWidth=640&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed"></iframe>
-				</div><!-- /greenbean -->
-		</article>
-		<article>
-				<div class="hipuls">
-					<h1>
-						hiPuls
-					</h1>
-					<div class="clr"></div>					
-					<p>
-hiPuls is an online platform for individual traders, providing fair profit opportunities in today's dynamic and aggressive market. It allows investors to use existing and proven algorithms or lets them customize for smarter investment strategies.
-					</p>
-				</div><!-- /hipuls -->
-		</article>
-		<article>
-				<div class="narvii">
-					<h1>
-						Narvii
-					</h1>
-					<div class="clr"></div>					<p>
-Narvii, Inc. is building Amino Communities, a network of mobile apps, each of which is exclusively dedicated to a specific interest like video games, sports, travel, cooking, pets, anime, music etc. When you get people together who are passionate about a similar interest, amazing things happen. Being able to share with people who “just get it” leads to the type of engagement that makes you feel good. In the Amino Communities, you can meet new people from all over the world who share your passion. 
-					</p>
-				</div><!-- /narvii -->
-		</article>
-		<article>
-				<div class="nsyrt">
-					<h1>
-						Nsyrt
-					</h1>
-					<div class="clr"></div>
-										<p>
-Asking the question, "why doesn't a web page improve when you scroll it? Or ignore it? Or click it?," Nsyrt invented Nymble, an easy way for websites to make their pages respond to how they are used. It's a disruptive technology that means more value for users and more revenue for online properties. 
-					</p>
-				</div><!-- /nsyrt -->
-		</article>
-		<article>
-				<div class="via">
-					<h1>
-						Via Network
-					</h1>
-					<div class="clr"></div>					<p>
-ViaNetwork is a digital media company that provides video-driven solutions to innovators. ViaNetwork's suite of hosted video tools helps clients improve engagement methods in both the virtual and physical spaces of marketing and customer service. The suite includes different solutions that cater to a diverse core clientele, including jobseekers, startups, business incubators, collaborators, and investors. 
-					</p>
-					<iframe src="http://fast.wistia.net/embed/iframe/eczvqokphp?playerColor=28a4f7&plugin%5Bsocialbar-v1%5D%5Bbuttons%5D=&plugin%5Bsocialbar-v1%5D%5BtweetText%5D=&version=v1&videoHeight=360&videoWidth=640&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed"></iframe>
-				</div><!-- /via -->
-		</article>
-		<article>
-			<div class="welcoming">
-				<h1>
-					The Welcoming Committee
-				</h1>
-				<div class="clr"></div>
-				<p>
-The Welcoming Committee is a movement of people who think it's time for LGBT folks to experience every bar, sports game, event, and major travel destination the same way straight people do. The TWC app helps answer the question, "Where are the gays going tonight?" It uses geo-location technology to show existing takeovers happening near you. You can see how many people are going and how many have already checked in. Vote up the ones you think you'll attend. Don't see one you like? Then create a takeover near you. 
-				</p>
-				<iframe src="http://fast.wistia.net/embed/iframe/gwrgsxt04a?endVideoBehavior=reset&playerColor=28a4f7&plugin%5Bsocialbar-v1%5D%5Bbuttons%5D=&plugin%5Bsocialbar-v1%5D%5BtweetText%5D=&version=v1&videoHeight=360&videoWidth=640&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed"></iframe>
-			</div><!-- /welcoming -->
-		</article>
-		<article>
-				<div class="twyxter">
-					<h1>
-						Twyxter
-					</h1>
-					<div class="clr"></div>					<p>
-Twyxter builds private, online communities that leverage employees' personal interests and values to create a more engaging work experience. Twyxter is not a business tool for employees; instead, it's a personal tool for the enterprise that helps people save time, save money and expand their personal connections within the workforce.   
-					</p>
-					<iframe src="http://fast.wistia.net/embed/iframe/nmoymisov3?playerColor=28a4f7&plugin%5Bsocialbar-v1%5D%5Bbuttons%5D=&plugin%5Bsocialbar-v1%5D%5BtweetText%5D=&version=v1&videoHeight=360&videoWidth=640&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed"></iframe>
-				</div><!-- /twyxter -->
-		</article>
-		<article>
-				<div class="wanderu">
-					<h1>
-						Wanderu
-					</h1>
-					<div class="clr"></div>					<p>
-Wanderu is an effortless and free way to find and book inter-city buses and trains between any two points in the country. Wanderu instantly searches through hundreds of routes, operators and schedules to get you exactly where you need to go. Find the perfect ride to any destination, while saving loads of time and money. No more frustration. Just Wanderu and get there.
-					</p>
-				</div><!-- /wanderu -->
-		</article>
 		<article>
 				<div class="databox">
 					<h1>
@@ -453,16 +504,6 @@ Databox is the first mobile-only executive dashboard. It helps executives stay c
 					</div>
 			</article>
 		<article>
-				<div class="ivan">
-					<h1>
-						Ivan Mitrovic
-					</h1>
-					<div class="clr"></div>
-					<p>As the <span class="role">Director of Data Science</span> at PayPal, Ivan runs the Data Science team. He was formerly the CTO of WHERE, Inc and the founder at KMaps.</p><p>As the Project Lead and Senior Enterprise Architect in S1, Atlanta, Ivan has deployed and integrated multimillion dollar financial enterprise applications and payment solutions for some of the largest financial institutions in USA and Europe. Clients included Bank of America, Fleet, Nova Scotia Bank, US Bank, M&I Bank, CIBC, Federal Home Loan Bank of Boston, Federal Home Loan Bank of New York, Vystar, Sovereign Bank, ABN AMRO, Wachovia, Wells Fargo.</p><p>Before that, he was a Senior Software Architect at FICS, a financial software services startup from Brussels, Belgium that builds Corporate Banking and Payment solutions for large banks, including Bank of Boston and ABN AMRO. 
-					</p>
-				</div>
-		</article>
-		<article>
 				<div class="arik">
 					<h1>
 						Arik Keller
@@ -540,16 +581,7 @@ In his role as <span class="role">Design Lead</span> for the PayPal Media Networ
 					<iframe src="http://fast.wistia.net/embed/iframe/j6p8ouovft?playerColor=28a4f7&plugin%5Bsocialbar-v1%5D%5Bbuttons%5D=&plugin%5Bsocialbar-v1%5D%5BtweetText%5D=&version=v1&videoHeight=360&videoWidth=640&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed"></iframe>
 				</div>
 		</article>
-		<article>
-				<div class="colin">
-					<h1>
-						Colin Haley
-					</h1>
-					<div class="clr"></div>					<p>
-As a <span class="role">Product Manager</span> for PayPal, Colin works on developing a multi-channel display platform. He builds our strategic roadmaps that define our solutions for the different markets/verticals we are working with. He works closely with multiple scrum teams, building and managing backlogs and defining customer value for each sprint. Additionally he works with sales and operations to ensure the organization has a clear understanding of what problems our products solve.
-					</p>
-				</div>
-		</article>
+		
 		<article>
 				<div class="max">
 					<h1>
