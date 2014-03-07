@@ -44,15 +44,16 @@ STARTUPS
 			<li class="givewell"><a href="#s_detail" >
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/givewell.png" />
 			</a></li>
+			<li class="sparkfull"><a href="#s_detail" >
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/sparkfull.png" />
+			</a></li>
 			
 			<?php /*
 			
 			<li class="screenex"><a href="#s_detail" >
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/screenex.png" />
 			</a></li>
-			<li class="sparkfull"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/sparkfull.png" />
-			</a></li>
+			
 			*/ ?>
 			
 			<li class="launchangels"><a href="#s_detail" >
@@ -82,12 +83,11 @@ STARTUPS
 			<li class="linkcycle"><a href="#s_detail" >
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/linkcycle.png" />
 			</a></li>
-			<li class="techlok"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/techlok.png" />
-			</a></li>
+			<?php /* 
 			<li class="databox"><a href="#s_detail">
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/databox.png" />
 			</a></li>
+			*/ ?>
 		</ul>
 
 		<div class="startup_hiddenCopy">
@@ -442,8 +442,11 @@ Databox is the first mobile-only executive dashboard. It helps executives stay c
 			<li class="davidchang"><a href="#m_detail">
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/davidchang.png" />
 			</a></li>
-			<li class="ivan"><a href="#m_detail">
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/ivan.jpg" />
+			<li class="karen"><a href="#m_detail">
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/karen.png" />
+			</a></li>
+			<li class="delmar"><a href="#m_detail">
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/delmar.jpg" />
 			</a></li>
 			<li class="arik"><a href="#m_detail">
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/arik.png" />
@@ -454,21 +457,13 @@ Databox is the first mobile-only executive dashboard. It helps executives stay c
 			<li class="sarah"><a href="#m_detail">
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/sarah.jpeg" />
 			</a></li>
-			<li class="karen"><a href="#m_detail">
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/karen.png" />
-			</a></li>
 			<li class="stefanie"><a href="#m_detail">
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/stefanie.png" />
 			</a></li>
 			<li class="paul"><a href="#m_detail">
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/paul.png" />
 			</a></li>
-			<li class="delmar"><a href="#m_detail">
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/delmar.jpg" />
-			</a></li>
-			<li class="colin"><a href="#m_detail">
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/colin.png" />
-			</a></li>
+			
 			<!--	
 			<li class="max"><a href="#m_detail">
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/max.png" />

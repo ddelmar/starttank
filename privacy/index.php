@@ -22,12 +22,8 @@
 								<ul>
 								<li>Members of the PayPal-eBay Inc. corporate family to provide joint content, products and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. Members of our corporate family will use this information to send marketing communications only if a consumer has requested their services and opted-in to ongoing communications pertaining to the service.</li>
 								<li>Service providers under contract who help with parts of our business operations such as fraud prevention, bill collection, marketing and technology services. Our contracts dictate that these service providers only use information in connection with the services they perform for us and not for their own benefit.</li>
-								<li>Law enforcement, government officials, or other third parties when we
-								<ul>
-								<li>Are compelled to do so by a subpoena, court order or similar legal procedure, and</li>
-								<li>Believe the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity or to investigate violations of our User Agreement.</li>
-								</ul>
-								</li>
+								<li>Law enforcement, government officials, or other third parties when we are compelled to do so by a subpoena, court order or similar legal procedure, and believe the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity or to investigate violations of our User Agreement.</li>
+								
 								<li>Companies that we plan to merge with or are acquired by. (Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to the processing of personal information.)</li>
 								<li>We may share aggregate or anonymous data with our Clients to report on campaign metrics, revenue and other analytic reports.</li>
 								</ul>

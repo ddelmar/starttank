@@ -64,10 +64,6 @@ For startups to succeed, they need a community in which to thrive. It's not just
 </div><!-- /about5 -->
 </article>
 
-<article>
-	<a href="#">
-	<div id="contact">
-		<!-- <h2>Contact Us</h2> -->
 	</div>
 	</a>
 </article>
@@ -75,7 +71,7 @@ For startups to succeed, they need a community in which to thrive. It's not just
 <article>
 <div id="about6_wrapper">
 	<div id="about6_contain">
-	<h1>Other ebay resources for startups</h1>
+	<h1>Other eBay resources for startups</h1>
 		<div>
 			<a href="https://www.paypal-blueprint.com/ebay" title="PayPal Startup Blueprint" target="_blank">
 				<h2>PayPal Startup Blueprint</h2>
@@ -83,8 +79,8 @@ For startups to succeed, they need a community in which to thrive. It's not just
 			<p>Global program that partners with top tier startups incubators, accelerators and VCs.</p>
 		</div>
 		<div>
-			<a href="http://friendsofebay.svpply.com/" title="Friends of ebay" target="_blank">
-				<h2>Friends of ebay</h2>
+			<a href="http://friendsofebay.svpply.com/" title="Friends of eBay" target="_blank">
+				<h2>Friends of eBay</h2>
 			</a>
 			<p>Provides free office space for early stage New York City startups.</p>
 		</div>
