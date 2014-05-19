@@ -1,0 +1,119 @@
+h2 { font-size: 1.75em; font-weight: 100; }
+
+h3 { font-size: 1.3em; font-weight: 100; }
+
+.navChild {
+	width: 1000px;
+}
+
+img.logo {
+	width: 240px;
+}
+
+.navChild ul {
+	width: 500px;
+}
+
+.navChild ul li {
+	
+}
+
+.navChild ul li a { 
+	width:110px;
+	background-image: url(../i/navBorder.png);
+	}
+
+.navHome h3 { padding: 0 30px; }
+
+.navHome li {
+	width:257px;
+	height: 430px;
+}
+
+.navHome li a {
+	height:100%;
+	font-size: 1em;
+	
+}
+
+/*
+**************************************************
+START: THE ONLY BIT THAT DIFFERS FROM DESKTOP.CSS
+**************************************************
+*/
+.navHome li a:hover,
+.navHome li a.selected { background-position: center bottom; }
+.navHome li a#where { background-image: url(../i/ie_legacy/navHome_pin.png); }
+.navHome li a#how { background-image: url(../i/ie_legacy/navHome_gears.png); }
+.navHome li a#capabilities { background-image: url(../i/ie_legacy/navHome_package.png); }
+.navHome li a#commerce { background-image: url(../i/ie_legacy/navHome_shoppingcart.png); }
+
+.x { background-image: url(../i/ie_legacy/x.png); }
+
+/*
+**************************************************
+END: THE ONLY BIT THAT DIFFERS FROM DESKTOP.CSS
+**************************************************
+*/
+
+.header_dots {
+	position:absolute;
+	top:40px;
+	width:100%;
+	height:375px;
+	background: transparent url(../i/dots.png) center top repeat;
+}
+
+.header {
+	margin-top: 40px;
+	
+}
+
+.header ul {
+}
+
+.header ul li {
+	height:375px;
+	width:100%;
+	display: none;
+}
+
+.header ul li.header_home {
+	display:block;
+	background: #98c3c6 url(../i/header_ny.png) center top no-repeat;
+}
+
+.header ul li.header_where { background: #98c6d6; }
+.header ul li.header_how { background: #98d3c0; }
+.header ul li.header_commerce { background: #98dbd4; }
+
+.header ul li h1 {
+	font-size:3.7em;
+	position:absolute;
+	top:325px;
+	left:50%;
+	margin-left: -500px;
+}
+
+.contentChild {
+	width:1028px;
+	}
+
+.contentParent { width:100%; }
+
+.contentHome li img {
+	width:92px;
+	margin: 10px 100px 0 50px;
+}
+		
+.contentHome li p {
+	width: 710px;
+	}
+
+#contactform form {
+	width: 1000px;
+}
+	
+#contactform textarea {
+	width:170px;
+	}

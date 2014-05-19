@@ -7,7 +7,7 @@ h2 { font-size: 1.75em; font-weight: 100; }
 
 h3 { font-size: 1.3em; font-weight: 100; }
 
-p {font-size:.9em; }
+p, ul, ol  { font-size: 1.4em; }
 
 .navChild {
 	width: 90%;
@@ -19,26 +19,34 @@ img.logo {
 	padding: 14px 0 0 0;
 }
 
+._page {
+	/* background-image: url("../i/diamond_upholstery.png"); */
+	background-position: center top;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-size: 100px;
+}
+
 #contactform {
 	top: 71px;
 	padding: 12px 0 0 10px;
 }
 
 .navChild ul {
-	width: 90%;
+	width: 80%;
 }
 
 .navChild ul li {
 	
 }
 
-.navChild ul li a {
-    background-image: url("../i/navBorder.png");
-    width: 110px;
-	font-size:11px;
+.navChild ul li a { 
+	width:140px;
+	font-size: 12px;
 	height: 70px;
     line-height: 72px;
-}
+	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/navBorder.png);
+	}
 
 .navHome h3 { padding: 0 30px; }
 
@@ -72,35 +80,13 @@ img.logo {
 	background: transparent url(http://where-spotlight.s3.amazonaws.com/start-tank/dots.png) center top repeat;
 }
 
-.about_dots, #about3, .about_dots, #about6, .footer_blank { display:none; }
-
-
-#about6_wrapper {
-	width:100%;
-	margin: 0 auto;
-	text-align: center;
-}
-
-#about6_contain {
-	margin: 0 auto;
-	text-align: center;
+.about_dots {
+	position: absolute;
+	top: 1200px;
 	width: 100%;
+	height: 400px;
+	background: transparent url(http://where-spotlight.s3.amazonaws.com/start-tank/dots.png) center top repeat;
 }
-
-#about6_contain h1 {
-	margin: 1em 0 .2em .8em;
-	float: left;
-	text-align: left;
-}
-
-#about6_contain div {
-	width: 42%;
-	margin: 1% 4% 4% 4%;
-	float: left;
-	text-align: left;
-	background-color: transparent;
-}
-
 
 .header {
 	margin-top: 40px;
@@ -213,7 +199,7 @@ img.logo {
 	}
 
 #about1 {
-	height: 450px;
+	height: 700px;
 	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/home.jpg) ;
 	}
 
@@ -222,31 +208,70 @@ img.logo {
 	background-size: 100% auto ; 
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	border-bottom: 1px solid #d4d4d4;
 	color: white; 
 	height: 500px;
 }
 
-
+#about3 {
+	height: 400px;
+	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/jeancharles.jpg) ;
+	background-color: #0093c2;
+	}
 	
 #about5 {
-	background:#e5e5e5;
+	background:#007da5;
 	height:200px;
 }
 
 #about5 h1, #about5 h1 a {
 	color:white;
-	margin:5.8em 0 0 0;
-	font-size:16px;
+	margin:1.5em 0 0 0;
 }
 
 #about5 h2 {
-	margin:5.8em 0 0 0;
-	font-size: 16px;
-	
+	margin:3.8em 0 0 0;
+	color: #fff;
 	/*
 	font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,sans-serif;
 	*/
+}
+
+#about6 {
+	height: 515px;
+	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/kitchen.jpg);
+	background-size: 100%;
+	background-repeat:no-repeat;
+	background-position: 0% 100%;
+	position: fixed;
+	top: 620px;
+	width: 100%;
+	z-index: -1;
+}
+
+#about6_wrapper {
+	width:100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#about6_contain {
+	margin: 0 auto;
+	text-align: center;
+	width: 1000px;
+}
+
+#about6_contain h1 {
+	margin: 1em 0 .2em .8em;
+	float: left;
+	text-align: left;
+}
+
+#about6_contain div {
+	width: 42%;
+	margin: 1% 4% 4% 4%;
+	float: left;
+	text-align: left;
+	background-color: transparent;
 }
 
 #contact h2 {
@@ -283,7 +308,7 @@ img.logo {
 .logo_square {
 	background-image: url("http://where-spotlight.s3.amazonaws.com/start-tank/starttank.svg");
 	background-position: center center;
-	background-size: 90% auto;
+	background-size: 75% auto;
 	background-repeat:no-repeat;
 	background-color: #0093c2;
 	/* background-color: #EE303B;		RED */
@@ -301,6 +326,23 @@ img.logo {
 	float: left;
 	padding: 0 0 0 2em;
 }
+
+body.about_page,
+body.thanks_page {
+	background-repeat: no-repeat;
+	background-size:40% auto;
+}
+
+/*
+body.about_page.about1,
+body.thanks_page.about1 {background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/about-img01.png);}
+body.about_page.about2,
+body.thanks_page.about2 {background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/about-img02.png);}
+body.about_page.about3,
+body.thanks_page.about3 {background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/about-img03.png);}
+body.about_page.about4,
+body.thanks_page.about4 {background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/about-img04.png);}
+*/
 
 .faqSubContainerL {
 	text-align:left;
@@ -342,13 +384,10 @@ img.logo {
 }
 
 .faq {
-	margin: 100px 5% 0;
-	width:89%;
-}
-
-.press {
-	margin: 100px 5% 0;
-	width:89%;
+	float:left;
+	margin: 100px 5% 0 40%;
+	width: 50%;
+	padding: 0 0 0 40px;
 }
 
 #faqContent {
@@ -361,11 +400,6 @@ img.logo {
 
 .footer_blank {background:none;}
 
-.onecolumn {
-	padding: 4%;
-	width: 92%;
-}
-
 /*************
 COMMUNITY
 *************/
@@ -375,30 +409,51 @@ COMMUNITY
 .community .startups,
 .community .mentors { margin: 0 auto; }
 
-.community .startup_writeup, .community .mentor_writeup { width: 40%; padding: 20px 0 0 0;}
+.community .startup_writeup, .community .mentor_writeup { width: 40%; padding: 20px 0 0 30px;}
 
 .community iframe {
-	width:480px;
-	height:272px;
+	width:640px;
+	height:363px;
 	margin: 12px 0;
 }
 
-/*
-*************
-APPLY
-*************
-*/
-
 .apply_left {
+	margin: 100px auto 0 auto;
+	padding: 0 0 0 40px;
 	text-align:left;
-    margin: 100px 5% 0;
-    width: 89%;
+	float: left;
+	width:50%;
+}
+
+.apply_right {
+	text-align: left;
+	width: 44%;
+	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/about-img04.png);
+	height: 100%;
+	position: fixed;
+	right: 0;
 }
 
 /*************
 COLUMNS
 *************/
-.onecolumn { padding: 0 2%; }
-.leftcolumn { width: 44%; padding: 0 4%; }
-.rightcolumn { width: 44%; }
 
+.leftcolumn { width: 69%; }
+.rightcolumn { width: 20%; }
+
+/*
+***************
+BRANDATHON
+***************
+*/
+.brandathon_video {
+	position: fixed;
+	height: 700px;
+	top: 0;
+	margin: 0;
+}
+
+.community {
+	position: relative;
+	top: 50%;
+}

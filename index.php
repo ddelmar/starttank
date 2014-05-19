@@ -73,7 +73,7 @@ For startups to succeed, they need a community in which to thrive. It's not just
 	<div id="about6_contain">
 	<h1>Other eBay resources for startups</h1>
 		<div>
-			<a href="https://www.paypal-blueprint.com/ebay" title="PayPal Startup Blueprint" target="_blank">
+			<a href="http://blueprint.paypal.com" title="PayPal Startup Blueprint" target="_blank">
 				<h2>PayPal Startup Blueprint</h2>
 			</a>
 			<p>Global program that partners with top tier startups incubators, accelerators and VCs.</p>

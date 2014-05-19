@@ -1,0 +1,15 @@
+/* #about3{margin-top: -1400px;} */
+#about3, .about_dots, #about6, .footer_blank {
+	display:none;
+}
+#about5 h1 {font-size: 32px; margin-top: 80px; float: left; }
+#about5 h2 {font-size: 24px; margin-top:80px; float: left; }
+
+.startups img,
+.mentors img {
+	opacity:1;
+	margin:1px 1px 0 1px;
+}
+
+.navParent { text-align:left; float: left; left:0; }
+.navChild ul li, .navChild ul li a { float: right; width:150px;}

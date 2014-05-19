@@ -104,7 +104,38 @@ $(".mentor_logos a").click(function(){
 	$(".mentor_logos ." + thisclassMentors + " a").addClass("selected");
 	$(".mentor_writeup").html(thiscontentMentors);
 });
-}		
+}	
+
+//----------- Brandathon ----------//
+if(window.location.pathname == '/brandathon/'){
+
+// Wait until images are loaded before displaying them
+	var StartupImgTotal = $(".startups img").size(); 	// get the number of images
+	var imgCount = 0;
+	$(".startups img").load(function(){
+		if(++imgCount == StartupImgTotal){
+			$(".startups img").animate({
+			"opacity":1
+			});	
+			}
+	});
+setTimeout(function(){
+	// Force the load if it doesn't happen after 3 seconds
+	$(".startups img").css("opacity","1");
+}, 2000);
+	
+$(".startup_logos a").click(function(){
+	var thisclass = $(this).parent().attr("class");
+	var thiscontent = $(".startup_hiddenCopy ." + thisclass).html();
+	var thisSiblings = $(this).parent().siblings();
+	// alert(thisSiblings);
+	$(thisSiblings).children().removeClass("selected").addClass("unselected");
+	$(".startup_logos ." + thisclass + " a").addClass("selected");
+	$(".startup_writeup").html(thiscontent);
+});
+}
+
+	
 deviceDetect();
 
 }); // END DOC.READY

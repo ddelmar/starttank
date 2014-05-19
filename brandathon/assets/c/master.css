@@ -682,3 +682,77 @@ APPLICATION
 	box-shadow: inset 1px 1px 1px rgba(0,0,0,0.7);
 }
 
+/*
+***********
+BRANDATHON
+***********
+*/
+
+@font-face {
+  font-family: 'Coustard';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Coustard'), url(http://themes.googleusercontent.com/static/fonts/coustard/v4/7Z1TmjHUqIGEzERrLfAhXHYhjbSpvc47ee6xR_80Hnw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Black'), local('Lato-Black'), url(http://themes.googleusercontent.com/static/fonts/lato/v7/G2uphNnNqGFMHLRsO_72ngLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
+}
+
+.brandathon_video {
+	width: 100%;
+}
+
+.brandathon_video img {
+	width: 100%;
+}
+
+.brandathon h2 {
+	font-family: 'Lato', times new roman;
+	text-transform: uppercase;
+	font-size: 1.8em;
+	letter-spacing: 0.05em;
+	margin: 40px 0;
+	padding: 0;
+}
+
+.brandathon section.blue {
+	background-color: #0093c2;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	position: relative;
+	top: 75%;
+}
+
+.brandathon section.blue * { color: white; }
+.brandathon section.blue p { 
+	text-align: left; 
+	}
+
+
+.brandathon div.container_800 {
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+	max-width: 800px;
+	width: 100%;
+	background-color: transparent;
+	font-family: 'Coustard';
+}
+
+.brandathon div.container_800 img.top {
+	margin: 40px 0 0 0;
+}
+
+.brandathon div.container_800 img.bottom {
+	margin: 0 0 40px 0;
+}
+
+.brandathon div.container_800 p {
+-webkit-column-count: 2;
+-moz-column-count: 2;
+column-count: 2;
+}
