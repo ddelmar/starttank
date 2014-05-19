@@ -701,12 +701,14 @@ BRANDATHON
   src: local('Lato Black'), local('Lato-Black'), url(http://themes.googleusercontent.com/static/fonts/lato/v7/G2uphNnNqGFMHLRsO_72ngLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
 }
 
-.brandathon_video {
+.brandathon_fullspread {
 	width: 100%;
 }
 
-.brandathon_video img {
+.brandathon_fullspread .bg1,
+.brandathon_fullspread .bg2 {
 	width: 100%;
+	height: auto;
 }
 
 .brandathon h2 {
@@ -717,6 +719,8 @@ BRANDATHON
 	margin: 40px 0;
 	padding: 0;
 }
+
+/* BLUE */
 
 .brandathon section.blue {
 	background-color: #0093c2;
