@@ -22,6 +22,7 @@
 <script type="text/javascript" src="/brandathon/assets/j/ppmn.js"></script>
 <script type="text/javascript" src="/brandathon/assets/j/nbw-parallax.js"></script>
 <script type="text/javascript" src="/brandathon/assets/j/jquery.inview.js"></script>
+<script type="text/javascript" src="/brandathon/assets/j/brandathon.js"></script>
 
 
 <title><?php 
@@ -38,8 +39,11 @@
 	
 	<a href="/"><img class="logo" src="http://where-spotlight.s3.amazonaws.com/start-tank/starttank_0093c2.svg"/></a>
 
-<div class="brandathon_video">
-	<img src="http://where-spotlight.s3.amazonaws.com/start-tank/home.jpg">
+<div class="section_container">
+<div class="brandathon_fullspread">
+	<div class="isobar bg2"></div>
+	
+	<img src="http://where-spotlight.s3.amazonaws.com/start-tank/home.jpg" class="bg1">
 </div>
 
 <section class="blue">
@@ -56,9 +60,9 @@
 	</div><!-- /container_800 -->
 </section>
 <?php require_once('assets/includes/community.php'); ?>
+</div><!--/ section_container -->
 
-
-						<div class="clr"></div>
+						<div class="clr end_community"></div>
 						<div class="footer home">
 							<p>
 								&copy;<script type="text/javascript">
