@@ -59,7 +59,13 @@
 		</a>
 	</div><!-- /container_800 -->
 </section>
+<section class="white">
+	<div class="container_full">
+	<img src="/i/brandathon_sectionbreak_iphone.jpg" class="top">
+	<h2>What it is</h2>
 <?php require_once('assets/includes/community.php'); ?>
+	</div><!-- /container_full -->
+</section>
 </div><!--/ section_container -->
 
 						<div class="clr end_community"></div>

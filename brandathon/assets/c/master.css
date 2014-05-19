@@ -701,6 +701,13 @@ BRANDATHON
   src: local('Lato Black'), local('Lato-Black'), url(http://themes.googleusercontent.com/static/fonts/lato/v7/G2uphNnNqGFMHLRsO_72ngLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
 }
 
+section {
+	position: relative;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
 .brandathon_fullspread {
 	width: 100%;
 }
@@ -716,38 +723,33 @@ BRANDATHON
 	text-transform: uppercase;
 	font-size: 1.8em;
 	letter-spacing: 0.05em;
-	margin: 40px 0;
-	padding: 0;
+	padding: 40px 0;
+	margin: 0;
 }
 
 /* BLUE */
 
 .brandathon section.blue {
 	background-color: #0093c2;
-	width: 100%;
-	margin: 0 auto;
-	text-align: center;
-	position: relative;
 	top: 75%;
 }
 
 .brandathon section.blue * { color: white; }
-.brandathon section.blue p { 
-	text-align: left; 
-	}
+.brandathon section.blue p { text-align: left; }
 
-
-.brandathon div.container_800 {
+.brandathon div.container_800,
+.brandathon div.container_full {
 	margin: 0 auto;
 	padding: 0;
 	text-align: center;
-	max-width: 800px;
 	width: 100%;
 	background-color: transparent;
 	font-family: 'Coustard';
 }
 
-.brandathon div.container_800 img.top {
+.brandathon div.container_800 { max-width: 800px;}
+
+img.top {
 	margin: 40px 0 0 0;
 }
 
@@ -759,4 +761,11 @@ BRANDATHON
 -webkit-column-count: 2;
 -moz-column-count: 2;
 column-count: 2;
+}
+
+.white { 
+background-color: #f7f7f7; 
+}
+
+.white h2 {
 }
