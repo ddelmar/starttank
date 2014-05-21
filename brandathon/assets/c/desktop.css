@@ -447,32 +447,55 @@ BRANDATHON
 ***************
 */
 
-.brandathon .section_container {
-	position: relative;
-	top: 75%;
+.brandathon #logo {
+	position: absolute;
+	z-index:3;
 }
 
-.brandathon_fullspread .bg1 {
+.brandathon .section_container {
+	position: absolute;
+	top: 75%;
+	z-index:1;
+}
+
+.brandathon_fullspread {
+	width: 100%;
+	height: 100%;
+	overflow-y: hidden;
 	position: fixed;
 	top: 0;
 	left: 0;
+}
+
+.brandathon_fullspread .bg1 {
 	margin: 0;
+	
+/*	background-image: url(/i/isobar_eventspace.jpg); */
+	background-color: #999999;
+	background-repeat: no-repeat;
+	background-position: fixed;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 	z-index:0;
+	width:100%;
+	height: 100%;
 }
 
 .brandathon .community {
 }
 
-.brandathon .community .startups{
-	background: #f7f7f7 url(http://where-spotlight.s3.amazonaws.com/start-tank/dots.png) center top repeat;
+.brandathon .community > div {
+	background-color: #f7f7f7;
 }
 
-.brandathon_fullspread .bg2 {
-	/*
+.isobar.bg2 {
 	background-image: url(/i/isobar_eventspace.jpg);
 	background-color: #999999;
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-position: fixed;
 	background-attachment: fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -480,8 +503,40 @@ BRANDATHON
 	background-size: cover;
 	z-index:1;
 	width:100%;
-	height: 700px;
+	height: 100%;
 	position: absolute;
-	*/
+
 }
 
+.brandathon .community ul { 
+	width:33%; 
+}
+
+.brandathon .community li a, 
+.brandathon .community li a.unselected {
+	float: left;
+	display: block;
+	width: 49%;
+	margin: 0 auto;
+	border: 1px solid transparent;
+}
+
+.brandathon .community .startup_writeup, .community .mentor_writeup {
+width: 60%;
+padding: 20px 0 0 30px;
+}
+
+.space {
+	position: absolute;
+	top: 0px;
+	width: 100%;
+	height:3200px;
+	background-image: url(/i/isobar_eventspace.jpg);
+	background-repeat: no-repeat;
+	background-position: fixed;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}

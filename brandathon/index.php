@@ -36,39 +36,66 @@
 </head>
 
 <body class="brandathon">
-	
-	<a href="/"><img class="logo" src="http://where-spotlight.s3.amazonaws.com/start-tank/starttank_0093c2.svg"/></a>
-
+<?php /*	
+<a id="logo" href="/"><img class="logo" src="http://where-spotlight.s3.amazonaws.com/start-tank/starttank_0093c2.svg"/></a>
+*/ ?>
 <div class="section_container">
-<div class="brandathon_fullspread">
-	<div class="isobar bg2"></div>
+<div class="brandathon_fullspread">	
 	
-	<img src="http://where-spotlight.s3.amazonaws.com/start-tank/home.jpg" class="bg1">
+	
+	<video class="bg1" loop="loop" autoplay="autoplay">
+	  <source src="/brandathon/assets/v/water.mp4" type="video/mp4">
+	  <img src="/i/brandathon_water.png" width="100%" height="auto">
+	</video>
+	
+
+	
 </div>
 
-<section class="blue">
+<section class="intro white">
 	<div class="container_800">
-		<img src="/i/brandathon_sectionbreak_moleskine.jpg" class="top">
+		<img src="/i/brandathon_sectionbreak_moleskine.jpg" class="top moleskine">
 		<h2>What it is</h2>
 		<p>
 			Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. 
-		</p>
+			</p>
+			
+			<div id="example4"></div>
+
 		<h2>RSVP</h2>
 		<a href="#">
 		<img src="/i/brandathon_sectionbreak_rsvp.jpg" class="bottom">
 		</a>
 	</div><!-- /container_800 -->
 </section>
+
+
 <section class="white">
 	<div class="container_full">
 	<img src="/i/brandathon_sectionbreak_iphone.jpg" class="top">
-	<h2>What it is</h2>
-<?php require_once('assets/includes/community.php'); ?>
-	</div><!-- /container_full -->
+	<h2 class="community_nav"><span id="startups" class="selected">Startups,</span>&nbsp;&nbsp;&nbsp;<span id="agencies">Agencies,</span>&nbsp;&nbsp;and&nbsp;&nbsp;<span id="judges">Judges</span></h2>
+	
+<div class="community">
+	<div class="startups">
+		<?php require_once('assets/includes/startups.php'); ?>
+	</div>
+	<div class="agencies">
+		<?php require_once('assets/includes/agencies.php'); ?>
+	</div>
+	<div class="judges">
+		<?php require_once('assets/includes/judges.php'); ?>
+	</div>
+</div><!-- /communuity -->
+</div><!-- /container_full -->
 </section>
 </div><!--/ section_container -->
+<div class="clr"></div>
+<div class="space"></div>
 
-						<div class="clr end_community"></div>
+
+    
+
+
 						<div class="footer home">
 							<p>
 								&copy;<script type="text/javascript">
@@ -85,13 +112,13 @@
 						<script>
 						  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 						  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-						  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-						  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+						 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-						  ga('create', 'UA-42859593-1', 'starttank.com');
-						  ga('send', 'pageview');
+ga('create', 'UA-42859593-1', 'starttank.com');
+ga('send', 'pageview');
 
-						</script>	
-			</body>
-			</html>
+	</script>	
+</body>
+</html>
 

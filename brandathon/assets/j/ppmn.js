@@ -133,6 +133,14 @@ $(".startup_logos a").click(function(){
 	$(".startup_logos ." + thisclass + " a").addClass("selected");
 	$(".startup_writeup").html(thiscontent);
 });
+
+$(".community_nav span").click(function(){
+//	var communityGrid= $(this).attr("id");
+	$(".community div." + $(this).attr("id")).show();
+	$(".community > div:not(." + $(this).attr("id") + ")").hide();
+	$(this).addClass("selected");
+	$(this).siblings().removeClass("selected");
+});
 }
 
 	

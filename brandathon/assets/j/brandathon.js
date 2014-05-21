@@ -17,26 +17,30 @@ $(document).ready(function() { //when the document is ready...
 
 if (($(document).width()) < 768){
 } else {
-	
 	//save selectors as variables to increase performance
 	var $window = $(window);
 	var windowHeight = $window.height(); //get the height of the window
-	
 	//apply the class "inview" to a section that is in the viewport
-	$(".brandathon_fullspread .bg1").bind("inview", function (event, visible) {
+	$(".moleskine").bind("inview", function (event, visible) {
 			if (visible == true) {
 			$(this).addClass("inview");
 			} else {
 			$(this).removeClass("inview");
 			}
 		});
-	$(".end_community").bind("inview", function (event, visible) {
-			if (visible == true) {
-			$(this).addClass("inview");
-			} else {
-			$(this).removeClass("inview");
-			}
-		});
-	
-}
+
+
+function Move(){ 
+	var pos = $window.scrollTop();
+	if (pos > 1200) {
+	} else {
+	}
+}	
+$window.resize(function(){ //if the user resizes the window...
+	Move(); //move the background images in relation to the movement of the scrollbar
+});		
+
+$window.bind('scroll', function(){ //when the user is scrolling...
+	Move(); //move the background images in relation to the movement of the scrollbar
+});	
 });

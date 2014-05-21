@@ -463,10 +463,6 @@ COMMUNITY
 	float: left;
 }
 
-.community .startups {
-	padding:74px 0 0 0;
-}
-
 .community .mentors {
 }
 
@@ -532,9 +528,7 @@ COMMUNITY
 	opacity:1;
 }
 
-.community .startups {
-	background: transparent url(http://where-spotlight.s3.amazonaws.com/start-tank/dots.png) center top repeat ;
-}
+
 
 .community .startup_writeup,
 .community .mentor_writeup {
@@ -701,6 +695,10 @@ BRANDATHON
   src: local('Lato Black'), local('Lato-Black'), url(http://themes.googleusercontent.com/static/fonts/lato/v7/G2uphNnNqGFMHLRsO_72ngLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
 }
 
+.brandathon p {
+	color: #333;
+}
+
 section {
 	position: relative;
 	width: 100%;
@@ -712,10 +710,10 @@ section {
 	width: 100%;
 }
 
-.brandathon_fullspread .bg1,
-.brandathon_fullspread .bg2 {
+.brandathon_fullspread .bg1 {
 	width: 100%;
 	height: auto;
+	background: url(/i/brandathon_water.png) center top no-repeat;
 }
 
 .brandathon h2 {
@@ -727,16 +725,18 @@ section {
 	margin: 0;
 }
 
+.brandathon .section_container {
+width:100%;
+}
+
 /* BLUE */
+
 
 .brandathon section.blue {
 	background-color: #0093c2;
-	top: 75%;
 }
 
 .brandathon section.blue * { color: white; }
-.brandathon section.blue p { text-align: left; }
-
 .brandathon div.container_800,
 .brandathon div.container_full {
 	margin: 0 auto;
@@ -745,6 +745,11 @@ section {
 	width: 100%;
 	background-color: transparent;
 	font-family: 'Coustard';
+}
+
+.brandathon section.intro {
+	top: 75%;
+	border-bottom: 1px solid #333;
 }
 
 .brandathon div.container_800 { max-width: 800px;}
@@ -768,4 +773,11 @@ background-color: #f7f7f7;
 }
 
 .white h2 {
+color: #333;
 }
+
+.white h2 span {cursor: pointer;}
+
+.community > div {display:none;}
+.community > div.startups {display:block;} 			/* page loads with startups visible */
+.community_nav span.selected { color:#0093c2; }
