@@ -699,6 +699,17 @@ BRANDATHON
 	color: #333;
 }
 
+#brandathonlogo img {
+	width: 500px;
+	height: auto;
+	background: transparent;
+	position: absolute;
+	z-index: 4;
+	top: 300px;
+	left: 50%;
+	margin-left: -250px;
+}
+
 section {
 	position: relative;
 	width: 100%;
@@ -762,10 +773,8 @@ img.top {
 	margin: 0 0 40px 0;
 }
 
-.brandathon div.container_800 p {
--webkit-column-count: 2;
--moz-column-count: 2;
-column-count: 2;
+.brandathon .partners {
+	float: left;
 }
 
 .white { 

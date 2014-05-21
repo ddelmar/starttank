@@ -36,9 +36,10 @@
 </head>
 
 <body class="brandathon">
-<?php /*	
-<a id="logo" href="/"><img class="logo" src="http://where-spotlight.s3.amazonaws.com/start-tank/starttank_0093c2.svg"/></a>
+<?php /*
+<a id="brandathonlogo" href="/"><img src="/i/B-02.png"/></a>
 */ ?>
+
 <div class="section_container">
 <div class="brandathon_fullspread">	
 	
@@ -85,29 +86,31 @@
 	<div class="judges">
 		<?php require_once('assets/includes/judges.php'); ?>
 	</div>
-</div><!-- /communuity -->
+	
+	
+	
+	
+</div><!-- /community -->
 </div><!-- /container_full -->
 </section>
+
+
+
+<section class="blue partners">
+	<div class="container_800">
+		<img src="/i/brandathon_sectionbreak_screwdriver.jpg" class="top moleskine">
+		<h2>Our Partners</h2>
+</section>
+
+
+
 </div><!--/ section_container -->
 <div class="clr"></div>
-<div class="space"></div>
+
 
 
     
 
-
-						<div class="footer home">
-							<p>
-								&copy;<script type="text/javascript">
-								      now = new Date
-								      theYear=now.getYear()
-								      if (theYear < 1900)
-								      theYear=theYear+1900
-								      document.write(theYear)</script> PayPal Media Network. All Rights Reserved. &nbsp;&nbsp;
-								<a href="/terms/">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-								<a href="/privacy/">Privacy</a>
-							</p>
-						</div>
 
 						<script>
 						  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

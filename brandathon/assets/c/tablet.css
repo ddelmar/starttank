@@ -402,3 +402,13 @@ COLUMNS
 .leftcolumn { width: 44%; padding: 0 4%; }
 .rightcolumn { width: 44%; }
 
+
+/*************
+BRANDATHON
+*************/
+
+.brandathon div.container_800 p {
+-webkit-column-count: 2;
+-moz-column-count: 2;
+column-count: 2;
+}

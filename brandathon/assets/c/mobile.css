@@ -266,3 +266,14 @@ APPLY
     margin: 130px 5% 0;
     width: 89%;
 }
+
+/*
+************
+BRANDATHON
+************
+*/
+.brandathon div.container_800 p {
+-webkit-column-count: 1;
+-moz-column-count: 1;
+column-count: 1;
+}

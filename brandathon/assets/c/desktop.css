@@ -467,6 +467,12 @@ BRANDATHON
 	left: 0;
 }
 
+.brandathon div.container_800 p {
+-webkit-column-count: 2;
+-moz-column-count: 2;
+column-count: 2;
+}
+
 .brandathon_fullspread .bg1 {
 	margin: 0;
 	
@@ -540,3 +546,4 @@ padding: 20px 0 0 30px;
 	-o-background-size: cover;
 	background-size: cover;
 }
+
