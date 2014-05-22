@@ -790,3 +790,8 @@ color: #333;
 .community > div {display:none;}
 .community > div.startups {display:block;} 			/* page loads with startups visible */
 .community_nav span.selected { color:#0093c2; }
+.community li a {background: white; }
+.community li a:hover,
+.community li a.selected {
+	border:1px solid #999;
+}

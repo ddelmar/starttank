@@ -5,133 +5,104 @@ AGENCIES
 **********
 -->
 		<ul class="startup_logos">
-			<li class="covvet"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/covvet.png" />
+			<li class="nail"><a href="#s_detail" >
+				<img src="/brandathon/assets/i/logo_nail.png" />
 			</a></li>
-			<li class="2ct"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/2ct.png" />
+			<li class="ag"><a href="#s_detail" >
+				<img src="/brandathon/assets/i/logo_ag.png" />
 			</a></li>
-			<li class="project2020"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/project2020.png" />
+			<li class="amp"><a href="#s_detail" >
+				<img src="/brandathon/assets/i/logo_amp.png" />
 			</a></li>
-			<li class="serviceroute"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/serviceroute.png" />
+			<li class="ctp"><a href="#s_detail" >
+				<img src="/brandathon/assets/i/logo_ctp.png" />
 			</a></li>
-			<li class="canary"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/canary.png" />
+			<li class="hillholiday"><a href="#s_detail" >
+				<img src="/brandathon/assets/i/logo_hillholiday.png" />
 			</a></li>
-			<li class="dashbell"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/dashbell.png" />
+			<li class="mmb"><a href="#s_detail" >
+				<img src="/brandathon/assets/i/logo_mmb.png" />
 			</a></li>
-			<li class="onthebar"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/onthebar.png" />
-			</a></li>
-			<li class="supplet last"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/supplet.png" />
-			</a></li>
+			
+			
 		</ul>
 
 		<div class="startup_hiddenCopy">
 			<article>
-					<div class="covvet">
+					<div class="ag">
 						<h2>
-							Covvet
+							Allen & Gerritsen
 						</h2>
 						<div class="clr"></div>						
 						<p>
-							Covvet is an online wish list that tracks prices on the web so you 
-							never miss a sale on the things you want.
+We are a shared passion for what's next. The next problem to solve. The next trend to watch. The next client to wow. If you're interested in seeing what tomorrow has in store, we should talk.
 						</p>
-					</div><!-- /covvet -->
+					</div><!-- /ag -->
 			</article>
 			<article>
-					<div class="2ct">
+					<div class="amp">
 						<h2>
-							Second Chance Technologies
+							AMP Agency
 						</h2>
 						<div class="clr"></div>						
 						<p>
-							Second Chance Technologies is a new online and mobile 
-							platform that fundamentally changes how consumers find the 
-							best deals and make purchases.
+Insights inspired. Results driven. It’s not just our tagline, it’s how we approach every marketing program, every strategy, every campaign, everything we do.
+<br /><br />
+'Insights inspired' summarizes our belief that getting inside the consumer’s head is the only way to uncover the invaluable knowledge that fuels our strategic thinking, drives our creative process and informs our media recommendations. ‘Results driven’ speaks to our constant desire to show you the measurable fruits of your marketing dollars and to confirm your decision to partner with AMP Agency.
 							
 						</p>
-					</div><!-- /2ct -->
+					</div><!-- /amp -->
 			</article>
 				<article>
-						<div class="project2020">
+						<div class="ctp">
 							<h2>
-								Project 2020
+								Conover Tuttle Pace
 							</h2>
 							<div class="clr"></div>						
 							<p>
-								Project 2020 delivers cost-neutral, on-site eye care and 
-								comprehensive eye exams to businesses and their employees 
-								via a state-of-art mobile eye clinic ("eye truck").
+Some interesting things have happened since the world became digital. Consumers now share in the ownership of your brand. Content has evolved radically, in its creation and sharing. Expressions, not impressions, are the new guiding force.<br /><br />The brands navigating this landscape successfully share some interesting traits. They have a clear purpose. They’re more honest, transparent and genuine. They’re more intriguing, fully engaged and not easily ignored.
+<br /><br />They are, quite simply, more human.
+<br /><br />At CTP, we believe a brand’s true potential is unleashed by capturing this human spirit. Backed by data-driven insights. Fueled by a powerful communications engine. And expressed by a group that doesn’t just believe in this force. We actually live it.
 
 							</p>
-						</div><!-- /project2020 -->
+						</div><!-- /ctp -->
 				</article>
 				<article>
-						<div class="serviceroute">
+						<div class="hillholiday">
 							<h2>
-								ServiceRoute
+								Hill Holiday
 							</h2>
 							<div class="clr"></div>						
 							<p>
-								ServiceRoute drives commerce and increases route density for 
-								residential contractors by clustering properties for service.
+In 1968, Jay Hill, Alan Holliday, Jack Connors and Steve Cosmopulos founded an agency in Boston based on the principle that creativity could drive business. Forty five years later, we're still operating on that very same premise, albeit with a few more people. Today, there are more than 900 of us who work at Hill Holliday. Together, we are the 13th largest ad agency in the United States. It's very nice to meet you. 
 
 							</p>
-						</div><!-- /serviceroute -->
+						</div><!-- /hillholiday -->
 				</article>
 				<article>
-						<div class="canary">
+						<div class="mmb">
 							<h2>
-								Canary
+								MMB
 							</h2>
 							<div class="clr"></div>						
 							<p>
-								<a href="http://gocanary.com/" target="_blank" title="Canary">Canary</a> is a safer, local online marketplace that donates 30% of their profits to local charities.
+Unlike many agencies, we’ve designed ours with no barriers. No barriers between design, digital marketing, brand content, media planning and advertising. No barriers between our agency and our clients, or between our partners and our clients’ partners. No barriers between us and the new ideas in the world, just waiting for us to discover and apply in the marketing of our client’s brands.
 
 							</p>
-						</div><!-- /canary -->
+						</div><!-- /mmb -->
 				</article>
 				<article>
-						<div class="dashbell">
+						<div class="nail">
 							<h2>
-								Dashbell
+								Nail
 							</h2>
 							<div class="clr"></div>						
-							<p>Dashbell enables independent hotels to take control and reduce 
-							commissions paid to outside travel agencies through an online 
-							reservations tool and hotel management system.
+							<p>
+We are a band of creatives, strategists & geeks who help make companies interesting in exchange for a totally reasonable amount of money.
 							</p>
 						</div>
 				</article>
-				<article>
-						<div class="onthebar">
-							<h2>
-								onthebar
-							</h2>
-							<div class="clr"></div>						
-							<p>onthebar connects consumers and spirit brands with the most 
-							effective and charming salespeople on earth, bartenders.
-							</p>
-						</div>
-				</article>
-				<article>
-						<div class="supplet">
-							<h2>
-								Supplet
-							</h2>
-							<div class="clr"></div>						
-							<p>
-								Supplet is a healthy pregnancy marketplace, community and 
-								monthly gift box service for pregnant women and new moms.
-							</p>
-						</div>
-				</article>
+
 		</div><!-- /startup_copy -->
 		<div id="s_detail"></div>
 		
