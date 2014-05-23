@@ -36,9 +36,9 @@
 </head>
 
 <body class="brandathon">
-<?php /*
-<a id="brandathonlogo" href="/"><img src="/i/B-02.png"/></a>
-*/ ?>
+
+<a id="brandathonlogo" href="/"><img src="/brandathon/assets/i/Brandathon.png"/></a>
+
 
 <div class="section_container">
 <div class="brandathon_fullspread">	
@@ -74,7 +74,7 @@
 <section class="white">
 	<div class="container_full">
 	<img src="/i/brandathon_sectionbreak_iphone.jpg" class="top">
-	<h2 class="community_nav"><span id="startups" class="selected">Startups,</span>&nbsp;&nbsp;&nbsp;<span id="agencies">Agencies,</span>&nbsp;&nbsp;and&nbsp;&nbsp;<span id="judges">Judges</span></h2>
+	<h2 class="community_nav"><span id="startups" class="selected">Startups,</span>&nbsp;&nbsp;&nbsp;<span id="agencies">Agencies,</span>&nbsp;&nbsp;<br class="mobileonly"/>and&nbsp;&nbsp;<span id="judges">Judges</span></h2>
 	
 <div class="community">
 	<div class="startups">

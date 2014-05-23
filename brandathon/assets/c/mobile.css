@@ -277,3 +277,8 @@ BRANDATHON
 -moz-column-count: 1;
 column-count: 1;
 }
+
+#brandathonlogo img {
+	margin-left: 20%;
+	left: 0;
+}

@@ -447,9 +447,13 @@ BRANDATHON
 ***************
 */
 
-.brandathon #logo {
-	position: absolute;
-	z-index:3;
+.mobileonly {display:none; }
+
+
+#brandathonlogo img {
+	left: 50%;
+	margin-left: -180px;
+	top: 200px;
 }
 
 .brandathon .section_container {

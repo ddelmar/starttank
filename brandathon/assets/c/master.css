@@ -700,14 +700,13 @@ BRANDATHON
 }
 
 #brandathonlogo img {
-	width: 500px;
+	width: 60%;
+	max-width: 360px;
 	height: auto;
 	background: transparent;
 	position: absolute;
 	z-index: 4;
-	top: 300px;
-	left: 50%;
-	margin-left: -250px;
+	
 }
 
 section {
@@ -792,6 +791,12 @@ color: #333;
 .community_nav span.selected { color:#0093c2; }
 .community li a {background: white; }
 .community li a:hover,
-.community li a.selected {
+
+.community .startups li a:hover,
+.community .startups li a.selected,
+.community .judges li a:hover,
+.community .judges li a.selected,
+.community .agencies li a:hover,
+.community .agencies li a.selected {
 	border:1px solid #999;
 }

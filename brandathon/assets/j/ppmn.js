@@ -129,7 +129,8 @@ $(".startup_logos a").click(function(){
 	var thiscontent = $(".startup_hiddenCopy ." + thisclass).html();
 	var thisSiblings = $(this).parent().siblings();
 
-	$(thisSiblings).children().removeClass("selected").addClass("unselected");
+	// $(thisSiblings).children().removeClass("selected").addClass("unselected");
+	$(".startup_logos a").removeClass("selected").addClass("unselected");
 	$(".startup_logos ." + thisclass + " a").addClass("selected");
 	$(".startup_writeup").html(thiscontent);
 });

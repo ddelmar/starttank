@@ -407,8 +407,15 @@ COLUMNS
 BRANDATHON
 *************/
 
+.mobileonly {display:none; }
+
 .brandathon div.container_800 p {
 -webkit-column-count: 2;
 -moz-column-count: 2;
 column-count: 2;
+}
+
+#brandathonlogo img {
+	margin-left: 20%;
+	left: 0;
 }
