@@ -416,6 +416,7 @@ column-count: 2;
 }
 
 #brandathonlogo img {
-	margin-left: 20%;
-	left: 0;
+	left: 50%;
+	margin-left: -180px;
+	top: 60px;
 }

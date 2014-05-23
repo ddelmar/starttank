@@ -85,7 +85,7 @@ It's a truly unique event - "Mad Men" meets the startups world. Don't miss it.
 <section class="white">
 	<div class="container_full">
 	<img src="/i/brandathon_sectionbreak_iphone.jpg" class="top">
-	<h2 class="community_nav"><span id="startups" class="selected">Startups</span>&nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp;<span id="agencies">Agencies</span>
+	<h2 class="community_nav"><span id="startups" class="selected">Startups</span><br class="mobileonly"/>&nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp;<span id="agencies">Agencies</span>
 		
 		<!-- &nbsp;&nbsp;<br class="mobileonly"/>and&nbsp;&nbsp;<span id="judges">Judges</span> -->
 		</h2>

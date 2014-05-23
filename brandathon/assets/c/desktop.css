@@ -542,6 +542,10 @@ column-gap:40px;
 	margin: 0 auto;
 }
 
+.brandathon div.container_full {
+	font-size: .875em;
+}
+
 .brandathon .community .startup_writeup, .community .mentor_writeup {
 width: 60%;
 padding: 20px 0 0 30px;
