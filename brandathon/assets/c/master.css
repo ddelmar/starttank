@@ -755,6 +755,14 @@ width:100%;
 	width: 100%;
 	background-color: transparent;
 	font-family: 'Coustard';
+	font-size: .875em;
+}
+
+.brandathon div.container_800 p,
+.brandathon div.container_full p {
+	text-align: left;
+	margin: 1.4em 0 0 0;
+	line-height: 1.6em;
 }
 
 .brandathon section.intro {
@@ -788,7 +796,9 @@ color: #333;
 
 .community > div {display:none;}
 .community > div.startups {display:block;} 			/* page loads with startups visible */
-.community_nav span.selected { color:#0093c2; }
+
+.community_nav span { background: transparent; color: #0093c2; padding: 0 5px; }
+.community_nav span.selected { background:#0093c2; color: white; }
 .community li a {background: white; }
 .community li a:hover,
 
@@ -799,4 +809,23 @@ color: #333;
 .community .agencies li a:hover,
 .community .agencies li a.selected {
 	border:1px solid #999;
+}
+
+.partners { text-align: center; }
+
+.partners ul {
+width: 200px;
+text-align: center;
+margin: 0 auto;
+}
+
+.partners ul li a img{
+	float: left;
+	width: 90px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.partners ul li a img.first{
+	margin-right: 10px;
 }

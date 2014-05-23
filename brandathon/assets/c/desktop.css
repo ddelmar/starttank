@@ -453,7 +453,7 @@ BRANDATHON
 #brandathonlogo img {
 	left: 50%;
 	margin-left: -180px;
-	top: 200px;
+	top: 160px;
 }
 
 .brandathon .section_container {
@@ -475,6 +475,9 @@ BRANDATHON
 -webkit-column-count: 2;
 -moz-column-count: 2;
 column-count: 2;
+column-gap:40px;
+-moz-column-gap:40px; /* Firefox */
+-webkit-column-gap:40px; /* Safari and Chrome */
 }
 
 .brandathon_fullspread .bg1 {
@@ -529,6 +532,14 @@ column-count: 2;
 	width: 49%;
 	margin: 0 auto;
 	border: 1px solid transparent;
+}
+
+.brandathon .community .startups li a, 
+.brandathon .community .startups li a.unselected {
+	float: left;
+	display: block;
+	width: 24%;
+	margin: 0 auto;
 }
 
 .brandathon .community .startup_writeup, .community .mentor_writeup {

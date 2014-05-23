@@ -234,7 +234,7 @@ COMMUNITY
 .startups, .mentors {margin-top:70px;}
 
 .community .startup_writeup, .community .mentor_writeup {
-	padding: 0 1%;
+	padding: 0 1% 5% 1%;
     width: 98%;
 }
 
@@ -281,4 +281,9 @@ column-count: 1;
 #brandathonlogo img {
 	margin-left: 20%;
 	left: 0;
+}
+
+.brandathon section {
+	width: 90%;
+	padding: 0 5%;
 }

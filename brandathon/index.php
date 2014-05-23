@@ -58,15 +58,26 @@
 		<img src="/i/brandathon_sectionbreak_moleskine.jpg" class="top moleskine">
 		<h2>What it is</h2>
 		<p>
-			Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. Here's some content. 
+When the March 2014 Start Tank was announced, Kathy Kiely, President of The Ad Club, had an inspired thought. Rather than another hack-a-thon, why not create the first ever "Brand-a-thon" to provide startups with the kind of marketing and branding genius typically reserved for the biggest, global brands.
+<br /><br />
+Within days, Kathy recruited some of the top creative teams of leading agencies, and we'll kick off the Brand-a-thon on June 20 where these teams select the most promising Start Tank startups. After a quick briefing, the creative teams will pull a couple all-nighters to put together their best work. On June 26th, we'll have an unique event where they present polished work to panel of renowned judges, all CMO's and CEO's.
+</br /><br />
+It's a truly unique event - "Mad Men" meets the startups world. Don't miss it.
 			</p>
 			
-			<div id="example4"></div>
 
+<?php /*
 		<h2>RSVP</h2>
 		<a href="#">
 		<img src="/i/brandathon_sectionbreak_rsvp.jpg" class="bottom">
 		</a>
+		
+		Remove that next div when you re-enable the RSVP. That's the spacing.
+*/ ?>
+	<div style="width:100%; height: 100px; display:block; ">
+		
+		
+		
 	</div><!-- /container_800 -->
 </section>
 
@@ -74,7 +85,10 @@
 <section class="white">
 	<div class="container_full">
 	<img src="/i/brandathon_sectionbreak_iphone.jpg" class="top">
-	<h2 class="community_nav"><span id="startups" class="selected">Startups,</span>&nbsp;&nbsp;&nbsp;<span id="agencies">Agencies,</span>&nbsp;&nbsp;<br class="mobileonly"/>and&nbsp;&nbsp;<span id="judges">Judges</span></h2>
+	<h2 class="community_nav"><span id="startups" class="selected">Startups</span>&nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp;<span id="agencies">Agencies</span>
+		
+		<!-- &nbsp;&nbsp;<br class="mobileonly"/>and&nbsp;&nbsp;<span id="judges">Judges</span> -->
+		</h2>
 	
 <div class="community">
 	<div class="startups">
@@ -100,6 +114,17 @@
 	<div class="container_800">
 		<img src="/i/brandathon_sectionbreak_screwdriver.jpg" class="top moleskine">
 		<h2>Our Partners</h2>
+		<ul>
+			<li>
+				<a href="http://starttank.com" target-"_blank" title="Start Tank">
+					<img src="/brandathon/assets/i/logo_starttank.png" class="first"/>
+				</a>
+			</li>
+			<li>
+				<a href="http://adclub.org" target-"_blank" title="Ad Club">
+					<img src="/brandathon/assets/i/logo_adclub.png" />
+				</a>
+			</li>
 </section>
 
 
