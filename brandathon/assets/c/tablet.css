@@ -408,6 +408,7 @@ BRANDATHON
 *************/
 
 .mobileonly {display:none; }
+.mobile_tablet_only {display:block;}
 
 .brandathon div.container_800 p {
 -webkit-column-count: 2;
@@ -419,4 +420,18 @@ column-count: 2;
 	left: 50%;
 	margin-left: -180px;
 	top: 60px;
+}
+
+.brandathon_fullspread {
+	background-image: url(/i/brandathon_water.png);
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	position: relative;
+	width: 100%;
+	height: 50%;
+}
+
+.brandathon_fullspread .bg1 {
+	display: none;
 }

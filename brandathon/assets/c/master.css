@@ -720,12 +720,6 @@ section {
 	width: 100%;
 }
 
-.brandathon_fullspread .bg1 {
-	width: 100%;
-	height: auto;
-	background: url(/i/brandathon_water.png) center top no-repeat;
-}
-
 .brandathon h2 {
 	font-family: 'Lato', times new roman;
 	text-transform: uppercase;

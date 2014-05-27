@@ -43,9 +43,11 @@
 <div class="section_container">
 <div class="brandathon_fullspread">	
 	
+	  <img src="/i/brandathon_water.png" width="100%" height="auto" class="mobile_tablet_only">
 	
-	<video class="bg1" loop="loop" autoplay="autoplay">
+	<video class="bg1" loop="loop" autoplay="autoplay" >
 	  <source src="/brandathon/assets/v/water.mp4" type="video/mp4">
+		<source src="/brandathon/assets/v/water.webmsd.webm" type="video/webm">
 	  <img src="/i/brandathon_water.png" width="100%" height="auto">
 	</video>
 	

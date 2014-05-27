@@ -272,6 +272,8 @@ APPLY
 BRANDATHON
 ************
 */
+.mobile_tablet_only {display:block;}
+
 .brandathon div.container_800 p {
 -webkit-column-count: 1;
 -moz-column-count: 1;
@@ -289,4 +291,20 @@ column-count: 1;
 }
 
 .brandathon .startups {margin-top:0px;}
+
+.brandathon_fullspread {
+	/*
+	background-image: url(/i/brandathon_water.png);
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	position: relative;
+	width: 100%;
+	height: 50%;
+	*/
+}
+
+.brandathon_fullspread .bg1 {
+	display: none;
+}
 
