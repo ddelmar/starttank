@@ -454,7 +454,7 @@ BRANDATHON
 #brandathonlogo img {
 	left: 50%;
 	margin-left: -180px;
-	top: 160px;
+	top: 195px;
 }
 
 .brandathon .section_container {
@@ -468,7 +468,7 @@ BRANDATHON
 	height: 100%;
 	overflow-y: hidden;
 	position: fixed;
-	top: 0;
+	top: 70px;
 	left: 0;
 }
 
@@ -572,3 +572,7 @@ padding: 20px 0 0 30px;
 	background-size: cover;
 }
 
+#participants, #what {
+	margin-top: -70px;
+	padding-top: 70px;
+}

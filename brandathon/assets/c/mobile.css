@@ -293,6 +293,7 @@ column-count: 1;
 .brandathon .startups {margin-top:0px;}
 
 .brandathon_fullspread {
+	margin-top: 110px;
 	/*
 	background-image: url(/i/brandathon_water.png);
 	background-position: center top;
@@ -304,7 +305,19 @@ column-count: 1;
 	*/
 }
 
+.brandathon_fullspread img {
+	padding: 0 0 110px 0;
+}
+
 .brandathon_fullspread .bg1 {
 	display: none;
 }
 
+.brandathon .navChild ul li a {
+width: 49%;
+}
+
+#participants, #what {
+	margin-top: -110px;
+	padding-top: 110px;
+}

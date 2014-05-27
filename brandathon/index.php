@@ -36,10 +36,21 @@
 </head>
 
 <body class="brandathon">
+	<div class="navParent">
+		<div class="navChild">
+			<a href="/"><img class="logo" src="http://where-spotlight.s3.amazonaws.com/start-tank/starttank_0093c2.svg"/></a>
+			<ul>
+				<li  class="contact"><a href="#participants">Participants</a></li>
+				<li><a href="#what">About Brandathon</a></li>
+			
+				
+			</ul>
+		</div><!-- /navChild -->
+	</div><!-- /navParent -->
+	
+	
 
 <a id="brandathonlogo" href="/"><img src="/brandathon/assets/i/Brandathon.png"/></a>
-
-
 <div class="section_container">
 <div class="brandathon_fullspread">	
 	
@@ -55,7 +66,7 @@
 	
 </div>
 
-<section class="intro white">
+<section id="what" class="intro white">
 	<div class="container_800">
 		<img src="/i/brandathon_sectionbreak_moleskine.jpg" class="top moleskine">
 		<h2>What it is</h2>
@@ -84,7 +95,7 @@ It's a truly unique event - "Mad Men" meets the startups world. Don't miss it.
 </section>
 
 
-<section class="white">
+<section id="participants" class="white">
 	<div class="container_full">
 	<img src="/i/brandathon_sectionbreak_iphone.jpg" class="top">
 	<h2 class="community_nav"><span id="startups" class="selected">Startups</span><br class="mobileonly"/>&nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp;<span id="agencies">Agencies</span>

@@ -5,6 +5,12 @@ AGENCIES
 **********
 -->
 		<ul class="startup_logos">
+			<li class="isobar"><a href="#s_detail" >
+				<img src="/brandathon/assets/i/logo_isobar.jpg" />
+			</a></li>
+			<li class="forge"><a href="#s_detail" >
+				<img src="/brandathon/assets/i/logo_forge.jpg" />
+			</a></li>
 			<li class="nail"><a href="#s_detail" >
 				<img src="/brandathon/assets/i/logo_nail.png" />
 			</a></li>
@@ -28,6 +34,33 @@ AGENCIES
 		</ul>
 
 		<div class="startup_hiddenCopy">
+			<article>
+					<div class="isobar">
+						<h2>
+							Isobar
+						</h2>
+						<div class="clr"></div>						
+						<p>
+Founded in 2003, Isobar has since become the world’s most global digital agency powered by nearly 3,000 people across 37 markets.
+
+<br /><br />We create long-term, rewarding relationships between brands and consumers, and are committed to ideas without limits, borderless thinking and experiences that translate across markets. Our worldwide reach means that we can bring fulfilling experiences to our clients and their customers—wherever they want to lead in the world.
+						</p>
+					</div><!-- /isobar -->
+			</article>
+			
+			<article>
+					<div class="forge">
+						<h2>
+							Forge Worldwide
+						</h2>
+						<div class="clr"></div>						
+						<p>
+It is our belief that as the world grows more complicated, people, more than ever, want to be understood as people. Not numbers. Not trends. Not social media touchpoints. They want to associate with companies that understand their dreams and needs. Companies that share their logo2 core beliefs. This is why we work to uncover your Bedrock Truth™ – the thing your customers most value in you, and the thing you most value in yourself.
+<br /><br />By uncovering this valued, shared truth we can forge meaningful relationships between you and your customers on a deeply human level.
+<br /><br />Companies and brands are not our own anymore. The world gives and takes approval constantly online. Which is why it's imperative to develop ideas so personally meaningful that people want to share those ideas with others to bring meaning to their lives, too.
+						</p>
+					</div><!-- /forge -->
+			</article>
 			<article>
 					<div class="ag">
 						<h2>

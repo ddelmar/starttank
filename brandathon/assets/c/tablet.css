@@ -435,3 +435,8 @@ column-count: 2;
 .brandathon_fullspread .bg1 {
 	display: none;
 }
+
+#participants, #what {
+	margin-top: -70px;
+	padding-top: 70px;
+}
