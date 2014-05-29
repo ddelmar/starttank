@@ -40,7 +40,8 @@
 		<div class="navChild">
 			<a href="/"><img class="logo" src="http://where-spotlight.s3.amazonaws.com/start-tank/starttank_0093c2.svg"/></a>
 			<ul>
-				<li  class="contact"><a href="#participants">Participants</a></li>
+				<li  class="contact"><a href="http://adclub.org/events?eventId=914378&EventViewMode=EventDetails">Buy tickets</a></li>
+				<li><a href="#participants">Participants</a></li>
 				<li><a href="#what">About Brandathon</a></li>
 			
 				
@@ -79,15 +80,12 @@ It's a truly unique event - "Mad Men" meets the startups world. Don't miss it.
 			</p>
 			
 
-<?php /*
-		<h2>RSVP</h2>
-		<a href="#">
+		<h2>Buy tickets</h2>
+		<a href="http://adclub.org/events?eventId=914378&EventViewMode=EventDetails" title="Buy Tickets">
 		<img src="/i/brandathon_sectionbreak_rsvp.jpg" class="bottom">
 		</a>
 		
-		Remove that next div when you re-enable the RSVP. That's the spacing.
-*/ ?>
-	<div style="width:100%; height: 100px; display:block; ">
+	
 		
 		
 		

@@ -132,6 +132,14 @@ JUDGES
 							</p>
 						</div>
 				</article>
+				<article>
+						<div class="judges_default">
+							<h2>Meet the judges</h2><div class="clr"></div>
+							<p>
+								The startups in the Start Tank are diverse as the teams themselves. From community recycling to innovative train and bus travel booking, many companies have already been awarded some high honors. Click around, and see what startups are hiring now.
+							</p>
+						</div>
+				</article>
 		</div><!-- /startup_copy -->
 		<div id="s_detail"></div>
 		

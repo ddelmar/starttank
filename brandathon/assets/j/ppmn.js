@@ -136,11 +136,13 @@ $(".startup_logos a").click(function(){
 });
 
 $(".community_nav span").click(function(){
+	var thiscontent_default = $("." + $(this).attr("id") + " .startup_hiddenCopy ." + $(this).attr("id") + "_default").html();
 //	var communityGrid= $(this).attr("id");
 	$(".community div." + $(this).attr("id")).show();
 	$(".community > div:not(." + $(this).attr("id") + ")").hide();
 	$(this).addClass("selected");
 	$(this).siblings().removeClass("selected");
+	$(".startup_writeup").html(thiscontent_default);
 });
 
 	$('.brandathon .navChild ul li a').click(function(){

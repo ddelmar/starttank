@@ -752,15 +752,24 @@ width:100%;
 }
 
 .brandathon div.container_800 p,
-.brandathon div.container_full p {
+.brandathon div.container_full p,
+.brandathon h3 {
 	text-align: left;
 	margin: 1.4em 0 0 0;
 	line-height: 1.6em;
 }
 
+.brandathon h3 {
+	color: #0093c2;
+	font-family: 'Coustard';
+	font-size: 1.4em;
+}
+
 .brandathon section.intro {
 	top: 75%;
 	border-bottom: 1px solid #333;
+	z-index:4;
+	
 }
 
 .brandathon div.container_800 { max-width: 800px;}
@@ -779,6 +788,10 @@ img.top {
 
 .white { 
 background-color: #f7f7f7; 
+}
+
+#participants a {
+	font-size: .85em;
 }
 
 .white h2 {
