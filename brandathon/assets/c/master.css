@@ -695,19 +695,21 @@ BRANDATHON
   src: local('Lato Black'), local('Lato-Black'), url(http://themes.googleusercontent.com/static/fonts/lato/v7/G2uphNnNqGFMHLRsO_72ngLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
 }
 
+#ie {display:none; }
+
 .brandathon p {
 	color: #333;
 }
 
 #brandathonlogo img {
-	width: 60%;
-	max-width: 360px;
-	height: auto;
 	background: transparent;
 	position: absolute;
 	z-index: 4;
-	
+	width: 60%;
+	height: auto;
 }
+
+#brandathonlogo img.normal { max-width: 360px; }
 
 section {
 	position: relative;
@@ -766,10 +768,9 @@ width:100%;
 }
 
 .brandathon section.intro {
-	top: 75%;
 	border-bottom: 1px solid #333;
 	z-index:4;
-	
+	top: 75%;
 }
 
 .brandathon div.container_800 { max-width: 800px;}

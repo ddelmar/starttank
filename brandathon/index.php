@@ -13,10 +13,8 @@
 <link rel="shortcut icon" href="http://where-spotlight.s3.amazonaws.com/start-tank/favicon.png" />
 <link rel="apple-touch-icon" href="https://www.paypalobjects.com/en_US/i/pui/apple-touch-icon.png" />
 <link href="/brandathon/assets/c/master.css" rel="stylesheet" type="text/css" />
-<!--[if IE]>
-<link href="/brandathon/assets/c/desktop.css" rel="stylesheet" type="text/css" />
-<link href="/brandathon/assets/c/ie9.css" rel="stylesheet" type="text/css" />
-<style>.startups img, .mentors img {opacity:1;}</style>
+<!--[if lt IE 9]>
+<style>body {display:none;} #ie {display:block;}</style>
 <![endif]-->
 <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 <script type="text/javascript" src="/brandathon/assets/j/ppmn.js"></script>
@@ -34,7 +32,6 @@
 ?></title>
 
 </head>
-
 <body class="brandathon">
 	<div class="navParent">
 		<div class="navChild">
@@ -60,7 +57,7 @@
 	<video class="bg1" loop="loop" autoplay="autoplay" >
 	  <source src="/brandathon/assets/v/water.mp4" type="video/mp4">
 		<source src="/brandathon/assets/v/water.webmsd.webm" type="video/webm">
-	  <img src="/i/brandathon_water.png" width="100%" height="auto">
+	  <img src="/i/brandathon_water.png" >
 	</video>
 	
 

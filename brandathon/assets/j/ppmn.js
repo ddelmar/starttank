@@ -123,6 +123,18 @@ setTimeout(function(){
 	// Force the load if it doesn't happen after 3 seconds
 	$(".startups img").css("opacity","1");
 }, 2000);
+
+function viewportdimensions(){
+	var viewportwidth = window.innerWidth;
+	var viewportheight = window.innerHeight;
+	if (viewportheight > 650) {
+		$("#brandathonlogo img").addClass("normal").removeClass("tiny");
+	} else {
+		$("#brandathonlogo img").addClass("tiny").removeClass("normal");
+	}
+}
+viewportdimensions();
+window.onresize = function() {viewportdimensions();}
 	
 $(".startup_logos a").click(function(){
 	var thisclass = $(this).parent().attr("class");

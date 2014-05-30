@@ -454,8 +454,10 @@ BRANDATHON
 #brandathonlogo img {
 	left: 50%;
 	margin-left: -180px;
-	top: 195px;
+	top: 18%;
 }
+
+#brandathonlogo img.tiny { max-width: 230px; margin-left: -130px; }
 
 .brandathon .section_container {
 	position: absolute;

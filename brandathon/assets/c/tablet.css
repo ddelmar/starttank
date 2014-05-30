@@ -422,6 +422,13 @@ column-count: 2;
 	top: 60px;
 }
 
+#brandathonlogo img.tiny { max-width: 230px; margin-left: -130px;}
+#brandathonlogo img.tiny { max-width: 230px; margin-left: -130px; }
+
+.brandathon section.intro {
+	top: 80%;	
+}
+
 .brandathon_fullspread {
 	background-image: url(/i/brandathon_water.png);
 	background-position: center top;
@@ -437,6 +444,14 @@ column-count: 2;
 }
 
 #participants, #what {
-	margin-top: -70px;
 	padding-top: 70px;
 }
+
+
+@media (max-width: 1000px) {
+	.brandathon #what {
+		padding-top: 70px;
+		margin-top: -70;
+	}
+}
+
