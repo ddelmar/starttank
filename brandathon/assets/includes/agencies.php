@@ -238,15 +238,16 @@ Pier is an Art Director at Hill Holliday, previously working as Art Director at 
 <a href="http://www.mmb580.com/our-team/jerry-cronin/" target="_blank">Bio</a>  <a href="https://www.linkedin.com/pub/jerry-cronin/5/b01/835" target="_blank">LinkedIn</a>
 <br /><br />
 </p>
-
 <hr />
-
-<h3>Liz Albrecht. Art Director, Designer.</h3>								
-<p>A graduate of Boston University, Liz worked as a Co-founder and Creative Director of Noah Wild Brand. She has been an Art Director at MMB for the past nine years.
+<h3>Jamie Day. Associate Creative Director.</h3>
+<p>
+Jamie joined MMB in 2001 as their 16th employee. And as they say, the 16th time is the charm. Jamie quickly proved himself invaluable with innovative creative, forward-thinking and encyclopedic knowledge, and he rose through the ranks to become Associate Creative Director.  His work has won multiple awards, including an Emmy. 
 <br /><br />
-<a href="https://www.linkedin.com/in/lizalbrecht" target="_blank">LinkedIn</a>
-<br /><br />
+Leading Client Experience
+<br />Subway Restaurants, New Era, Harvard Business School, ESPN, Atari, Top-Flite, Saucony, Putnam Investments, eMusic, Healthworks, Stowe Mountain Resorts, Russell Athletics, Samaritans, IFAW
+	
 </p>
+
 </div><!-- /mmb -->
 				</article>
 				

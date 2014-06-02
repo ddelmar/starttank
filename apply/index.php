@@ -6,7 +6,7 @@
 
 <p>Application to Start Tank is now closed for the spring cycle. Please consider applying in July for the fall cycle.</p>
 
-<?php /* include('../includes/applicationform.php'); */ ?>
+<?php include('../includes/applicationform.php'); ?>
 
 	
 </div><!-- /apply_left -->
