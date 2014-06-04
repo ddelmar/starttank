@@ -203,15 +203,8 @@ Jeff began his creative career as a Copywriter at Ingalls from 1998-2000, before
 </h2>
 <div class="clr"></div>						
 
-<h3>Rick McHugh. VP, Creative Director, Copywriter.</h3>
-<p>
+<h3>Ben Huser. ACD, Vice President.</h3>
 
-A graduate of Boston University, Rick has been with Hill Holliday since 2002, previously working at Greenberg Seronick O’Leary Partners and Holland Mark. At Hill Holliday, Rick has worked on accounts such as Major League Baseball, VH1, (RED), Dunkin' Donuts, NECCO: Clark Bars, The Proctor and Gamble Company, Cigna Health Insurance, Great Wolf Lodge resorts, Anheuser Busch: Budweiser, Bud Light, Bud Select, MA State Lottery, Harvard Pilgrim Health Care, Marshalls, CVS, The Boston Globe, The Boston Bruins.
-<br /><br />
-<a href="https://www.linkedin.com/pub/rick-mchugh/4/261/77b" target="_blank">LinkedIn</a>
-<br /><br />
-</p>
-<hr />
 
 <h3>Pier Madonia. Art Director.</h3>
 <p>
