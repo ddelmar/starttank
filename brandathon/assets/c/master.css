@@ -762,7 +762,7 @@ width:100%;
 }
 
 .brandathon h3 {
-	color: #0093c2;
+	color: #333;
 	font-family: 'Coustard';
 	font-size: 1.4em;
 }
@@ -792,14 +792,14 @@ background-color: #f7f7f7;
 }
 
 #participants a {
-	font-size: .85em;
+	color: #0093c2;
 }
 
 .white h2 {
 color: #333;
 }
 
-.white h2 span {cursor: pointer;}
+h2.community_nav span {cursor: pointer;}
 
 .community > div {display:none;}
 .community > div.startups {display:block;} 			/* page loads with startups visible */
@@ -837,4 +837,8 @@ margin: 0 auto;
 	margin-right: 10px;
 }
 
-
+.brandathon .startup_writeup img {
+	width:100%;
+	max-width: 600px;
+	margin: 0 0 10px 0;
+}

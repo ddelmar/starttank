@@ -13,11 +13,11 @@
 	<div class="aboutSubContainerR">
 	<h1>Start Tank</h1>
 	<p>
-Start Tank is an innovation space for the next generation of startups. Entrepreneurs collaborate with each other, work alongside PayPal teams, tap into a vast network of contacts and leverage seasoned entrepreneurs’ expertise to help grow their companies. 
+Start Tank is an incubator with free co-working space for the next generation of startups. We hope that it will accelerate the growth of the Boston startup ecosystem by enabling entrepreneurs to collaborate with each other, work alongside the PayPal Boston team, tap into a vast network of contacts, and leverage seasoned entrepreneurs' expertise.
 
 <br /><br />
-Come visit us in Boston, London and Chennai and help accelerate the growth of our local startup ecosystems.
 
+In return, the mentors will be plugged into the latest ventures and maximize their entrepreneurial skills and contacts. Come visit us in the PayPal Boston headquarters @ 1 International Place.
 </p>
 	</div><!-- /aboutSubContainerR -->
 
@@ -40,13 +40,11 @@ Come visit us in Boston, London and Chennai and help accelerate the growth of ou
 	<div class="aboutSubContainerR">
 	<h1>Community</h1>
 	<p>
-For startups to succeed, they need a community in which to thrive. Start Tank offers an innovative environment where entrepreneurs can grow and feed off each others' energy, creativity and support. Access to talent and connections from within the PayPal team is unprecedented and many of our mentors have started their own companies.
-<br /><br />
-We take a collaborative approach to working, break, dining and gaming spaces. PayPal office space reflects our strong commitment to entrepreneurialism, experienced leadership and new ideas.
+For startups to succeed, they need a community in which to thrive. It's not just a roof overhead or low cost rent, but the location where a young company situates can prove crucial to its success. The Start Tank offers an innovative environment where entrepreneurs can grow and feed off each others' energy, creativity and support. Access to talent and connections from within the PayPal Boston team is unprecedented and among the many mentors in our office, 10 employees have started their own company at one point. <br /><br />With over 50 collaborative spaces, 2 common areas with seating for 60+ and 2 break areas with gaming and dining space, our office space is the embodiment of a strong commitment to entrepreneurialism, experienced leadership, and new ideas.
 
 <br />
 <br />
-<a href="/community">Learn more about Start Tank startups and mentors. &raquo;</a>
+<a href="/community">Learn more about the startups and mentors that make the PayPal Start Tank what it is. &raquo;</a>
 </p>
 	</div><!-- /aboutSubContainerR -->
 	<div class="clr"></div>

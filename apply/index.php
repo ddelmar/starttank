@@ -3,7 +3,7 @@
 
 <div class="apply_left">
 	<h1>Apply to join Start Tank</h1>
-
+<p>Applications close on July 1.</p><p></p>
 <?php include('../includes/applicationform.php'); ?>
 
 	

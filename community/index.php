@@ -425,7 +425,7 @@ Databox is the first mobile-only executive dashboard. It helps executives stay c
 		<div class="startup_writeup">
 			<h1>Start Tank Startups</h1><div class="clr"></div>
 			<p>
-				The startups in the Start Tank are diverse as the teams themselves. From community recycling to innovative train and bus travel booking, many companies have already been awarded some high honors. Click around, and see what startups are hiring now.
+				The startups in Start Tank are diverse as the teams themselves. From recycling and payments tech to social communities and fashion, many companies have already been awarded some high honors. Click around, and see which startups are hiring now.
 			</p>
 			
 		</div><!-- /startup_writeup -->
@@ -442,23 +442,15 @@ Databox is the first mobile-only executive dashboard. It helps executives stay c
 			<li class="davidchang"><a href="#m_detail">
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/davidchang.png" />
 			</a></li>
-			<li class="karen"><a href="#m_detail">
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/karen.png" />
-			</a></li>
 			<li class="delmar"><a href="#m_detail">
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/delmar.jpg" />
 			</a></li>
 			<li class="arik"><a href="#m_detail">
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/arik.png" />
 			</a></li>
-			<li class="dan"><a href="#m_detail">
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/dan.png" />
-			</a></li>
+			
 			<li class="sarah"><a href="#m_detail">
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/sarah.jpeg" />
-			</a></li>
-			<li class="stefanie"><a href="#m_detail">
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/stefanie.png" />
 			</a></li>
 			<li class="paul"><a href="#m_detail">
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/mentors/paul.png" />
@@ -508,16 +500,7 @@ Databox is the first mobile-only executive dashboard. It helps executives stay c
 					</p>
 				</div>
 		</article>
-		<article>
-				<div class="dan">
-					<h1>
-						Dan Gilmartin
-					</h1>
-					<div class="clr"></div>					
-					<p>Dan is the <span class="role">Director of Mobile Marketing</span> for PayPal, responsible for consumer and merchant acquisition for PayPal mobile products. Most recently Dan was the head of marketing for the PayPal Media Network and related solutions for advertising and commerce. Previously, Dan managed consumer location based-services for Sprint Nextel. In this role, he was responsible for the launch of the first family finding product in the wireless industry Sprint Family Locator, local search, and a host of other GPS enabled services. Prior to Sprint Nextel, Dan led product initiatives for VeriSign, a company he joined through a series of acquisitions including Network Solutions who acquired a start-up he helped launch, ImageCafe. Dan received his bachelor's degree from Villanova University. When not working, Dan loves to spend time with his family, root for the New York Yankees and fly-fish. Follow Dan on Twitter. <a href="http://twitter.com/dangilmartin" target="_blank">@DanGilmartin</a> 
-					</p>
-				</div>
-		</article>
+		
 		<article>
 				<div class="sarah">
 					<h1>
@@ -530,28 +513,8 @@ Sarah is the <span class="role">Head of Marketing and Sales Strategy</span> at P
 					<iframe src="http://fast.wistia.net/embed/iframe/3ys0rherog?playerColor=28a4f7&plugin%5Bsocialbar-v1%5D%5Bbuttons%5D=&plugin%5Bsocialbar-v1%5D%5BtweetText%5D=&version=v1&videoHeight=360&videoWidth=640&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed"></iframe>
 				</div>
 		</article>
-		<article>
-				<div class="karen">
-					<h1>
-						Karen Murphy
-					</h1>
-					<div class="clr"></div>					<p>
-Karen is a seasoned business development executive with over 14 years experience leading advertising, business development and sales initiatives for both US and International companies. She currently leads <span class="role">Business Development</span> for PayPal Media Network's Emerging Business Unit, with a focus on our mobile Real Time Bidding Platform.</p><p>In 2012, Karen grew the PayPal Media Network Performance Platform from 4 partners to 16, with positive month over month growth, and an average annual growth rate of over 1000%. She also led business development efforts for eBay's internal Owned & Operated Properties, including eBay's Red Laser mobile application for iPhone and Android.</p><p>Specialties: Advertising, Advertising Sales, Advertising Exchanges, Business Development, Digital Media, Demand Side Platforms (DSPs), Media Sales, Mobile, Real Time Bidding Platforms (RTB), Rich Media for Online and Mobile, Strategic Partnerships, Supply Side Platforms (SSPs).
-					</p>
-					<iframe src="http://fast.wistia.net/embed/iframe/sbc5u9racj?playerColor=28a4f7&plugin%5Bsocialbar-v1%5D%5Bbuttons%5D=&plugin%5Bsocialbar-v1%5D%5BtweetText%5D=&version=v1&videoHeight=360&videoWidth=640&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed"></iframe>
-				</div>
-		</article>
-		<article>
-				<div class="stefanie">
-					<h1>
-						Stefanie Matthews
-					</h1>
-					<div class="clr"></div>					
-					<p>
-Stefanie is the <span class="role">Senior Manager of Ad Operations</span> and oversees the post sales development, launch and optimization of all direct mobile advertising. She is responsible for hiring, training and developing Ad Traffickers and Campaign Managers.</p><p>Stefanie's team support Salesforce implementation, training and expanding user adoption and interface expansion. She also manages the Billing and Financial department to support the full end to end campaign process.</p><p>She oversees the project management of the post-sale process, including the development team that writes and implements new code for the launching of nonstandard products. In addition, she provides revenue projections, forecasting and daily reports, reviews and approves all orders that are closed by sales for compliancy, and works closely with the engineering and development teams for creating and enhancing a homegrown user interface for trafficking ad units.
-						</p>
-				</div>
-		</article>
+	
+	
 		<article>
 				<div class="paul">
 					<h1>
@@ -649,7 +612,7 @@ Jared Egan <span class="role">leads the iOS Team responsible for PayPal Here</sp
 		<div class="mentor_writeup">
 			<h1>Start Tank mentors</h1><div class="clr"></div>
 			<p>
-You're in good company here. Our mentors have diverse backgrounds and many years of experience leading teams, negotiating deals, building great products, raising money and generating awareness. In short, we've seen and solved many of the same problems that startups often face. Finance, marketing, product, design, engineering, business development…these are some of the areas in which our mentors can offer their expertise. 
+You're in good company. Our mentors have diverse backgrounds and years of experience leading both startups and large corporate teams. We've seen and solved many of the same problems that startups often face. From marketing and sales to engineering and product development, we are here to help. 
 			</p>
 
 		</div><!-- /mentor_writeup -->
