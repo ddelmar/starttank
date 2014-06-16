@@ -62,174 +62,116 @@ The list: <br />
 			<article>
 					<div class="forge">
 						<h2>
-							Forge Worldwide
+							Forge Worldwide. <span class="blue">Fried chicken and coffee.</span>
 						</h2>
+						
+						
+						<img src="http://www.starttank.com/brandathon/assets/i/group_forge.jpg">
 						<div class="clr"></div>	
-						<h3>Jim Bell. Associate Creative Director.</h3>					
-						<p>
-Brand Experience:<br />McDonald's, Dunkin' Donuts, Bank of America, Rockland Trust, Cisco Systems, John Hancock, Pearle Vision<br /><br />
-I believe...<br />
-you’re only as good as your word. So it's worth taking your time to choose the perfect words.
-<br /><br /><a href="https://www.linkedin.com/in/jimrbell" target="_blank">LinkedIn</a>
-<br /><br />
-</p>
-<hr />
+						<h3>
+							<a href="https://www.linkedin.com/in/jimrbell" target="_blank">
+								Jim Bell.</a> Associate Creative Director.
+						</h3>	
+						<h3>
+							<a href="https://www.linkedin.com/pub/marie-rockett/48/a8a/6a4" target="_blank">
+								Marie Rockett. </a> Senior Art Director.
+						</h3>
+						
 
-<h3>Marie Rockett. Senior Art Director.</h3>
-<p>
-Brand Experience:
-<br />Blue Cross Blue Shield, Prudential, Brigham and Women’s, United Way, IYRS, Spaulding Rehab
-<br /><br />
-	I believe…
-<br />do all things with passion or don't bother doing them at all. And if the music is good, dance!
-<br /><br />
-<a href="https://www.linkedin.com/pub/marie-rockett/48/a8a/6a4" target="_blank">LinkedIn</a>
-	
-	
-</p>
 					</div><!-- /forge -->
 			</article>
 			<article>
 					<div class="ag">
 						<h2>
-							Allen & Gerritsen
+							Allen & Gerritsen. <span class="blue">Pros in Cons</span>
 						</h2>
-						<div class="clr"></div>						
-							<h3>Ariel Heinmann. Art Director.</h3>
-							<p>
+						<img src="http://www.starttank.com/brandathon/assets/i/group_ag.jpg">
+						<div class="clr"></div>	
+						<h3>
+							<a href="https://www.linkedin.com/profile/view?id=98753618&authType=NAME_SEARCH&authToken=iBjy&locale=en_US&srchid=1552348981400783299538&srchindex=1&srchtotal=1&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A1552348981400783299538%2CVSRPtargetId%3A98753618%2CVSRPcmpt%3Aprimary" target="_blank">
+								Ariel Heinmann.</a> Art Director.
+						</h3>	
+						<h3>
+							<a href="https://www.linkedin.com/profile/view?id=78596733&authType=NAME_SEARCH&authToken=Jrui&locale=en_US&trk=tyah2&trkInfo=tarId%3A1400783004436%2Ctas%3Acarissa%20wright%2Cidx%3A1-1-1" target="_blank">
+								Carissa Wright. </a> Copywriter.
+						</h3>
+						
 
-							Well Hello There.<br />
-							A brief bio:<br />
-
-							Born and raised in Rhode Island. Spent college years on the North Shore in Massachusetts. Spent grad school with Paula Deen in hot and sweaty Savannah, Georgia.
-<br /><br />
-							Huge Boston sports fan. Huge baklava fan. Pack leader of three Yellow Labs. Looking to buy stock in the lint roller business.
-<br /><br />
-<a href="https://www.linkedin.com/profile/view?id=98753618&authType=NAME_SEARCH&authToken=iBjy&locale=en_US&srchid=1552348981400783299538&srchindex=1&srchtotal=1&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A1552348981400783299538%2CVSRPtargetId%3A98753618%2CVSRPcmpt%3Aprimary" target="_blank">LinkedIn</a>
-<br /><br /></p>
-
-<hr />
-
-							<h3>Carissa Wright. Copywriter.</h3>
-<p>
-My name is Carissa Wright. I am a 2011 graduate of Boston College and a self-proclaimed word nerd. There is something thrilling about being able to take words and transform them to take an audience to a new place. My mind is overrun with creative ideas, and now I just need a place to put them! Charismatic to the core, I'm a definite people person and a team player, but I also do well working on my own. I am looking to work in an environment that will push me to my limits, challenge my inner thesaurus, and let me work collaboratively with other creative minds.
-<br /><br />
-<a href="https://www.linkedin.com/profile/view?id=78596733&authType=NAME_SEARCH&authToken=Jrui&locale=en_US&trk=tyah2&trkInfo=tarId%3A1400783004436%2Ctas%3Acarissa%20wright%2Cidx%3A1-1-1" target="_blank">LinkedIn</a>
-							
-
-						</p>
 					</div><!-- /ag -->
 			</article>
 			<article>
 					<div class="amp">
 						<h2>
-							AMP Agency
+							AMP Agency. <span class="blue">Bangs and Curls</span>
 						</h2>
-						<div class="clr"></div>						
-							<h3>Lauren Turner. Digital Copywriter.</h3>
-							<p>
-							
-I don't take myself to seriously, but I am serious about my work and I think it shows. I have a strong attention to detail and I pour a bit of myself into everything I do. Take a look at www.turnerlauren.com.
-
-<br /><br />A professor quoted Bill Bernbach to me my freshman year, "It's not how short you make it; it's how you make it short." It took me a while to realize the meaning behind these words but now I try to always incorporate this idea in my writing style. 
-
-<br /><br />Aside from writing, I'm an avid runner and have recently taken up surfing. I'd like to call myself a music buff but tend to fall behind so feel free to make recommendations. My iTunes library could always use an update.
-
-<br /><br />
-<a href="https://www.linkedin.com/pub/lauren-turner/50/8a7/138" target="_blank">LinkedIn</a>
-<br /><br />							
-</p>
-
-<hr />
-
-<h3>Kathryn Fink</h3>
-<p>
-A graduate of Salem State College with a Major in Graphic Design, Kathryn has been working at AMP agency since 2009. Starting off as an intern in Spring of 2009, Kathryn is now a Graphic Designer at AMP. 
-<br /><br />
-<a href="https://www.linkedin.com/profile/view?id=85621051&authType=NAME_SEARCH&authToken=CeEI&locale=en_US&srchid=394445111401212993774&srchindex=1&srchtotal=68&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A394445111401212993774%2CVSRPtargetId%3A85621051%2CVSRPcmpt%3Aprimary" target="_blank">LinkedIn</a>
-
-</p>
+						<img src="http://www.starttank.com/brandathon/assets/i/group_amp.jpg">
+						<div class="clr"></div>	
+						<h3>
+							<a href="https://www.linkedin.com/profile/view?id=85621051&authType=NAME_SEARCH&authToken=CeEI&locale=en_US&srchid=394445111401212993774&srchindex=1&srchtotal=68&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A394445111401212993774%2CVSRPtargetId%3A85621051%2CVSRPcmpt%3Aprimary" target="_blank">
+								Kathryn Fink.</a> (aka "Bangs"). Designer
+						</h3>
+						<h3>
+							<a href="https://www.linkedin.com/pub/lauren-turner/50/8a7/138" target="_blank">
+								Lauren Turner.</a> (aka "Curls"). Digital Copywriter 
+						</h3>					
 					</div><!-- /amp -->
 			</article>
 				<article>
 						<div class="ctp">
 							<h2>
-								Conover Tuttle Pace
+								Conover Tuttle Pace. <span class="blue">Team CTP</span>
 							</h2>
-							<div class="clr"></div>						
-<h3>Jay Courtney. Creative Director.</h3>
-<p>
-To put it briefly, Jay is a good writer because he’s a good listener. He’ll listen to you about your brand, your competition, your marketing philosophy, even your daughter’s soccer game. And for more than 25 years Jay has put these well-honed listening and writing skills to work for a plethora of clients, from local institutions like the Boston Red Sox and Eastern Bank to international brands like the Breeders’ Cup. And don’t worry, Jay does actually talk - although he usually lets his awards do that for him.
-<br /><br />
-Jay has also worked on major brands such as Sam Adams, American Express, New Balance, Visa, Steinway & Sons, MasterCard, Tufts Health Plan and Lahey Clinic.
-<br /><br />
-<a href="http://www.ctpboston.com/p/jay-courtney" target="_blank">Bio</a>  <a href="https://www.linkedin.com/pub/jay-courtney/70/73a/b90" target="_blank">LinkedIn</a>
-<br /><br />
-</p>
-
-<hr />
-
-<h3>Jessica Ruggieri. Senior Art Director</h3>
-<p>
-Being able to visualize great ideas and execute them is a gift, and lucky for us Jessica’s comes in a really, really big box. With a background in art and visual communication, and time spent across the pond in London, Jessica is always surprising us and our clients with breathtaking designs and groundbreaking concepts.
-<br /><br />
-Jessica specializes in art direction, concepting, design, and video direction. She has worked for brands such as Eastern Bank, Southern Comfort, Red Sox, and Progressive Auto Insurance.
-<br /><br />
-<a href="http://www.ctpboston.com/p/jessica-ruggieri#everyone" target="_blank">Bio</a>  <a href="https://www.linkedin.com/in/jessicaruggieri" target="_blank">LinkedIn</a>
-
-
-
-
-							</p>
+							<img src="http://www.starttank.com/brandathon/assets/i/group_ctp.JPG">
+							<div class="clr"></div>	
+							<h3>
+								<a href="https://www.linkedin.com/pub/jay-courtney/70/73a/b90" target="_blank">
+									Jay Courtney.</a> Creative Director
+							</h3>
+							<h3>
+								<a href="https://www.linkedin.com/in/jessicaruggieri" target="_blank">
+									Jessica Ruggieri.</a> Senior Art Director 
+							</h3>
+							
 						</div><!-- /ctp -->
 				</article>
 				<article>
 						<div class="hillholiday">
 							<h2>
-								Hill Holiday, Team 1
+								Hill Holiday, Team 1. <span class="blue">The Jukka Brothers</span>
 							</h2>
+							<img src="http://www.starttank.com/brandathon/assets/i/group_jukka.jpg">
 							<div class="clr"></div>						
-								<h3>Mike Shaughnessy. Art Director.</h3>
-								<h3>Jeff Baxter. SVP, Group Creative Director.</h3>
-								<p>
-Jeff began his creative career as a Copywriter at Ingalls from 1998-2000, before moving on to Arnold and Mullen, finally landing at Hill Holliday in 2007. Jeff is currently an Senior Vice President and Group Creative Director at Hill Holliday, working on such clients as Liberty Mutual and Cadillac.
+								<h3>Mike Shaughnessy. Art Director</h3>
+								<h3>
+									<a href="http://cargocollective.com/jeffbaxter" target="_blank">
+										Jeff Baxter.</a> SVP, Group Creative Director
+								</h3>
+								<br /><br />
+								<hr />
+								
+							<h2>
+								Hill Holiday, Team 2. <span class="blue">Let's Not Test This</span>
+							</h2>
+							<img src="http://www.starttank.com/brandathon/assets/i/group_letsnottest.jpg">
+							<div class="clr"></div>						
 
-<br /><br /><a href="http://cargocollective.com/jeffbaxter" target="_blank">Website</a>
-<br /><br />
-</p>
-<hr />
-<h2>
-	Hill Holiday, Team 2
-</h2>
-<div class="clr"></div>						
-
-<h3>Rick McHugh. VP, Creative Director, Copywriter.</h3>
-<p>
-
-A graduate of Boston University, Rick has been with Hill Holliday since 2002, previously working at Greenberg Seronick O’Leary Partners and Holland Mark. At Hill Holliday, Rick has worked on accounts such as Major League Baseball, VH1, (RED), Dunkin' Donuts, NECCO: Clark Bars, The Proctor and Gamble Company, Cigna Health Insurance, Great Wolf Lodge resorts, Anheuser Busch: Budweiser, Bud Light, Bud Select, MA State Lottery, Harvard Pilgrim Health Care, Marshalls, CVS, The Boston Globe, The Boston Bruins.
-<br /><br />
-<a href="https://www.linkedin.com/pub/rick-mchugh/4/261/77b" target="_blank">LinkedIn</a>
-<br /><br />
-</p>
-<hr />
-
-<h3>Pier Madonia. Art Director.</h3>
-<p>
-Pier is an Art Director at Hill Holliday, previously working as Art Director at Goodby, Silverstein and Partners. At Hill Holliday, Pier’s accounts include Cadillac, Bank of America, and Merrill Lynch.
-
-<br /><br />
-<a href="https://www.linkedin.com/in/madonia" target="_blank">LinkedIn</a>
-</p>
-</div><!-- /hillholiday -->
+							<h3>Craig Johnson. Vice President, Creative Director</h3>
+							<h3>
+								<a href="https://www.linkedin.com/in/madonia" target="_blank">
+									Pier Madonia.</a> Art Director
+							</h3>
+						</div><!-- /hillholiday -->
 				</article>
 				
 				
 				<article>
 						<div class="mmb">
 							<h2>
-								MMB
+								MMB. <span class="blue">J&J</span>
 							</h2>
+							<img src="http://www.starttank.com/brandathon/assets/i/group_jj.png">
 							<div class="clr"></div>						
+<<<<<<< HEAD
 <h3>Jerry Cronin. Partner, Creative Director.</h3>
 
 
@@ -240,34 +182,31 @@ Pier is an Art Director at Hill Holliday, previously working as Art Director at 
 </p>
 
 </div><!-- /mmb -->
+=======
+							<h3>
+								<a href="https://www.linkedin.com/pub/jerry-cronin/5/b01/835" target="_blank">
+									Jerry Cronin.</a> Partner, Creative Director
+							</h3>
+							<h3>
+								Jamie Day. Associate Creative Director
+							</h3>
+						</div><!-- /mmb -->
+>>>>>>> 2030199b15d070bf0b2c4cdd7195ab6bb411bd68
 				</article>
 				
 				
 				<article>
 						<div class="nail">
 							<h2>
-								Nail
+								Nail. <span class="blue">Gift Shop Boys</span>
 							</h2>
+							<img src="http://www.starttank.com/brandathon/assets/i/group_nail.jpg">
 							<div class="clr"></div>	
 							<h3>Bob Troutman. Art Director.</h3>	
-							<h3>Rodrigo De Lima. Copywriter.</h3>				
-							<p>
-I try to come up with good ideas and come up with bad ideas until I get there. I guess the main thing I do is I can usually tell the difference.
-
-<br /><br />I've freelanced in Brazil and the US, most recently at DraftFCB in Chicago.
-<br /><br />Where I’ve learned things:<br />
-VCU Brandcenter, Florida State University, Traveling, NSAC, Innovation Challenge.
-<br /><br />Why my mom is proud of me:<br />
-I was an AAF Most Promising Minority Student, I’ve had some work make it into CMYK and I’ve won some student Addys. Also, I got to play a superhero on Brazil’s equivalent of SNL (Casseta & Planeta) after I won a competition to create a new Brazilian superhero.
-<br /><br />
-Mandatory quirky fact(s) to convince you that I'm interesting:
-<br />I've played Counterstrike and Enemy Territory at a world class level. On the latter I was ranked 4th worldwide as a sniper at one point. Also, I’ve raced in the 24 Hours of Lemons auto racing series (I led my team in penalizations).
-<br /><br />
-<a href="http://www.nail.cc/person/rodrigo-de-lima/" target="_blank">Bio</a>   <a href="https://www.linkedin.com/in/digo3" target="_blank">LinkedIn</a>								
-
-								
-
-							</p>
+							<h3>
+								<a href="https://www.linkedin.com/in/digo3" target="_blank">Rodrigo De Lima.</a> Copywriter.
+							</h3>				
+							
 						</div>
 				</article>
 				<article>

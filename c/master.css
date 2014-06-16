@@ -682,3 +682,5 @@ APPLICATION
 	box-shadow: inset 1px 1px 1px rgba(0,0,0,0.7);
 }
 
+.faq_page .onecolumn ul, 
+.faq_page .onecolumn li {list-style-type: disc; padding: 0 0 0 20px;

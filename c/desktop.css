@@ -33,7 +33,7 @@ img.logo {
 }
 
 .navChild ul {
-	width: 80%;
+	width: 90%;
 }
 
 .navChild ul li {
@@ -41,7 +41,7 @@ img.logo {
 }
 
 .navChild ul li a { 
-	width:140px;
+	width:128px;
 	font-size: 12px;
 	height: 70px;
     line-height: 72px;

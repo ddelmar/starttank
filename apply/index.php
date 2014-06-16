@@ -3,10 +3,8 @@
 
 <div class="apply_left">
 	<h1>Apply to join Start Tank</h1>
-
-<p>Application to Start Tank is now closed for the spring cycle. Please consider applying in July for the fall cycle.</p>
-
-<?php /* include('../includes/applicationform.php'); */ ?>
+<p>Applications close on July 1.</p><p></p>
+<?php include('../includes/applicationform.php'); ?>
 
 	
 </div><!-- /apply_left -->
