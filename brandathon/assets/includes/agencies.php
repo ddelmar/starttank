@@ -1,4 +1,3 @@
-
 <!--
 **********
 AGENCIES
@@ -171,18 +170,6 @@ The list: <br />
 							</h2>
 							<img src="http://www.starttank.com/brandathon/assets/i/group_jj.png">
 							<div class="clr"></div>						
-<<<<<<< HEAD
-<h3>Jerry Cronin. Partner, Creative Director.</h3>
-
-
-<p>Jerry spent over a decade at Wieden & Kennedy where he was Senior Creative Director on brands recognized all over the world for their innovative advertising including Nike, ESPN, Coke and Miller Brewing. Along the way, Jerry won numerous awards that are now displayed in cardboard boxes in his attic. Some of the awards include a Cannes Gold Lion, Ad Age Copywriter of the Year, One Show, The Kelly Award for best national print, and 4 Emmys, etc. After departing Wieden, Jerry made his way back to his hometown, Boston, where he joined his buddies Fred and Jamie at MMB. While at MMB, they’ve won an Emmy, Mercury Award for best national radio commercial, and repeatedly Adweek’s award for best commercial of the month.
-<br /><br />
-<a href="http://www.mmb580.com/our-team/jerry-cronin/" target="_blank">Bio</a>  <a href="https://www.linkedin.com/pub/jerry-cronin/5/b01/835" target="_blank">LinkedIn</a>
-<br /><br />
-</p>
-
-</div><!-- /mmb -->
-=======
 							<h3>
 								<a href="https://www.linkedin.com/pub/jerry-cronin/5/b01/835" target="_blank">
 									Jerry Cronin.</a> Partner, Creative Director
@@ -191,7 +178,6 @@ The list: <br />
 								Jamie Day. Associate Creative Director
 							</h3>
 						</div><!-- /mmb -->
->>>>>>> 2030199b15d070bf0b2c4cdd7195ab6bb411bd68
 				</article>
 				
 				

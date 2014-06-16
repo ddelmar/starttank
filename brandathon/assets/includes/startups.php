@@ -38,6 +38,9 @@ STARTUPS
 			<li class="nineteenth"><a href="#s_detail" >
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/19th.png" />
 			</a></li>
+			<li class="tacklegrab"><a href="#s_detail" >
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/tacklegrab.png" />
+			</a></li>
 			<li class="cocomama"><a href="#s_detail" >
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/cocomama.png" />
 			</a></li>
@@ -150,7 +153,21 @@ STARTUPS
 							</p>
 						</div>
 				</article>
-				
+					<article>
+								<div class="tacklegrab">
+									<h2>
+										Tackle Grab
+									</h2>
+									<div class="clr"></div>						
+									<p>
+
+										Tackle Grab is a subscription-style discovery retail service that 
+										delivers monthly boxes of fishing tackle to its members based on 
+										their preferences, coupled with an e-commerce platform that 
+										offers on-demand products.
+									</p>
+								</div>
+					</article>
 					<article>
 								<div class="nineteenth">
 									<h2>
