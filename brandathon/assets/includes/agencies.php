@@ -239,14 +239,6 @@ Pier is an Art Director at Hill Holliday, previously working as Art Director at 
 <br /><br />
 </p>
 
-<hr />
-
-<h3>Liz Albrecht. Art Director, Designer.</h3>								
-<p>A graduate of Boston University, Liz worked as a Co-founder and Creative Director of Noah Wild Brand. She has been an Art Director at MMB for the past nine years.
-<br /><br />
-<a href="https://www.linkedin.com/in/lizalbrecht" target="_blank">LinkedIn</a>
-<br /><br />
-</p>
 </div><!-- /mmb -->
 				</article>
 				

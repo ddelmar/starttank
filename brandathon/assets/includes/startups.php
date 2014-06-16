@@ -59,6 +59,9 @@ STARTUPS
 			<li class="baretreemedia"><a href="#s_detail" >
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/baretreemedia.png" />
 			</a></li>
+			<li class="spraycake"><a href="#s_detail" >
+				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/spraycake.png" />
+			</a></li>
 		
 		</ul>
 
@@ -303,6 +306,16 @@ Nineteenth Amendment is a fashion marketplace and manufacturing service for emer
 									<div class="clr"></div>					
 									<p>
 Twyxter builds private, online communities that leverage employees' personal interests and values to create a more engaging work experience.
+									</p>
+
+								</div><!-- /19th -->
+						</article>
+						<article>
+							<div class="spraycake">
+									<h2>SprayCake</h2>
+									<div class="clr"></div>					
+									<p>
+A cutting-edge innovation in home baking, Spray Cake makes warm, fresh and delicious cake as easy as a whipped cream-style can of our batter, a pan, and an oven or microwave.
 									</p>
 
 								</div><!-- /19th -->
