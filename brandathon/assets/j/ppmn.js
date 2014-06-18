@@ -154,6 +154,7 @@ $(".community_nav span").click(function(){
 	$(".community > div:not(." + $(this).attr("id") + ")").hide();
 	$(this).addClass("selected");
 	$(this).siblings().removeClass("selected");
+	$(".startup_logos li a").removeClass("selected").addClass("unselected");
 	$(".startup_writeup").html(thiscontent_default);
 });
 

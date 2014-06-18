@@ -6,31 +6,31 @@ JUDGES
 -->
 		<ul class="startup_logos">
 			<li class="benson"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/covvet.png" />
+				<img src="https://delmarsenties.s3.amazonaws.com/starttank/brandathon/judges/benson.jpg" />
 			</a></li>
 			<li class="coombe"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/2ct.png" />
+				<img src="https://delmarsenties.s3.amazonaws.com/starttank/brandathon/judges/coombe.jpg" />
 			</a></li>
 			<li class="volpe"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/project2020.png" />
+				<img src="https://delmarsenties.s3.amazonaws.com/starttank/brandathon/judges/volpe.jpg" />
 			</a></li>
 			<li class="fuller"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/serviceroute.png" />
+				<img src="https://delmarsenties.s3.amazonaws.com/starttank/brandathon/judges/fuller.jpg" />
 			</a></li>
-			<li class="hessen"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/canary.png" />
+			<li class="hessan"><a href="#s_detail" >
+				<img src="https://delmarsenties.s3.amazonaws.com/starttank/brandathon/judges/hessan.jpg" />
 			</a></li>
 			<li class="krauter"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/dashbell.png" />
+				<img src="https://delmarsenties.s3.amazonaws.com/starttank/brandathon/judges/krauter.jpg" />
 			</a></li>
 			<li class="stephans"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/onthebar.png" />
+				<img src="https://delmarsenties.s3.amazonaws.com/starttank/brandathon/judges/stephans.jpg" />
 			</a></li>
 			<li class="vemana"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/onthebar.png" />
+				<img src="https://delmarsenties.s3.amazonaws.com/starttank/brandathon/judges/vemana.jpg" />
 			</a></li>
 			<li class="welch"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/supplet.png" />
+				<img src="https://delmarsenties.s3.amazonaws.com/starttank/brandathon/judges/welch.jpg" />
 			</a></li>
 		</ul>
 
@@ -134,9 +134,9 @@ Steve has been on the boards of several environmental and outdoor organizations,
 
 
 			<article>
-				<div class="hessen">
+				<div class="hessan">
 									<h2>
-										Diane Hessen. <br />
+										Diane Hessan. <br />
 										<span class="grey">Chairman, Communispace</span>
 									</h2>
 									<div class="clr"></div>						
@@ -152,7 +152,7 @@ A summa cum laude graduate of Tufts University, Diane received an MBA from Harva
 <a href="https://www.linkedin.com/pub/diane-hessan/7/845/211" target="_blank">LinkedIn</a>
 							
 									</p>
-								</div><!-- /hessen -->
+								</div><!-- /hessan -->
 						</article>
 								
 
@@ -202,7 +202,7 @@ David holds a baccalaureate degree in Marketing and an MBA from Cornell Universi
 			<article>
 				<div class="vemana">
 									<h2>
-										Pat Vemana. <br />
+										Prat Vemana. <br />
 										<span class="grey">VP of eCommerce, Staples</span>
 									</h2>
 									<div class="clr"></div>						
@@ -249,7 +249,7 @@ Sarah holds an M.B.A. from Stanford’s Graduate School of Business and a B.A. f
 								<div class="judges_default">
 									<h2>Meet the Judges</h2><div class="clr"></div>
 									<p>
-		Nine of Boston's best agency teams have been selected to go head-to-head in this 72-hour challenge, and will be matched up to deliver a full creative campaign to launch one of the Start Tank startups. Meet the men and women behind the Brand-a-thon agency teams.
+Our panel of judges includes some of the most influential executives in the local business ecosystem. It's a diverse group, ranging from LL Bean to Liberty Mutual, with many stops in between. But what they have in common is their business acumen. Our judges can spot good ideas and creative that sells product. Click around and get to know them. 
 									</p>
 								</div>
 						</article>											
@@ -263,7 +263,7 @@ Sarah holds an M.B.A. from Stanford’s Graduate School of Business and a B.A. f
 		<div class="startup_writeup">
 			<h2>Meet the judges</h2><div class="clr"></div>
 			<p>
-				The startups in the Start Tank are diverse as the teams themselves. From community recycling to innovative train and bus travel booking, many companies have already been awarded some high honors. Click around, and see what startups are hiring now.
+				Our panel of judges includes some of the most influential executives in the local business ecosystem. It's a diverse group, ranging from LL Bean to Liberty Mutual, with many stops in between. But what they have in common is their business acumen. Our judges can spot good ideas and creative that sells product. Click around and get to know them.
 			</p>
 			
 		</div><!-- /startup_writeup -->

@@ -812,12 +812,23 @@ h2.community_nav span {cursor: pointer;}
 
 .community .startups li a:hover,
 .community .startups li a.selected,
-.community .judges li a:hover,
-.community .judges li a.selected,
+
 .community .agencies li a:hover,
 .community .agencies li a.selected {
 	border:1px solid #999;
 }
+
+.community .judges li a,
+.community .judges li a.unselected {
+	opacity:.2;
+}
+
+
+.community .judges li a:hover,
+.community .judges li a.selected {
+	opacity:1;
+}
+
 
 .partners { text-align: center; }
 
