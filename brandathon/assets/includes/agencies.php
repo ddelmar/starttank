@@ -36,25 +36,13 @@ AGENCIES
 			<article>
 					<div class="isobar">
 						<h2>
-							Isobar
+							Isobar. <span class="blue">Team Isobar</span>
 						</h2>
+						<img src="/brandathon/assets/i/group_isobar.jpg">
 						<div class="clr"></div>	
-						<h3>Tony Gould. Creative Director. Writer.</h3>					
-						<p>
-I've got experience in both traditional media and digital. I have written, directed, and just generally overseen projects for numerous clients and business categories, including medical diagnostics, hi-tech, retail/consumer, and business to business.
-<br /><br />
-The list: <br />
-							Reebok<br />
-							Burger King<br />
-							Adidas - This one won an award or two.<br />
-							TD Bank <br />
-							The Hartford - Awards galore for this one too. <br />
-							CUNA Mutual Group<br />
-							John Hancock<br />
-							Motorola<br />
-<br /><br />
-<a href="http://tonydgould.carbonmade.com/about" target="_blank">Website</a>  <a href="https://www.linkedin.com/pub/tony-gould/5/395/91" target="_blank">LinkedIn</a>
-						</p>
+						<h3>
+							<a href="https://www.linkedin.com/pub/tony-gould/5/395/91" target="_blank">Tony Gould.</a> Creative Director. Writer.</h3>					
+						
 					</div><!-- /isobar -->
 			</article>
 			

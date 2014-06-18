@@ -38,9 +38,6 @@ STARTUPS
 			<li class="nineteenth"><a href="#s_detail" >
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/19th.png" />
 			</a></li>
-			<li class="tacklegrab"><a href="#s_detail" >
-				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/tacklegrab.png" />
-			</a></li>
 			<li class="cocomama"><a href="#s_detail" >
 				<img src="http://where-spotlight.s3.amazonaws.com/start-tank/startups/cocomama.png" />
 			</a></li>

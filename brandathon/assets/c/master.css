@@ -57,6 +57,8 @@ a:hover { text-decoration:none; color:#0093c2; }
 div {background: #f7f7f7;}
 
 .blue {color:#0093c2;}
+.grey {color:#999;}
+
 
 h1 {
 	font-family: "HelveticaNeue-Ultralight","Helvetica Neue Ultralight","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -737,7 +739,6 @@ width:100%;
 
 /* BLUE */
 
-
 .brandathon section.blue {
 	background-color: #0093c2;
 }
@@ -821,19 +822,27 @@ h2.community_nav span {cursor: pointer;}
 .partners { text-align: center; }
 
 .partners ul {
-width: 200px;
+width: 100%;
+max-width: 700px;
 text-align: center;
 margin: 0 auto;
 }
 
-.partners ul li a img{
+.partners ul li a img.tall{
 	float: left;
 	width: 90px;
 	margin-top: 10px;
 	margin-bottom: 20px;
 }
 
-.partners ul li a img.first{
+.partners ul li a img.wide{
+	float: left;
+	width: 180px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+.partners ul li a img {
 	margin-right: 10px;
 }
 

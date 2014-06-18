@@ -55,8 +55,8 @@
 	  <img src="/i/brandathon_water.png" width="100%" height="auto" class="mobile_tablet_only">
 	
 	<video class="bg1" loop="loop" autoplay="autoplay" >
-	  <source src="/brandathon/assets/v/water.mp4" type="video/mp4">
-		<source src="/brandathon/assets/v/water.webmsd.webm" type="video/webm">
+	  <source src="https://delmarsenties.s3.amazonaws.com/starttank/v/water.mp4" type="video/mp4">
+		<source src="https://delmarsenties.s3.amazonaws.com/starttank/v/water.webmsd.webm" type="video/webm">
 	  <img src="/i/brandathon_water.png" >
 	</video>
 	
@@ -93,9 +93,8 @@ It's a truly unique event - "Mad Men" meets the startups world. Don't miss it.
 <section id="participants" class="white">
 	<div class="container_full">
 	<img src="/i/brandathon_sectionbreak_iphone.jpg" class="top">
-	<h2 class="community_nav"><span id="startups" class="selected">Startups</span><br class="mobileonly"/>&nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp;<span id="agencies">Agencies</span>
-		
-		<!-- &nbsp;&nbsp;<br class="mobileonly"/>and&nbsp;&nbsp;<span id="judges">Judges</span> -->
+	<h2 class="community_nav"><span id="startups" class="selected">Startups</span><br class="mobileonly"/>&nbsp;&nbsp;&nbsp;<span id="agencies">Agencies</span>
+&nbsp;&nbsp;<br class="mobileonly"/>and&nbsp;&nbsp;<span id="judges">Judges</span>
 		</h2>
 	
 <div class="community">
@@ -125,12 +124,27 @@ It's a truly unique event - "Mad Men" meets the startups world. Don't miss it.
 		<ul>
 			<li>
 				<a href="http://starttank.com" target-"_blank" title="Start Tank">
-					<img src="/brandathon/assets/i/logo_starttank.png" class="first"/>
+					<img src="/brandathon/assets/i/logo_starttank.png" class="first tall"/>
 				</a>
 			</li>
 			<li>
 				<a href="http://adclub.org" target-"_blank" title="Ad Club">
-					<img src="/brandathon/assets/i/logo_adclub.png" />
+					<img src="/brandathon/assets/i/logo_adclub.png" class="tall"/>
+				</a>
+			</li>
+			<li>
+				<a href="http://santander.com" target-"_blank" title="Santander">
+					<img src="/brandathon/assets/i/partner_santander.png" class="wide"/>
+				</a>
+			</li>
+			<li>
+				<a href="http://element.cc" target-"_blank" title="Element">
+					<img src="/brandathon/assets/i/partner_element.png" class="tall"/>
+				</a>
+			</li>
+			<li>
+				<a href="http://mammothmedia.net/" target-"_blank" title="Mammoth Media">
+					<img src="/brandathon/assets/i/partner_mammoth.png" class="wide"/>
 				</a>
 			</li>
 </section>
