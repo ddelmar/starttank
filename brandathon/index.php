@@ -92,13 +92,15 @@ It's a truly unique event - "Mad Men" meets the startups world. Don't miss it.
 
 
 
-<section id="press" class="charcoal brandathon_press">
-	<h2 class="white">What people are saying</h2>
+<section id="press" class="blue brandathon_press">
+	<h2>What people are saying</h2>
 	<div class="container_full">
 	<div class="press_left">
 		<ul>
 			<li>
-				<a class="first" href="#">Here's a thing here's a thing here's a thing thing thing</a>
+				<a class="first" href="#">
+					<span class="white">Boston Globe. </span>Here's a thing here's a thing here's a thing thing thing
+				</a>
 			</li>
 			<li>
 				<a href="#">Here's a thing</a>

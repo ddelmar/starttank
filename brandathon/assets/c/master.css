@@ -744,7 +744,7 @@ width:100%;
 	background-color: #0093c2;
 }
 
-.brandathon section.blue * { color: white; background: transparent;}
+.brandathon section.blue * { color: white;}
 .brandathon div.container_800,
 .brandathon div.container_full {
 	margin: 0 auto;
@@ -823,22 +823,29 @@ PRESS
 .press_left, .press_right {float: left; width: 50%; text-align: left;}
 
 .press_left {
-	background: #333;
+	background: #01abe2;
 }
 
+.brandathon section.blue .press_left ul li a,
 .press_left ul li a {
-	padding: 1em;
+	padding: 4%;
 	float:left;
 	display: block;
-	width:100%;
-	border-top: 1px solid #515151;
+	width:92%;
+	border-top: 1px solid #0093c2;
+	color: #aee4f5;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
 }
 
+.brandathon section.blue .press_left ul li a:hover,
 .press_left ul li a:hover {
-	background: #515151;
-	color: #e7e7e7;
+	background: #0093c2;
+	color: white;
 }
 
+.brandathon section.blue .press_left ul li a.first,
 .press_left ul li a.first {
 	border-top:none;
 }
@@ -848,12 +855,13 @@ PRESS
 }
 
 .press_right p {
-	color: #b1b1b1;
+	color: #aee4f5;
 	padding: 1em 0 0 1em;
 	font-size: 1.8em;
 }
 
-.press h2 {
+.brandathon .brandathon_press h2 {
+	color: #333;
 	background: white;
 }
 
@@ -863,6 +871,8 @@ PRESS
 .blue_light {
 	background: #01abe2;
 }
+
+.brandathon_press span.white {color: #fff; background: transparent;}
 
 /*
 **********
