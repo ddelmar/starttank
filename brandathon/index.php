@@ -90,6 +90,37 @@ It's a truly unique event - "Mad Men" meets the startups world. Don't miss it.
 </section>
 
 
+
+
+<section id="press" class="charcoal brandathon_press">
+	<h2 class="white">What people are saying</h2>
+	<div class="container_full">
+	<div class="press_left">
+		<ul>
+			<li>
+				<a class="first" href="#">Here's a thing here's a thing here's a thing thing thing</a>
+			</li>
+			<li>
+				<a href="#">Here's a thing</a>
+			</li>
+			<li>
+				<a href="#">Here's a thing</a>
+			</li>
+			<li>
+				<a href="#">Here's a thing</a>
+			</li>
+		</ul>
+	</div>
+	<div class="press_right">
+		<p>Here's a Tweet</p>
+	</div>
+	<div class="clr"></div>
+</div>
+</section>
+
+
+
+
 <section id="participants" class="white">
 	<div class="container_full">
 	<img src="/i/brandathon_sectionbreak_iphone.jpg" class="top">
@@ -114,7 +145,6 @@ It's a truly unique event - "Mad Men" meets the startups world. Don't miss it.
 </div><!-- /community -->
 </div><!-- /container_full -->
 </section>
-
 
 
 <section class="blue partners">

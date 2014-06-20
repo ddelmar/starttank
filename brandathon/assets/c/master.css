@@ -48,6 +48,8 @@ body {
 	font-size: 81.25%;
 }
 
+.clr {clear: both; width:100%;}
+
 img {border:none;}
 
 a { text-decoration:none; color:#666; }
@@ -70,7 +72,6 @@ h1 {
 }
 
 h2 {
-	color: #87959f;
 	font-family: "HelveticaNeue-Ultralight","Helvetica Neue Ultralight","Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-weight: 100;
 	margin: 1em 0;
@@ -743,7 +744,7 @@ width:100%;
 	background-color: #0093c2;
 }
 
-.brandathon section.blue * { color: white; }
+.brandathon section.blue * { color: white; background: transparent;}
 .brandathon div.container_800,
 .brandathon div.container_full {
 	margin: 0 auto;
@@ -769,7 +770,7 @@ width:100%;
 }
 
 .brandathon section.intro {
-	border-bottom: 1px solid #333;
+	border-bottom: 1px solid #d1d1d1; 
 	z-index:4;
 	top: 75%;
 }
@@ -799,6 +800,75 @@ background-color: #f7f7f7;
 .white h2 {
 color: #333;
 }
+
+
+/*
+**********
+PRESS
+**********
+*/
+
+.brandathon section.charcoal {
+	background-color: #515151;
+}
+
+.brandathon section.brandathon_press {
+	z-index:5;
+}
+
+.brandathon section.brandathon_press div {
+	
+}
+
+.press_left, .press_right {float: left; width: 50%; text-align: left;}
+
+.press_left {
+	background: #333;
+}
+
+.press_left ul li a {
+	padding: 1em;
+	float:left;
+	display: block;
+	width:100%;
+	border-top: 1px solid #515151;
+}
+
+.press_left ul li a:hover {
+	background: #515151;
+	color: #e7e7e7;
+}
+
+.press_left ul li a.first {
+	border-top:none;
+}
+
+.press_right, .press_right * {
+	background: transparent;
+}
+
+.press_right p {
+	color: #b1b1b1;
+	padding: 1em 0 0 1em;
+	font-size: 1.8em;
+}
+
+.press h2 {
+	background: white;
+}
+
+.blue_transparent {
+	background: transparent;
+}
+.blue_light {
+	background: #01abe2;
+}
+
+/*
+**********
+COMMUNITY
+**********
+*/
 
 h2.community_nav span {cursor: pointer;}
 
