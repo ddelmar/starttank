@@ -854,10 +854,15 @@ PRESS
 	background: transparent;
 }
 
+.brandathon section.blue .press_right p,
 .press_right p {
 	color: #aee4f5;
 	padding: 1em 0 0 1em;
-	font-size: 1.8em;
+}
+
+.brandathon section.blue .press_right p.viewmore a,
+.press_right p.viewmore a {
+	color: #aee4f5;
 }
 
 .brandathon .brandathon_press h2 {
@@ -914,27 +919,28 @@ h2.community_nav span {cursor: pointer;}
 
 .partners ul {
 width: 100%;
-max-width: 700px;
 text-align: center;
 margin: 0 auto;
 }
 
 .partners ul li a img.tall{
 	float: left;
-	width: 90px;
+	width: 9%;
+	max-width: 60px;
 	margin-top: 10px;
 	margin-bottom: 20px;
 }
 
 .partners ul li a img.wide{
 	float: left;
-	width: 180px;
-	margin-top: 30px;
+	width: 20%;
+	max-width: 180px;
+	margin-top: 15px;
 	margin-bottom: 20px;
 }
 
 .partners ul li a img {
-	margin-right: 10px;
+	margin-right: 2%;
 }
 
 .brandathon .startup_writeup img {

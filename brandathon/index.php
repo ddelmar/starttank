@@ -98,23 +98,32 @@ It's a truly unique event - "Mad Men" meets the startups world. Don't miss it.
 	<div class="press_left">
 		<ul>
 			<li>
-				<a class="first" href="#">
-					<span class="white">Boston Globe. </span>Here's a thing here's a thing here's a thing thing thing
+				<a class="first" href="http://bostinno.streetwise.co/2014/06/19/paypal-start-tank-ad-club-present-brandathon-brandathon-startups-and-agencies/" target="_blank">
+					<span class="white">BostonInno. </span>The 17 Startups Bidding for Free Creative at the Brand-a-Thon
 				</a>
 			</li>
 			<li>
-				<a href="#">Here's a thing</a>
+				<a href="http://www.bostonglobe.com/business/2014/06/17/this-brand-thon-could-lead-some-beautiful-relationships/y7BKGr9m4ll8EvetFyubxJ/story.html" target="_blank">
+					<span class="white">Boston Globe. </span>This ‘Brand-a-thon’ could lead to some beautiful relationships
+				</a>
 			</li>
 			<li>
-				<a href="#">Here's a thing</a>
-			</li>
-			<li>
-				<a href="#">Here's a thing</a>
+				<a href="http://bostinno.streetwise.co/channels/mad-men-meets-the-startup-world-dont-miss-the-first-ever-brand-a-thon-1/" target="_blank">
+					<span class="white">BostInno. </span>Mad Men Meets the Startup World: Don’t Miss the First-Ever Brand-a-thon!
+				</a>
 			</li>
 		</ul>
 	</div>
 	<div class="press_right">
-		<p>Here's a Tweet</p>
+		<p>
+			<?php require_once('twitter/twitter.php'); ?>
+			<a href="https://twitter.com/search?q=brandathon2014" target="_blank">
+				More
+			</a>
+		</p>
+		<p class="viewmore">
+			
+		</p>
 	</div>
 	<div class="clr"></div>
 </div>
@@ -155,30 +164,36 @@ It's a truly unique event - "Mad Men" meets the startups world. Don't miss it.
 		<h2>Our Partners</h2>
 		<ul>
 			<li>
-				<a href="http://starttank.com" target-"_blank" title="Start Tank">
+				<a href="http://starttank.com" target="_blank" title="Start Tank">
 					<img src="/brandathon/assets/i/logo_starttank.png" class="first tall"/>
 				</a>
 			</li>
 			<li>
-				<a href="http://adclub.org" target-"_blank" title="Ad Club">
+				<a href="http://adclub.org" target="_blank" title="Ad Club">
 					<img src="/brandathon/assets/i/logo_adclub.png" class="tall"/>
 				</a>
 			</li>
 			<li>
-				<a href="http://santander.com" target-"_blank" title="Santander">
+				<a href="http://santander.com" target="_blank" title="Santander">
 					<img src="/brandathon/assets/i/partner_santander.png" class="wide"/>
 				</a>
 			</li>
 			<li>
-				<a href="http://element.cc" target-"_blank" title="Element">
+				<a href="http://element.cc" target="_blank" title="Element">
 					<img src="/brandathon/assets/i/partner_element.png" class="tall"/>
 				</a>
 			</li>
 			<li>
-				<a href="http://mammothmedia.net/" target-"_blank" title="Mammoth Media">
+				<a href="http://services.bostonglobe.com/advertiser/" target="_blank" title="Boston Globe Media">
+					<img src="/brandathon/assets/i/partner_globe.png" class="wide" style="margin-top:35px"/>
+				</a>
+			</li>
+			<li>
+				<a href="http://mammothmedia.net/" target="_blank" title="Mammoth Media">
 					<img src="/brandathon/assets/i/partner_mammoth.png" class="wide"/>
 				</a>
 			</li>
+			
 </section>
 
 

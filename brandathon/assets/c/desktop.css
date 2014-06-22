@@ -559,6 +559,11 @@ width: 60%;
 padding: 20px 0 0 30px;
 }
 
+.brandathon section.blue .press_right p.viewmore a,
+.press_right p.viewmore a {
+	font-size: .8em;
+}
+
 .space {
 	position: absolute;
 	top: 0px;
