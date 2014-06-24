@@ -116,10 +116,21 @@ It's a truly unique event - "Mad Men" meets the startups world. Don't miss it.
 	</div>
 	<div class="press_right">
 		<p>
-			<?php require_once('twitter/twitter.php'); ?>
+			<?php /* 
+			require_once('twitter/twitter.php'); 
+			
 			<a href="https://twitter.com/search?q=brandathon2014" target="_blank">
 				More
 			</a>
+			
+			
+			Instead of doing this correctly, we're doing a fucking iframe.
+			PayPal servers run PHP 5.3. We need 5.4.
+			
+			*/
+			?>
+			<iframe src="http://delmarsenties.com/clients/starttank/twitter/"></iframe>
+
 		</p>
 		<p class="viewmore">
 			
@@ -135,14 +146,11 @@ It's a truly unique event - "Mad Men" meets the startups world. Don't miss it.
 <section id="participants" class="white">
 	<div class="container_full">
 	<img src="/i/brandathon_sectionbreak_iphone.jpg" class="top">
-	<h2 class="community_nav"><span id="startups" class="selected">Startups</span><br class="mobileonly"/>&nbsp;&nbsp;&nbsp;<span id="agencies">Agencies</span>
+	<h2 class="community_nav"><span id="agencies">Agencies and <br class="mobileonly"/>Startups</span>
 &nbsp;&nbsp;<br class="mobileonly"/>and&nbsp;&nbsp;<span id="judges">Judges</span>
 		</h2>
 	
 <div class="community">
-	<div class="startups">
-		<?php require_once('assets/includes/startups.php'); ?>
-	</div>
 	<div class="agencies">
 		<?php require_once('assets/includes/agencies.php'); ?>
 	</div>

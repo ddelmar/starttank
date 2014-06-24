@@ -556,7 +556,11 @@ column-gap:40px;
 
 .brandathon .community .startup_writeup, .community .mentor_writeup {
 width: 60%;
-padding: 20px 0 0 30px;
+padding: 0 0 0 30px;
+}
+
+.brandathon .community .startup_writeup h2 {
+padding: 0 0 40px 0;
 }
 
 .brandathon section.blue .press_right p.viewmore a,

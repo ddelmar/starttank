@@ -816,8 +816,11 @@ PRESS
 	z-index:5;
 }
 
-.brandathon section.brandathon_press div {
-	
+.brandathon section.brandathon_press iframe {
+	border: none;
+	background: transparent;
+	width: 95%;
+	height: 100px;
 }
 
 .press_left, .press_right {float: left; width: 50%; text-align: left;}
@@ -857,7 +860,7 @@ PRESS
 .brandathon section.blue .press_right p,
 .press_right p {
 	color: #aee4f5;
-	padding: 1em 0 0 1em;
+	padding: 0 0 0 1em;
 }
 
 .brandathon section.blue .press_right p.viewmore a,
@@ -888,7 +891,7 @@ COMMUNITY
 h2.community_nav span {cursor: pointer;}
 
 .community > div {display:none;}
-.community > div.startups {display:block;} 			/* page loads with startups visible */
+.community > div.agencies {display:block;} 			/* page loads with startups visible */
 
 .community_nav span { background: transparent; color: #0093c2; padding: 0 5px; }
 .community_nav span.selected { background:#0093c2; color: white; }
@@ -913,6 +916,21 @@ h2.community_nav span {cursor: pointer;}
 .community .judges li a.selected {
 	opacity:1;
 }
+
+.community .agencies h3, .community .startups h3 {
+	display: none;							/* hiding names for now */
+}
+
+.community .startup_header, 
+.community .startup_header * {
+	float: left;
+	display: block;
+}
+
+.community .startup_header { width: 100%; }
+.brandathon .community .startup_header img { width: 25%; }
+.brandathon .community .startup_header .copy { width: 71%; padding: 0 0 0 4%; }
+.brandathon .community .startup_header .copy h2 { padding: 0;; }
 
 
 .partners { text-align: center; }
@@ -946,5 +964,5 @@ margin: 0 auto;
 .brandathon .startup_writeup img {
 	width:100%;
 	max-width: 600px;
-	margin: 0 0 10px 0;
+	margin: 0 0 30px 0;
 }

@@ -375,8 +375,10 @@ COMMUNITY
 .community .startups,
 .community .mentors { margin: 0 auto; }
 
-.community .startup_writeup, .community .mentor_writeup { width: 40%; padding: 20px 0 0 0;}
-
+.community .startup_writeup, .community .mentor_writeup {
+width: 60%;
+padding: 20px 0 0 30px;
+}
 .community iframe {
 	width:480px;
 	height:272px;
@@ -441,6 +443,18 @@ column-count: 2;
 
 .brandathon_fullspread .bg1 {
 	display: none;
+}
+
+.brandathon .community ul {
+width: 33%;
+}
+
+.brandathon .community li a, .brandathon .community li a.unselected {
+float: left;
+display: block;
+width: 49%;
+margin: 0 auto;
+border: 1px solid transparent;
 }
 
 #participants, #what {
