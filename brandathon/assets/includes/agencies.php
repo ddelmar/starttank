@@ -292,9 +292,9 @@ A cutting-edge innovation in home baking, Spray Cake makes warm, fresh and delic
 				</article>
 				<article>
 						<div class="agencies_default">
-							<h2>Participating Agencies</h2><div class="clr"></div>
+							<h2>Agency and Startup Pairs</h2><div class="clr"></div>
 							<p>
-Nine of Boston's best agency teams have been selected to go head-to-head in this 72-hour challenge, and will be matched up to deliver a full creative campaign to launch one of the Start Tank startups. Meet the men and women behind the Brand-a-thon agency teams.
+Last week, nine of Boston's best agency teams each picked out a startup in an auction-style pitch event. They'll be tasked with working with their chosen startups to deliver a full creative campaign. Click around these agency names to see who they picked. 
 							</p>
 						</div>
 				</article>
@@ -306,9 +306,9 @@ Nine of Boston's best agency teams have been selected to go head-to-head in this
 		
 		
 		<div class="startup_writeup">
-			<h2>Participating Agencies</h2><div class="clr"></div>
+			<h2>Agency and Startup Pairs</h2><div class="clr"></div>
 			<p>
-Nine of Boston's best agency teams have been selected to go head-to-head in this 72-hour challenge, and will be matched up to deliver a full creative campaign to launch one of the Start Tank startups. Meet the men and women behind the Brand-a-thon agency teams.
+Last week, nine of Boston's best agency teams each picked out a startup in an auction-style pitch event. They'll be tasked with working with their chosen startups to deliver a full creative campaign. Click around these agency names to see who they picked. 
 			</p>
 			
 		</div><!-- /startup_writeup -->

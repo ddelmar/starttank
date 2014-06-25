@@ -147,13 +147,13 @@ $(".startup_logos a").click(function(){
 	$(".startup_writeup").html(thiscontent);
 });
 
-$(".community_nav span").click(function(){
-	var thiscontent_default = $("." + $(this).attr("id") + " .startup_hiddenCopy ." + $(this).attr("id") + "_default").html();
+$(".community_nav span, .navChild ul li.participants a").click(function(){
+	var thiscontent_default = $("." + $(this).attr("class") + " .startup_hiddenCopy ." + $(this).attr("class") + "_default").html();
 //	var communityGrid= $(this).attr("id");
-	$(".community div." + $(this).attr("id")).show();
-	$(".community > div:not(." + $(this).attr("id") + ")").hide();
-	$(this).addClass("selected");
-	$(this).siblings().removeClass("selected");
+	$(".community div." + $(this).attr("class")).show();
+	$(".community > div:not(." + $(this).attr("class") + ")").hide();
+//	$(this).addClass("selected");
+//	$(this).siblings().removeClass("selected");
 	$(".startup_logos li a").removeClass("selected").addClass("unselected");
 	$(".startup_writeup").html(thiscontent_default);
 });

@@ -23,6 +23,9 @@ JUDGES
 			<li class="krauter"><a href="#s_detail" >
 				<img src="https://delmarsenties.s3.amazonaws.com/starttank/brandathon/judges/krauter.jpg" />
 			</a></li>
+			<li class="rodriguez"><a href="#s_detail" >
+				<img src="https://delmarsenties.s3.amazonaws.com/starttank/brandathon/judges/rodriguez.jpg" />
+			</a></li>
 			<li class="stephans"><a href="#s_detail" >
 				<img src="https://delmarsenties.s3.amazonaws.com/starttank/brandathon/judges/stephans.jpg" />
 			</a></li>
@@ -181,6 +184,43 @@ David holds a baccalaureate degree in Marketing and an MBA from Cornell Universi
 									</p>
 								</div><!-- /krauter -->
 						</article>
+						
+						
+									<article>
+										<div class="rodriguez">
+															<h2>
+																Manny Rodriguez. <br />
+																<span class="grey">Director of Brand, Media, and Sponsorships at Santander</span>
+															</h2>
+															<div class="clr"></div>						
+															<p>
+Manny Rodriguez is an experienced marketing executive with proven success in corporate leadership,
+brand positioning & building, developing and delivering on strategic and tactical marketing plans, 
+business development, product development & launches, marketing communications, advertising, 
+consumer marketing, community marketing, sports and entertainment marketing strategy. 
+In his most recent role, Manny led NRG's corporate sponsorships and helped build a large sponsorship 
+
+<br /><br />portfolio, the biggest in the Energy industry. As part of this role he managed not only the naming rights at Reliant Stadium, as well as a very large portfolio consisting of over 20 properties. In the last 2 years Manny led the signing of 10 large partnerships that positioned the NRG Brand to drive its expansion into the North East and California. <br /><Br/>
+
+Manny was the lead negotiator on partnerships for the NRG solutions team that is responsible for 
+bringing alternative energy solutions to large scale partners like the NFL, MLB, NBA, NASCAR, Formula 1, MLS, entertainment venues and more. Manny led the negotiations of 7 alternative energy partnership 
+deals (Cowboys, Redskins, Jets, Giants, Patriots, Eagles, and 49ers) that created a showcase for NRG’s alternative energy vision.<br /><br />
+
+Manny also has a very extensive background in marketing. Prior to leading NRG's sponsorship portfolio, he was the head of Marketing for Reliant Energy where he served as steward and gatekeeper for the Reliant Brand to drive consistency and lead ongoing renewal and refinement of the Brand’s positioning.<br /><br />
+
+Actively involved in the community and with non –profits Manny currently sits on the board of Ace 
+Fitness, Houston Express and the Leukemia and Lymphoma Society. As a Leukemia survivor he is very passionate about the disease and can be often found doing public/motivational speaking to help raise 
+awareness and funds.
+						<br /><br />
+
+						<a href="https://www.linkedin.com/profile/view?id=7104618" target="_blank">LinkedIn</a>
+							
+															</p>
+														</div><!-- /krauter -->
+												</article>
+												
+												
+												
 
 			<article>
 				<div class="stephans">

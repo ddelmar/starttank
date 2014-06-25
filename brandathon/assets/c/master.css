@@ -857,6 +857,14 @@ PRESS
 	background: transparent;
 }
 
+.brandathon section.blue .press_right,
+.press_right {
+	background-image: url(/i/tw_blue.png);
+	background-size: 9% auto;
+	background-repeat: no-repeat;
+	background-position: 50% 90%;
+}
+
 .brandathon section.blue .press_right p,
 .press_right p {
 	color: #aee4f5;

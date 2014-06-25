@@ -38,8 +38,9 @@
 			<a href="/"><img class="logo" src="http://where-spotlight.s3.amazonaws.com/start-tank/starttank_0093c2.svg"/></a>
 			<ul>
 				<li  class="contact"><a href="http://adclub.org/events?eventId=914378&EventViewMode=EventDetails">Buy tickets</a></li>
-				<li><a href="#participants">Participants</a></li>
-				<li><a href="#what">About Brandathon</a></li>
+				<li class="participants"><a href="#participants" class="agencies">Teams</a></li>
+				<li class="participants"><a href="#participants" class="judges">Judges</a></li>
+				<li><a href="#what">About</a></li>
 			
 				
 			</ul>
@@ -146,8 +147,8 @@ It's a truly unique event - "Mad Men" meets the startups world. Don't miss it.
 <section id="participants" class="white">
 	<div class="container_full">
 	<img src="/i/brandathon_sectionbreak_iphone.jpg" class="top">
-	<h2 class="community_nav"><span id="agencies">Agencies and <br class="mobileonly"/>Startups</span>
-&nbsp;&nbsp;<br class="mobileonly"/>and&nbsp;&nbsp;<span id="judges">Judges</span>
+	<h2 class="community_nav"><span class="agencies">Agencies and <br class="mobileonly"/>Startups</span>
+&nbsp;&nbsp;<br class="mobileonly"/>and&nbsp;&nbsp;<span class="judges">Judges</span>
 		</h2>
 	
 <div class="community">
