@@ -200,7 +200,10 @@ img.logo {
 
 #about1 {
 	height: 700px;
+	/*
+	This is now in the Boston stylesheet, since it's unique to Boston
 	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/home.jpg) ;
+	*/
 	}
 
 #about2, #about4{
@@ -214,7 +217,10 @@ img.logo {
 
 #about3 {
 	height: 400px;
+	/*
+	This is now in the Boston stylesheet, since it's unique to Boston
 	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/jeancharles.jpg) ;
+	*/
 	background-color: #0093c2;
 	}
 	
@@ -238,7 +244,10 @@ img.logo {
 
 #about6 {
 	height: 515px;
+	/*
+	This is now in the Boston stylesheet, since it's unique to Boston
 	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/kitchen.jpg);
+	*/
 	background-size: 100%;
 	background-repeat:no-repeat;
 	background-position: 0% 100%;
@@ -314,12 +323,6 @@ img.logo {
 	/* background-color: #EE303B;		RED */
 	/* background-color: #F7F5C0;			BANANA */
 }
-
-.tables {
-	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/tables.jpg);
-	background-repeat:no-repeat;
-}
-
 .aboutSubContainerR {
 	text-align:left;
 	width: 70%;
@@ -428,7 +431,10 @@ COMMUNITY
 .apply_right {
 	text-align: left;
 	width: 44%;
+		/*
+		This is now in the Boston stylesheet, since it's unique to Boston
 	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/about-img04.png);
+		*/
 	height: 100%;
 	position: fixed;
 	right: 0;

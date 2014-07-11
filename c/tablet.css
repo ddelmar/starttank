@@ -110,14 +110,6 @@ img.logo {
 .header ul {
 }
 
-.header ul li {
-	height:375px;
-	width:100%;
-	display: none;
-	background-color: #98c3c6;
-	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/header.png);
-	background-repeat: no-repeat;
-}
 
 .header ul li.header_home {
 	display:block;
@@ -214,8 +206,7 @@ img.logo {
 
 #about1 {
 	height: 450px;
-	background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/home.jpg) ;
-	}
+}
 
 #about2, #about4{
 	background: #f7f7f7; 

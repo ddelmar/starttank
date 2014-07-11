@@ -33,7 +33,7 @@ Come visit us in Boston, London and Chennai and help accelerate the growth of ou
 <article id="community">
 	
 <div id="about4">
-	<div class="aboutSubContainerL tables">
+	<div class="aboutSubContainerL community">
 		&nbsp;
 	</div><!-- /aboutSubContainerL -->
 	

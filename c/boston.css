@@ -1,0 +1,12 @@
+@media (min-width: 768px) {
+	#about1 { background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/home.jpg) ; }
+	#about3 { background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/jeancharles.jpg) ;
+		background-color: #0093c2;
+		}
+	#about4 .community {
+		background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/tables.jpg);
+		background-repeat:no-repeat;
+		}	
+	#about6 {background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/kitchen.jpg);}
+	.apply_right {background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank/about-img04.png); }
+}

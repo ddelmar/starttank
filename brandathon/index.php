@@ -66,23 +66,23 @@
 </div>
 
 <section id="what" class="intro white">
-	<div class="container_800">
+	<div class="container_800"  style="padding-bottom: 60px;">
 		<img src="/i/brandathon_sectionbreak_moleskine.jpg" class="top moleskine">
 		<h2>What it is</h2>
 		<p>
 When the March 2014 Start Tank was announced, Kathy Kiely, President of The Ad Club, had an inspired thought. Rather than another hack-a-thon, why not create the first ever "Brand-a-thon" to provide startups with the kind of marketing and branding genius typically reserved for the biggest, global brands.
 <br /><br />
-Within days, Kathy recruited some of the top creative teams of leading agencies, and we'll kick off the Brand-a-thon on June 20 where these teams select the most promising Start Tank startups. After a quick briefing, the creative teams will pull a couple all-nighters to put together their best work. On June 26th, we'll have an unique event where they present polished work to panel of renowned judges, all CMO's and CEO's.
+Within days, Kathy recruited some of the top creative teams of leading agencies, and on June 20th we launched the Brand-a-thon, during which these teams selected the most promising Start Tank startups. After a quick briefing, the creative teams pulled a couple all-nighters to put together their best work. On June 26th, we had a unique event where they presented polished work to panel of renowned judges, all CMO's and CEO's.
 </br /><br />
-It's a truly unique event - "Mad Men" meets the startups world. Don't miss it.
+<span style="font-weight: bold">Congratulations go to Nail</span> for winning the Brand-a-thon, with their work for SprayCake. And to Allen & Gerritsen for their work with Supplet. Click around below to learn more about the agency teams and the startups they selected to work with.
 			</p>
 			
-
-		<h2>Buy tickets</h2>
+<?php /*
+		<h2>RSVP</h2>
 		<a href="http://adclub.org/events?eventId=914378&EventViewMode=EventDetails" title="Buy Tickets">
 		<img src="/i/brandathon_sectionbreak_rsvp.jpg" class="bottom">
 		</a>
-		
+*/ ?>		
 	
 		
 		
@@ -99,7 +99,21 @@ It's a truly unique event - "Mad Men" meets the startups world. Don't miss it.
 	<div class="press_left">
 		<ul>
 			<li>
-				<a class="first" href="http://bostinno.streetwise.co/2014/06/19/paypal-start-tank-ad-club-present-brandathon-brandathon-startups-and-agencies/" target="_blank">
+				<a class="first" href="http://venturefizz.com/blog/brand-thon-%E2%80%98mad-men%E2%80%99-meets-startup-world" target="_blank">
+					<span class="white">VentureFizz. </span>BRAND-A-THON: ‘Mad Men’ Meets the Startup World
+				</a>
+			</li>
+			
+			<li>
+				
+			<li>
+				<a  href="http://bostinno.streetwise.co/2014/06/27/2014-paypal-start-tank-and-the-ad-club-brandathon-winners/" target="_blank">
+					<span class="white">BostonInno. </span>The 3 Boston Agencies Whose Imaginative Creative Won Them the Inaugural Brand-a-Thon
+				</a>
+			</li>
+			
+			<li>
+				<a href="http://bostinno.streetwise.co/2014/06/19/paypal-start-tank-ad-club-present-brandathon-brandathon-startups-and-agencies/" target="_blank">
 					<span class="white">BostonInno. </span>The 17 Startups Bidding for Free Creative at the Brand-a-Thon
 				</a>
 			</li>

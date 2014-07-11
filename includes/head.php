@@ -13,6 +13,8 @@
 <link rel="shortcut icon" href="http://where-spotlight.s3.amazonaws.com/start-tank/favicon.png" />
 <link rel="apple-touch-icon" href="https://www.paypalobjects.com/en_US/i/pui/apple-touch-icon.png" />
 <link href="../c/master.css" rel="stylesheet" type="text/css" />
+<link href="../c/boston.css" rel="stylesheet" type="text/css" />
+
 <!--[if IE]>
 <link href="../c/desktop.css" rel="stylesheet" type="text/css" />
 <link href="../c/ie9.css" rel="stylesheet" type="text/css" />
