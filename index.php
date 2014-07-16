@@ -56,7 +56,7 @@ We take a collaborative approach to working, break, dining and gaming spaces. Pa
 <article id="faq">
 <div id="about5">
 	<div class="faqSubContainerR">
-	<h1><a href="/about">About Us. And About You.&raquo;</a></h1>
+	<h2><a href="/about">About Us. And About You.&raquo;</a></h2>
 	</div>
 	
 	<div id="faqContent" class="faqSubContainerL">
