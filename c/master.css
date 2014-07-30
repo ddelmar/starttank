@@ -665,11 +665,21 @@ APPLICATION
 .ss-q-long { width: 100%; }
 .ss-q-short { width: 240px; }
 
+.ss-q-long,
+.ss-q-short {
+line-height:1.5em;
+font-size: 1em;
+color:#919191; 
+font-family: helvetica;
+}
+
 .apply_page form {column-count: 2; }
 
 .ss-form-entry { margin-top:12px; }
 
 #ss-submit {
+	display: none;  /* why twice hidden? Check out form verification on ppmn.js */
+	opacity: 0;
 	float: right;
 	margin: 22px 0 0 0;
 	padding: 8px 16px;

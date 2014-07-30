@@ -422,7 +422,8 @@ COMMUNITY
 	margin: 12px 0;
 }
 
-.apply_left {
+.apply_left,
+.about_left {
 	margin: 100px auto 0 auto;
 	padding: 0 0 0 40px;
 	text-align:left;
@@ -430,7 +431,8 @@ COMMUNITY
 	width:50%;
 }
 
-.apply_right {
+.apply_right,
+.about_right {
 	text-align: left;
 	width: 44%;
 		/*
