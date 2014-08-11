@@ -50,9 +50,7 @@ body {
 
 img {border:none;}
 
-a { text-decoration:none; color:#666; }
-
-a:hover { text-decoration:none; color:#0093c2; }
+a { text-decoration:none; color:#0093c2; }
 
 div {background: #f7f7f7;}
 
@@ -136,6 +134,10 @@ br { margin:1em 0 0 0; }
 	text-align: center;
 	margin: 0 auto;
 }
+
+.navChild a {color: #666;}
+.navChild a:hover {color:#0093c2; }
+
 
 img.logo {
 	height:auto;

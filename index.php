@@ -16,7 +16,7 @@
 Start Tank is an innovation space for the next generation of startups. Entrepreneurs collaborate with each other, work alongside PayPal teams, tap into a vast network of contacts and leverage seasoned entrepreneurs’ expertise to help grow their companies. 
 
 <br /><br />
-Come visit us in Boston, London and Chennai and help accelerate the growth of our local startup ecosystems.
+Come visit us in Boston, <a href="http://london.starttank.com">London</a> and <a href="http://chennai.starttank.com">Chennai</a> and help accelerate the growth of our local startup ecosystems.
 
 </p>
 	</div><!-- /aboutSubContainerR -->
